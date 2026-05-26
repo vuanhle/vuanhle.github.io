@@ -14,7 +14,7 @@ I'm a Ph.D. student in Computer Science at the University of Virginia, advised b
 
 I work on **safe generative AI and AI alignment** - developing learning systems where physical laws, human values, and safety constraints are embedded directly into the generative process rather than enforced afterward. I apply the results of my research across three areas: 
 
-- **Agentic decision-making, control, and robotics:** where agents must plan and act safely under formal guarantees in multi-agent and human-shared environments;
+- **Agentic decision-making:** where agents must plan and act safely under formal guarantees in multi-agent and human-shared environments;
 - **World modeling:** where generative models must learn and simulate physically consistent dynamics for autonomous systems;
 - **AI4Science:** where constrained generation enables AI to address computational problems like materials design, mathematical problem-solving, and so on in a reproducible and reality-aligned manner.
 
