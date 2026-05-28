@@ -12,11 +12,11 @@ I'm a Ph.D. student in Computer Science at the University of Virginia, advised b
 
 ![World Action Models Framework](assets/img/wam.png)
 
-I work on **safe generative AI** - developing learning systems where constraints like physical laws, regulatory standards, and safety properties are embedded directly into the generative process rather than enforced afterward. I apply the results of my research across three areas: 
+I design generative models and apply them to scientific domains. My research is distributed across three main directions:
 
-- **Agentic decision-making:** where agents must plan and act safely under formal guarantees in multi-agent and human-shared environments;
-- **World modeling:** where generative models must learn and simulate physically consistent dynamics for autonomous systems;
-- **AI4Science:** where constrained generation enables AI to address computational problems like materials design, mathematical problem-solving, and so on in a reproducible and reality-aligned manner.
+* **Responsible AI & Constrained Optimization:** I study how to guarantee hard constraint satisfaction within generative architectures. I am also interested in exploring how we can automatically discover and extract these underlying constraints/rules from data using invariant learning.
+* **AI for Healthcare & Drug Design.**
+* **AI for Robotics Control & Trajectory Planning.** 
 
 I’m always happy to connect with researchers working in the same direction.
 
