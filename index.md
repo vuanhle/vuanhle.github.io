@@ -15,8 +15,8 @@ I'm a Ph.D. student in Computer Science at the University of Virginia, advised b
 I design generative models and apply them to scientific domains. My research is distributed across three main directions:
 
 * **Responsible AI & Constrained Optimization:** I study how to guarantee hard constraint satisfaction within generative architectures. I am also interested in exploring how we can automatically discover and extract these underlying constraints/rules from data using invariant learning.
-* **AI for Healthcare & Drug Design.**
-* **AI for Robotics Control & Trajectory Planning.** 
+* **AI-Driven Drug Design and Bio-Modelling.**
+* **AI-Driven Physical Control & Trajectory Planning.** 
 
 I’m always happy to connect with researchers working in the same direction.
 
