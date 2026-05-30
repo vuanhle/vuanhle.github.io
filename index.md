@@ -16,7 +16,6 @@ I design generative models and apply them to scientific domains. My research is 
 
 * **Responsible AI & Constrained Optimization:** I study how to guarantee hard constraint satisfaction within generative architectures. I am also interested in exploring how we can automatically discover and extract these underlying constraints/rules from data using invariant learning.
 * **AI-Driven Drug Design & Bio-Modelling.**
-* **AI-Driven Physical Control & Trajectory Planning.** 
 
 I’m always happy to connect with researchers working in the same direction.
 
