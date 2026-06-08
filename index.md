@@ -17,7 +17,7 @@ I design safe generative models and apply them to scientific domains. My researc
 * **Responsible AI & Constrained Optimization:** I study how to guarantee hard constraint satisfaction within generative architectures. I am also interested in exploring how we can automatically discover and extract these underlying constraints/rules from data using invariant learning.
 * **AI4Science:** I am driven to solve scientific problems in bio-modelling, computational medicine, and agent trajectory / control.
 
-I’m always happy to connect with researchers working in the same direction.
+I look forward to connecting with researchers working in the same direction.
 
 # News
 
