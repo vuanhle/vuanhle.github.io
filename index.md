@@ -12,15 +12,15 @@ I'm a Ph.D. student in Computer Science at the University of Virginia, advised b
 
 ![World Action Models Framework](assets/img/wam.png)
 
-I develop safe and reliable human-agent systems that augment expert reasoning and action while preserving human agency and judgment. My research is organized around these directions:
+I develop reliable human-agent systems that help experts reason and act in high-stakes scientific and technical domains while preserving human agency, enforceable constraints, and accountable deployment.
 
-**Safe Generative and Agentic Systems.** I study how generative models and AI agents can reason, plan, use tools, and produce outputs under explicit safety and reliability requirements. My goal is to build systems that assist humans in complex tasks without replacing human final authority.
+- **Constrained Agent Behavior.** I study how generative and agentic systems can plan, use tools, and produce outputs under explicit behavioral constraints enforced through decoding, verification, repair, monitoring, and human approval mechanisms.
 
-**Constrained Learning, Optimization, and Verification.** I investigate methods for enforcing hard constraints within generative and agentic architectures, including constrained decoding, projection, repair, runtime checking, and verification. I am also interested in learning hidden rules and invariants from data so that AI systems can discover, represent, and respect domain-specific constraints.
+- **Safety Evaluations for Agentic Systems.** I build evaluation frameworks that measure whether AI agents fail safely under realistic deployment conditions, including tool misuse, hidden delegation failures, reward hacking, overconfidence, hallucination, and unsafe autonomy.
 
-**Human-Agent Augmentation for Scientific Discovery.** I apply these methods to scientific and technical domains where decisions require both machine intelligence and human judgment. I am especially interested in AI systems that help experts explore hypotheses, evaluate alternatives, manage uncertainty, and make better final decisions in areas such as AI for science, medicine, and engineering.
+- **Responsible Deployment for AI in Science.** I use scientific discovery as a testbed for reliable agentic AI, focusing on systems that support hypothesis generation, biological design, uncertainty management, and expert decision-making without replacing human final authority.
 
-Overall, my long-term goal is to build reliable, domain-grounded AI systems that expand human capability while remaining accountable, auditable, and aligned with human judgment. I look forward to connecting with researchers working in the same direction.
+Overall, my research aims to create AI systems that are not only capable, but also constrained, measurable, interpretable in failure, and trustworthy enough for deployment in science, medicine, and engineering.
 
 # News
 
