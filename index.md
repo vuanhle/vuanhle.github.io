@@ -35,7 +35,7 @@ I am interested in technical and policy-facing roles at frontier AI labs and res
   </div>
 
   <div style="border: 1px solid #d0d7de; border-radius: 14px; padding: 16px; background: #f6f8fa;">
-    <h3 style="margin-top: 0;">Target toles</h3>
+    <h3 style="margin-top: 0;">Target roles</h3>
     <p><strong>Model policy · Frontier evals · Trustworthy AI</strong></p>
     <p>Roles that connect technical safety research with launch readiness and model behavior governance.</p>
   </div>
