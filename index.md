@@ -12,50 +12,15 @@ I'm a Ph.D. student in Computer Science at the University of Virginia, advised b
 
 ![World Action Models Framework](assets/img/wam.png)
 
-I develop reliable human-agent systems that help experts reason and act in high-stakes scientific and technical domains while preserving human agency, enforceable constraints, and accountable deployment.
+I study assured self-improving AI agents: systems that can learn from experience, use tools, revise their strategies, and improve over time while remaining bounded by formal constraints, measurable safety guarantees, and human-governed deployment processes.
 
-- **Constrained Agent Behavior.** I study how generative and agentic systems can plan, use tools, and produce outputs under explicit behavioral constraints enforced through decoding, verification, repair, monitoring, and human approval mechanisms.
+- **Constrained Self-Evolving Agents.** I investigate how agentic systems can adapt, plan, and modify their behavior without escaping the boundaries of explicit rules, domain constraints, resource limits, and human-defined objectives. My work focuses on mechanisms such as constrained optimization, safe policy updates, verified tool use, runtime monitors, corrective repair, and approval-gated self-improvement loops.
 
-- **Safety Evaluations for Agentic Systems.** I build evaluation frameworks that measure whether AI agents fail safely under realistic deployment conditions, including tool misuse, hidden delegation failures, reward hacking, overconfidence, hallucination, and unsafe autonomy.
+- **Evaluation of Agentic Improvement.** I develop benchmarks and evaluation protocols for determining whether an agent’s apparent improvement reflects genuine capability gain or unsafe optimization behavior. This includes studying failure modes such as benchmark gaming, reward hacking, hidden delegation, self-modification drift, overconfident autonomy, tool misuse, and degradation of safety properties across repeated learning cycles.
 
-- **Responsible Deployment for AI in Science.** I use scientific discovery as a testbed for reliable agentic AI, focusing on systems that support hypothesis generation, biological design, uncertainty management, and expert decision-making without replacing human final authority.
+- **Scientific Agents as a Testbed for Safe AGI Mechanisms.** I use scientific discovery and technical decision-making as controlled environments for studying powerful agentic systems. In domains such as molecular design, biological modeling, physics-constrained learning, and engineering optimization, I examine how agents can generate hypotheses, run tools, interpret uncertainty, and assist expert reasoning while preserving scientific validity and human final authority.
 
-Overall, my research aims to create AI systems that are not only capable, but also constrained, measurable, interpretable in failure, and trustworthy enough for deployment in science, medicine, and engineering.
-
-# Career Interests
-
-I am interested in technical and policy-facing roles at frontier AI labs and responsible AI organizations, especially where **AI safety research**, **model behavior policy**, and **deployment evaluation** meet.
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 14px; margin-top: 18px; margin-bottom: 24px;">
-
-  <div style="border: 1px solid #d0d7de; border-radius: 14px; padding: 16px; background: #f6f8fa;">
-    <h3 style="margin-top: 0;">Primary direction</h3>
-    <p><strong>Agentic AI safety</strong></p>
-    <p>Reliable human-agent systems, constrained behavior, tool-use safety, and responsible deployment.</p>
-  </div>
-
-  <div style="border: 1px solid #d0d7de; border-radius: 14px; padding: 16px; background: #f6f8fa;">
-    <h3 style="margin-top: 0;">Target roles</h3>
-    <p><strong>Model policy · Frontier evals · Trustworthy AI</strong></p>
-    <p>Roles that connect technical safety research with launch readiness and model behavior governance.</p>
-  </div>
-
-  <div style="border: 1px solid #d0d7de; border-radius: 14px; padding: 16px; background: #f6f8fa;">
-    <h3 style="margin-top: 0;">Research Wedge</h3>
-    <p><strong>Evaluation Integrity</strong></p>
-    <p>Benchmark contamination, hidden memorization, scalable oversight, red teaming, and deployment monitoring.</p>
-  </div>
-
-</div>
-
-**Role families I am especially interested in:**  
-`AI safety research` · `Model policy` · `Frontier evaluations` · `Trustworthy AI` · `Preparedness` · `Responsible deployment` · `Human-agent systems`
-
-**Long-term goal:** to help build AI systems that are capable, constrained, measurable, and accountable enough for deployment in high-stakes scientific and technical domains.
-
-# CV
-
-You can view my current CV here: **[Vu-Anh Le CV](assets/files/CV___Vu_Anh_Le.pdf)**.
+Overall, my research aims to build the foundations for AI systems that are not only more autonomous or more capable, but also self-improving in a constrained, auditable, and scientifically accountable way. The long-term goal is to understand how advanced agentic intelligence can be made reliable enough for high-stakes use in science, medicine, engineering, and other domains where uncontrolled autonomy is unacceptable.
 
 # News
 
