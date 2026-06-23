@@ -6,21 +6,21 @@ layout: homepage
 
 Greetings!
 
-I'm a Ph.D. student in Computer Science at the University of Virginia, advised by [Prof. Ferdinando Fioretto](https://nandofioretto.github.io/) as part of the **Responsible AI for Science and Engineering (RAISE)** group. Previously, I earned my BSc in Mathematics from Beloit College.
+I'm a Ph.D. student in Computer Science at the University of Virginia. I am currently supported by the UVA CS Scholar fellowship. Previously, I earned my BSc in Mathematics from Beloit College.
 
 # Research
 
 ![World Action Models Framework](assets/img/wam.png)
 
-I study assured self-improving AI agents: systems that can learn from experience, use tools, revise their strategies, and improve over time while remaining bounded by formal constraints, measurable safety guarantees, and human-governed deployment processes.
+I study safe and reliable self-evolving multimodal AI agents: systems built on language and vision-language models that can learn from interaction, use tools, revise their plans, and improve their behavior over time while remaining bounded by explicit constraints, measurable safety properties, and human-governed deployment processes.
 
-- **Constrained Self-Evolving Agents.** I investigate how agentic systems can adapt, plan, and modify their behavior without escaping the boundaries of explicit rules, domain constraints, resource limits, and human-defined objectives. My work focuses on mechanisms such as constrained optimization, safe policy updates, verified tool use, runtime monitors, corrective repair, and approval-gated self-improvement loops.
+- **Self-Evolving Multimodal Agents.** I investigate how LLM- and multimodal-LLM-based agents can adapt their reasoning, planning, tool use, and interaction strategies without drifting beyond human-defined objectives, domain constraints, or safety boundaries. My work focuses on constrained agent learning, safe policy and prompt adaptation, verified tool use, memory and feedback mechanisms, runtime monitoring, corrective repair, and approval-gated self-improvement loops.
 
-- **Evaluation of Agentic Improvement.** I develop benchmarks and evaluation protocols for determining whether an agent’s apparent improvement reflects genuine capability gain or unsafe optimization behavior. This includes studying failure modes such as benchmark gaming, reward hacking, hidden delegation, self-modification drift, overconfident autonomy, tool misuse, and degradation of safety properties across repeated learning cycles.
+- **Reliable Decision-Making in Language and Multimodal Systems.** I study how agentic models make decisions under uncertainty when processing natural language, visual inputs, structured data, and external tool outputs. This includes developing methods for calibrated reasoning, constraint-aware planning, uncertainty estimation, faithful explanation, retrieval-augmented decision-making, and human-in-the-loop oversight. My goal is to make agents not only more capable, but also more dependable, interpretable, and robust in high-stakes decision contexts.
 
-- **Scientific Agents as a Testbed for Safe AGI Mechanisms.** I use scientific discovery and technical decision-making as controlled environments for studying powerful agentic systems. In domains such as molecular design, biological modeling, physics-constrained learning, and engineering optimization, I examine how agents can generate hypotheses, run tools, interpret uncertainty, and assist expert reasoning while preserving scientific validity and human final authority.
+- **Agent Safety Evaluation.** I develop benchmarks and evaluation protocols for determining whether an agent’s apparent improvement reflects genuine capability gain or unsafe optimization behavior. I am especially interested in failure modes such as benchmark gaming, reward hacking, hidden delegation, self-modification drift, overconfident autonomy, unsafe tool use, multimodal misinterpretation, and degradation of safety properties across repeated learning or deployment cycles.
 
-Overall, my research aims to build the foundations for AI systems that are not only more autonomous or more capable, but also self-improving in a constrained, auditable, and scientifically accountable way. The long-term goal is to understand how advanced agentic intelligence can be made reliable enough for high-stakes use in science, medicine, engineering, and other domains where uncontrolled autonomy is unacceptable.
+Overall, my research aims to build the foundations for multimodal AI agents that are not only more autonomous or capable, but also self-improving in a constrained, auditable, and human-accountable way. The long-term goal is to understand how advanced language-based agentic intelligence can be made reliable enough for high-stakes use in science, medicine, engineering, governance, and other domains where uncontrolled autonomy is unacceptable.
 
 # News
 
