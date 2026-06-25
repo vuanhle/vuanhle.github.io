@@ -6,7 +6,7 @@ layout: homepage
 
 Greetings!
 
-I'm a Ph.D. student in Computer Science at the University of Virginia, advised by [Prof. Ferdinando Fioretto](https://nandofioretto.github.io/) at the Responsible AI for Science and Engineering Lab. I am currently supported by the UVA CS Scholar fellowship. Previously, I earned my BSc in Mathematics from Beloit College.
+I'm a Ph.D. student in Computer Science at the University of Virginia. I am currently supported by the UVA CS Scholar fellowship. Previously, I earned my BSc in Mathematics from Beloit College.
 
 # Research
 
