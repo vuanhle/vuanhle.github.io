@@ -12,15 +12,15 @@ I'm a Ph.D. student in Computer Science at the University of Virginia. I am curr
 
 ![World Action Models Framework](assets/img/wam.png)
 
-I study safe and reliable self-evolving multimodal AI agents: systems built on language and vision-language models that can learn from interaction, use tools, revise their plans, and improve their behavior over time while remaining bounded by explicit constraints, measurable safety properties, and human-governed deployment processes.
+I study safe, reliable self-evolving multimodal AI agents: language and vision-language systems that learn from interaction, use tools, revise plans, and improve behavior while remaining constrained, measurable, and human-governed.
 
-- **Self-Evolving Multimodal Agents.** I investigate how LLM- and multimodal-LLM-based agents can adapt their reasoning, planning, tool use, and interaction strategies without drifting beyond human-defined objectives, domain constraints, or safety boundaries. My work focuses on constrained agent learning, safe policy and prompt adaptation, verified tool use, memory and feedback mechanisms, runtime monitoring, corrective repair, and approval-gated self-improvement loops.
+- **Self-Evolving Multimodal Agents.** I investigate how LLM- and multimodal-LLM agents adapt reasoning, planning, tool use, memory, and feedback without drifting beyond human-defined objectives, domain constraints, or safety boundaries.
 
-- **Reliable Decision-Making in Language and Multimodal Systems.** I study how agentic models make decisions under uncertainty when processing natural language, visual inputs, structured data, and external tool outputs. This includes developing methods for calibrated reasoning, constraint-aware planning, uncertainty estimation, faithful explanation, retrieval-augmented decision-making, and human-in-the-loop oversight. My goal is to make agents not only more capable, but also more dependable, interpretable, and robust in high-stakes decision contexts.
+- **Reliable Decision-Making in Language and Multimodal Systems.** I study calibrated reasoning, constraint-aware planning, uncertainty estimation, faithful explanations, retrieval-augmented decisions, and human oversight for agents using text, vision, structured data, and tools.
 
-- **Agent Safety Evaluation.** I develop benchmarks and evaluation protocols for determining whether an agent’s apparent improvement reflects genuine capability gain or unsafe optimization behavior. I am especially interested in failure modes such as benchmark gaming, reward hacking, hidden delegation, self-modification drift, overconfident autonomy, unsafe tool use, multimodal misinterpretation, and degradation of safety properties across repeated learning or deployment cycles.
+- **Agent Safety Evaluation.** I develop benchmarks and protocols to detect genuine capability gains versus unsafe optimization, including reward hacking, benchmark gaming, unsafe tool use, self-modification drift, hidden delegation, and multimodal misinterpretation.
 
-Overall, my research aims to build the foundations for multimodal AI agents that are not only more autonomous or capable, but also self-improving in a constrained, auditable, and human-accountable way. The long-term goal is to understand how advanced language-based agentic intelligence can be made reliable enough for high-stakes use in science, medicine, engineering, governance, and other domains where uncontrolled autonomy is unacceptable.
+Overall, my work aims to make self-improving multimodal agents constrained, auditable, and accountable for high-stakes domains. Look forward to connecting with people of common interests!
 
 # News
 
