@@ -12,15 +12,15 @@ I'm a Ph.D. student in Computer Science at the University of Virginia. I am curr
 
 ![World Action Models Framework](assets/img/wam.png)
 
-I study safe, reliable self-evolving multimodal AI agents: language and vision-language systems that learn from interaction, use tools, revise plans, and improve behavior while remaining constrained, measurable, and human-governed.
+I think a lot about appropriate infrastructure for safe and reliable deployment of self-evolving multimodal AI agents: language and vision-language systems that learn from interaction, use tools, revise plans, coordinate with other systems, and improve over time while remaining constrained, measurable, auditable, and human-governed.
 
-- **Self-Evolving Multimodal Agents.** I investigate how LLM- and multimodal-LLM agents adapt reasoning, planning, tool use, memory, and feedback without drifting beyond human-defined objectives, domain constraints, or safety boundaries.
+- **Reliable Agentic Infrastructure.** I investigate how LLM- and multimodal-LLM agents can be deployed with robust control layers for planning, tool use, memory, feedback, delegation, and self-improvement without drifting beyond human-defined objectives, domain constraints, or safety boundaries.
 
-- **Reliable Decision-Making in Language and Multimodal Systems.** I study calibrated reasoning, constraint-aware planning, uncertainty estimation, faithful explanations, retrieval-augmented decisions, and human oversight for agents using text, vision, structured data, and tools.
+- **Assured Decision-Making in Multimodal Systems.** I study calibrated reasoning, constraint-aware planning, uncertainty estimation, faithful explanation, retrieval-augmented decision-making, and human oversight for agents operating over text, vision, structured data, and external tools.
 
-- **Agent Safety Evaluation.** I develop benchmarks and protocols to detect genuine capability gains versus unsafe optimization, including reward hacking, benchmark gaming, unsafe tool use, self-modification drift, hidden delegation, and multimodal misinterpretation.
+- **Agent Safety Evaluation and Deployment Assurance.** I develop benchmarks, protocols, and monitoring methods to distinguish genuine capability gains from unsafe optimization, including reward hacking, benchmark gaming, unsafe tool use, self-modification drift, hidden delegation, and multimodal misinterpretation.
 
-Overall, my work aims to make self-improving multimodal agents constrained, auditable, and accountable for high-stakes domains. Look forward to connecting with people of common interests!
+Overall, my work aims to build the assurance layer for self-improving multimodal agents: systems that are not only capable, but also deployable, governable, auditable, and accountable in high-stakes domains. I look forward to connecting with people working on reliable AI agents, safety infrastructure, and responsible deployment.
 
 # News
 
