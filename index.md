@@ -10,7 +10,7 @@ I'm a Ph.D. student in Computer Science at the University of Virginia. I am curr
 
 # Research
 
-![World Action Models Framework](assets/img/wam.png)
+![World Action Models Framework](assets/img/wam.jpg)
 
 I think a lot about appropriate theoretical foundations of reliable machine learning for scientific systems: models that respect constraints, physical structure, uncertainty, and downstream scientific validity. My work focuses on AI4Science, beginning with protein folding and protein design.
 
