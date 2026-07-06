@@ -12,15 +12,15 @@ I'm a Ph.D. student in Computer Science at the University of Virginia. I am curr
 
 ![World Action Models Framework](assets/img/wam.png)
 
-I think a lot about appropriate infrastructure for safe and reliable deployment of self-evolving multimodal AI agents: language and vision-language systems that learn from interaction, use tools, revise plans, coordinate with other systems, and improve over time while remaining constrained, measurable, auditable, and human-governed.
+I think a lot about appropriate theoretical foundations of reliable machine learning for scientific systems: models that respect constraints, physical structure, uncertainty, and downstream scientific validity. My work focuses on AI4Science, beginning with protein folding and protein design.
 
-- **Reliable Agentic Infrastructure.** I investigate how LLM- and multimodal-LLM agents can be deployed with robust control layers for planning, tool use, memory, feedback, delegation, and self-improvement without drifting beyond human-defined objectives, domain constraints, or safety boundaries.
+ - **Theory of Machine Learning.** I study how machine learning models behave when their predictions must satisfy mathematical, physical, or structural constraints. My goal is to understand when learning systems remain valid under uncertainty, constraints, and distribution shift.
 
-- **Assured Decision-Making in Multimodal Systems.** I study calibrated reasoning, constraint-aware planning, uncertainty estimation, faithful explanation, retrieval-augmented decision-making, and human oversight for agents operating over text, vision, structured data, and external tools.
+- **AI for Scientific Modeling.** I develop machine learning methods for scientific problems where structure, geometry, and feasibility are central, especially protein folding and protein design. Protein systems are my first testbed for studying how models can reason over sequence, structure, mutations, and constraints.
 
-- **Agent Safety Evaluation and Deployment Assurance.** I develop benchmarks, protocols, and monitoring methods to distinguish genuine capability gains from unsafe optimization, including reward hacking, benchmark gaming, unsafe tool use, self-modification drift, hidden delegation, and multimodal misinterpretation.
+- **Constrained Generative Models for Science.** I study generative models whose outputs are not only plausible, but also feasible under hard scientific constraints. This includes diffusion-based and optimization-guided methods for generating valid scientific structures and candidates.
 
-Overall, my work aims to build the assurance layer for self-improving multimodal agents: systems that are not only capable, but also deployable, governable, auditable, and accountable in high-stakes domains. I look forward to connecting with people working on reliable AI agents, safety infrastructure, and responsible deployment.
+Overall, my work aims to build reliable machine learning foundations for scientific discovery. I look forward to connecting with researchers working on the same problems!
 
 # News
 
