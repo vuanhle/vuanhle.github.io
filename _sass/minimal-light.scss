@@ -318,22 +318,21 @@ figcaption {
 .logo-strip {
   display: flex;
   flex-wrap: nowrap;
-  gap: 10px;
+  gap: 18px;
   align-items: center;
   justify-content: space-between;
   margin: 12px 0 24px;
-  padding: 10px 12px;
+  padding: 14px 18px;
   border: 1px solid var(--line);
   background: rgba(16, 27, 21, .6);
 }
 
 .logo-strip img {
   display: block;
-  width: auto;
-  max-width: 128px;
-  height: 34px;
+  width: min(22%, 165px);
+  height: 64px;
   object-fit: contain;
-  padding: 3px 6px;
+  padding: 6px 10px;
   background: rgba(255, 255, 255, .96);
   border: 1px solid rgba(139, 214, 168, .2);
 }
@@ -531,14 +530,14 @@ papertitle {
   }
 
   .logo-strip {
-    gap: 7px;
-    padding: 8px;
+    gap: 8px;
+    padding: 8px 10px;
   }
 
   .logo-strip img {
-    max-width: 72px;
-    height: 28px;
-    padding: 2px 4px;
+    width: min(23%, 92px);
+    height: 38px;
+    padding: 3px 5px;
   }
 
   .experience-item img {
