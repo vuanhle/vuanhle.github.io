@@ -5,8 +5,8 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
 ---
 
 <figure class="hero-figure">
-  <img src="/assets/img/ship-frontier.webp" alt="Illustrated ships sailing through a field of stars above Earth" loading="eager" decoding="async">
-  <figcaption>Research, capital, and deep tech: navigating beyond the visible frontier.</figcaption>
+  <img src="/assets/img/cubesats-frontier.webp" alt="Two CubeSats orbiting above Earth" width="1280" height="960" loading="eager" decoding="async">
+  <figcaption>Research, capital, and deep tech: sensing beyond the visible frontier.</figcaption>
 </figure>
 
 <section class="intro-panel">
