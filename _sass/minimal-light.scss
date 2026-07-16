@@ -209,6 +209,10 @@ header h1 {
   margin: 20px 0 10px;
 }
 
+.social-icons + br {
+  display: none;
+}
+
 .social-icons a {
   display: inline-grid;
   width: 34px;
@@ -228,7 +232,7 @@ header h1 {
 .site-nav {
   display: grid;
   gap: 13px;
-  margin-top: 34px;
+  margin-top: 22px;
   padding-top: 24px;
   border-top: 1px solid var(--line);
 }
