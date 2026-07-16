@@ -290,6 +290,34 @@ figcaption {
   margin-bottom: 20px;
 }
 
+.recruiting-callout {
+  display: grid;
+  grid-template-columns: 34px 1fr;
+  gap: 14px;
+  align-items: center;
+  margin: 0 0 22px;
+  padding: 14px 16px;
+  border: 1px solid var(--green);
+  background: rgba(139, 214, 168, .1);
+}
+
+.recruiting-callout span {
+  display: grid;
+  width: 34px;
+  height: 34px;
+  place-items: center;
+  color: var(--black);
+  background: var(--green);
+  font: 800 19px/1 var(--font-display);
+}
+
+.recruiting-callout p {
+  margin: 0;
+  color: var(--text);
+  font-weight: 650;
+  line-height: 1.45;
+}
+
 .lead {
   color: var(--text);
   font-size: 18px;
@@ -324,6 +352,18 @@ figcaption {
 .button-link:hover {
   border-color: var(--green);
   background: var(--panel-2);
+}
+
+.button-link-strong {
+  border-color: var(--green);
+  color: var(--black);
+  background: var(--green);
+  font-weight: 750;
+}
+
+.button-link-strong:hover {
+  color: var(--text);
+  background: var(--green-deep);
 }
 
 .logo-strip {

@@ -12,6 +12,10 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
 <section class="intro-panel">
   <p class="eyebrow">Research, Capital, and Deep Tech</p>
   <h1>Building toward the frontier where scientific intelligence becomes investable infrastructure</h1>
+  <div class="recruiting-callout">
+    <span aria-hidden="true">!</span>
+    <p>Seeking venture fellow, investment intern, or technical-diligence opportunities for Fall 2026 and Spring 2027. Available remotely for 15-20 hours per week.</p>
+  </div>
   <p class="lead">I am Anh, a Ph.D. student in Computer Science at the University of Virginia and a researcher focused on reliable machine learning for scientific systems. My long-term positioning is to become a deep-tech investor-builder: someone who can understand frontier research, evaluate technical defensibility, and help turn scientific breakthroughs into enduring companies.</p>
   <p>I am targeting roles across venture capital, private equity, and deep-tech thematic investing, where I can contribute technical due diligence, market research, and insights from my software/AIML background.</p>
   <div class="cta-row">
@@ -19,6 +23,8 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
     <a class="button-link" href="/research/">Research</a>
     <a class="button-link" href="/venture-capital/">Venture Capital</a>
     <a class="button-link" href="/cv/">CV</a>
+    <a class="button-link button-link-strong" href="/assets/img/CV.pdf">Download Resume</a>
+    <a class="button-link button-link-strong" href="mailto:mcu7uh@virginia.edu">Contact Me</a>
   </div>
 </section>
 
