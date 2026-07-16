@@ -5,7 +5,7 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
 ---
 
 <figure class="hero-figure">
-  <img src="/assets/img/ship-frontier.png" alt="Illustrated ships sailing through a field of stars above Earth" loading="eager">
+  <img src="/assets/img/ship-frontier.webp" alt="Illustrated ships sailing through a field of stars above Earth" loading="eager" decoding="async">
   <figcaption>Research, capital, and deep tech: navigating beyond the visible frontier.</figcaption>
 </figure>
 
@@ -23,10 +23,10 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
 </section>
 
 <div class="logo-strip" aria-label="Affiliations and experience">
-  <img src="/assets/img/logo-uva.png" alt="University of Virginia logo">
-  <img src="/assets/img/logo-vast.png" alt="Vietnam Academy of Science and Technology logo">
-  <img src="/assets/img/logo-antler.png" alt="Antler logo">
-  <img src="/assets/img/logo-mit.png" alt="MIT logo">
+  <img src="/assets/img/logo-uva.png" alt="University of Virginia logo" loading="lazy" decoding="async">
+  <img src="/assets/img/logo-vast.png" alt="Vietnam Academy of Science and Technology logo" loading="lazy" decoding="async">
+  <img src="/assets/img/logo-antler.png" alt="Antler logo" loading="lazy" decoding="async">
+  <img src="/assets/img/logo-mit.png" alt="MIT logo" loading="lazy" decoding="async">
 </div>
 
 <section class="signal-grid">
@@ -50,7 +50,7 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
 <section>
   <h2>Featured Projects</h2>
   <div class="project-card">
-    <img class="centered-image project-image" src="/assets/img/rnf-project.png" alt="RN-F residual-noise fingerprinting project visual">
+    <img class="centered-image project-image" src="/assets/img/rnf-project.png" alt="RN-F residual-noise fingerprinting project visual" loading="lazy" decoding="async">
     <div>
       <p class="eyebrow">LLM Reliability / ICML 2025</p>
       <h3>RN-F: A Novel Approach for Mitigating Contaminated Data in Large Language Models</h3>
@@ -59,7 +59,7 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
     </div>
   </div>
   <div class="project-card">
-    <img class="centered-image project-image" src="/assets/img/subsidence-project.png" alt="Satellite intelligence project visual for urban subsidence risk">
+    <img class="centered-image project-image" src="/assets/img/subsidence-project.webp" alt="Satellite intelligence project visual for urban subsidence risk" loading="lazy" decoding="async">
     <div>
       <p class="eyebrow">Remote Sensing / Risk Intelligence</p>
       <h3>Satellite Intelligence for Urban Subsidence Risk</h3>
@@ -75,7 +75,7 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
   <p>I am shaping my career around roles that combine research depth with capital allocation: technical diligence, AI investment research, startup evaluation, and deep-tech company formation.</p>
   <div class="experience-list">
     <article class="experience-item">
-      <img src="/assets/img/logo-uva.png" alt="University of Virginia logo">
+      <img src="/assets/img/logo-uva.png" alt="University of Virginia logo" loading="lazy" decoding="async">
       <div>
         <p class="eyebrow">Jul 2026 - Present</p>
         <h3>Doctoral Student, University of Virginia</h3>
@@ -83,7 +83,7 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
       </div>
     </article>
     <article class="experience-item">
-      <img src="/assets/img/logo-vast.png" alt="Vietnam Academy of Science and Technology logo">
+      <img src="/assets/img/logo-vast.png" alt="Vietnam Academy of Science and Technology logo" loading="lazy" decoding="async">
       <div>
         <p class="eyebrow">May 2025 - May 2026</p>
         <h3>Researcher + Technical Consultant, Vietnam Academy of Science and Technology</h3>
@@ -91,7 +91,7 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
       </div>
     </article>
     <article class="experience-item">
-      <img src="/assets/img/logo-antler.png" alt="Antler logo">
+      <img src="/assets/img/logo-antler.png" alt="Antler logo" loading="lazy" decoding="async">
       <div>
         <p class="eyebrow">Jun 2025 - Aug 2025</p>
         <h3>Resident, VN8 Cohort, Antler</h3>
@@ -99,7 +99,7 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
       </div>
     </article>
     <article class="experience-item">
-      <img src="/assets/img/logo-mit.png" alt="MIT logo">
+      <img src="/assets/img/logo-mit.png" alt="MIT logo" loading="lazy" decoding="async">
       <div>
         <p class="eyebrow">Jun 2024 - Aug 2024</p>
         <h3>MIT Summer Research Program Intern, Massachusetts Institute of Technology</h3>
@@ -141,7 +141,7 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
   <h2>Visitor Map</h2>
   <div class="mapmyvisitors-card">
     <div class="mapmyvisitors-widget">
-      <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=JNgQt1dBsAC9EVMhpT0Ww3h-vt6niVfSAstxyuGkBSs&cl=ffffff&w=a"></script>
+      <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=JNgQt1dBsAC9EVMhpT0Ww3h-vt6niVfSAstxyuGkBSs&cl=ffffff&w=a" defer></script>
     </div>
     <p class="mapmyvisitors-link"><a href="https://mapmyvisitors.com/web/1c6ls">View website statistics</a></p>
   </div>

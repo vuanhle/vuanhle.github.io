@@ -8,7 +8,7 @@ permalink: /featured-projects/
 # Featured Projects
 
 <div class="project-card project-card-large">
-  <img class="centered-image project-image" src="/assets/img/rnf-project.png" alt="RN-F residual-noise fingerprinting visual">
+  <img class="centered-image project-image" src="/assets/img/rnf-project.png" alt="RN-F residual-noise fingerprinting visual" loading="lazy" decoding="async">
   <div>
     <p class="eyebrow">LLM Reliability</p>
     <h2>RN-F: A Novel Approach for Mitigating Contaminated Data in Large Language Models</h2>
@@ -25,7 +25,7 @@ permalink: /featured-projects/
 </div>
 
 <div class="project-card project-card-large">
-  <img class="centered-image project-image" src="/assets/img/subsidence-project.png" alt="Satellite intelligence for urban subsidence risk visual">
+  <img class="centered-image project-image" src="/assets/img/subsidence-project.webp" alt="Satellite intelligence for urban subsidence risk visual" loading="lazy" decoding="async">
   <div>
     <p class="eyebrow">Satellite Intelligence</p>
     <h2>Satellite Intelligence for Urban Subsidence Risk</h2>

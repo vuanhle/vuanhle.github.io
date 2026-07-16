@@ -31,7 +31,7 @@ I like companies where technical depth creates defensibility: proprietary data l
 
 <div class="linkedin-list">
   <article class="linkedin-item">
-    <img src="/assets/img/logo-uva.png" alt="University of Virginia logo">
+    <img src="/assets/img/logo-uva.png" alt="University of Virginia logo" loading="lazy" decoding="async">
     <div>
       <h3>Doctoral Student</h3>
       <p class="muted-line">University of Virginia · Full-time</p>
@@ -41,7 +41,7 @@ I like companies where technical depth creates defensibility: proprietary data l
     </div>
   </article>
   <article class="linkedin-item">
-    <img src="/assets/img/logo-vast.png" alt="Vietnam Academy of Science and Technology logo">
+    <img src="/assets/img/logo-vast.png" alt="Vietnam Academy of Science and Technology logo" loading="lazy" decoding="async">
     <div>
       <h3>Researcher + Technical Consultant</h3>
       <p class="muted-line">Vietnam Academy of Science and Technology</p>
@@ -51,7 +51,7 @@ I like companies where technical depth creates defensibility: proprietary data l
     </div>
   </article>
   <article class="linkedin-item">
-    <img src="/assets/img/logo-antler.png" alt="Antler logo">
+    <img src="/assets/img/logo-antler.png" alt="Antler logo" loading="lazy" decoding="async">
     <div>
       <h3>Resident, VN8 Cohort</h3>
       <p class="muted-line">Antler</p>
@@ -61,7 +61,7 @@ I like companies where technical depth creates defensibility: proprietary data l
     </div>
   </article>
   <article class="linkedin-item">
-    <img src="/assets/img/logo-mit.png" alt="MIT logo">
+    <img src="/assets/img/logo-mit.png" alt="MIT logo" loading="lazy" decoding="async">
     <div>
       <h3>MIT Summer Research Program Intern</h3>
       <p class="muted-line">Massachusetts Institute of Technology · Internship</p>

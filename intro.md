@@ -20,7 +20,7 @@ Today, I am building toward a career that connects three worlds:
 I want to work with research labs, founders, and investors who care about durable progress: AI systems that can be trusted, scientific tools that expand what people can build, and companies whose technical depth compounds over time.
 
 <figure>
-  <img class="centered-image intro-image" src="/assets/img/intro-farming.png" alt="Small farm garden beside homes">
+  <img class="centered-image intro-image" src="/assets/img/intro-farming.webp" alt="Small farm garden beside homes" loading="lazy" decoding="async">
 </figure>
 
 ## Long-Term Positioning
@@ -31,27 +31,27 @@ The throughline is simple: start from real constraints, learn the science deeply
 
 <div class="frontier-gallery">
   <figure>
-    <img src="/assets/img/frontier-fusion-reactor.png" alt="Fusion reactor facility">
+    <img src="/assets/img/frontier-fusion-reactor.webp" alt="Fusion reactor facility" loading="lazy" decoding="async">
     <figcaption>Fusion</figcaption>
   </figure>
   <figure>
-    <img src="/assets/img/frontier-asml-machine.png" alt="ASML lithography machine">
+    <img src="/assets/img/frontier-asml-machine.webp" alt="ASML lithography machine" loading="lazy" decoding="async">
     <figcaption>Semiconductors</figcaption>
   </figure>
   <figure>
-    <img src="/assets/img/frontier-ag-drone.png" alt="Agricultural drone over a field">
+    <img src="/assets/img/frontier-ag-drone.webp" alt="Agricultural drone over a field" loading="lazy" decoding="async">
     <figcaption>AgTech</figcaption>
   </figure>
   <figure>
-    <img src="/assets/img/frontier-dune-ship.png" alt="Dune-style spacecraft above a planet">
+    <img src="/assets/img/frontier-dune-ship.webp" alt="Dune-style spacecraft above a planet" loading="lazy" decoding="async">
     <figcaption>Space</figcaption>
   </figure>
   <figure>
-    <img src="/assets/img/frontier-data-compute-ai.png" alt="Software development windows on a desktop">
+    <img src="/assets/img/frontier-data-compute-ai.webp" alt="Software development windows on a desktop" loading="lazy" decoding="async">
     <figcaption>Data, Compute, &amp; AI</figcaption>
   </figure>
   <figure>
-    <img src="/assets/img/frontier-manufacturing.png" alt="Advanced manufacturing facility with robotic arms">
+    <img src="/assets/img/frontier-manufacturing.webp" alt="Advanced manufacturing facility with robotic arms" loading="lazy" decoding="async">
     <figcaption>Manufacturing</figcaption>
   </figure>
 </div>

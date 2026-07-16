@@ -9,4 +9,4 @@ permalink: /cv/
 
 <p class="lead">My current CV is embedded below. You can also <a href="/assets/img/CV.pdf">open it directly</a>.</p>
 
-<iframe class="cv-frame" src="/assets/img/CV.pdf" title="Vu-Anh Le CV"></iframe>
+<iframe class="cv-frame" src="/assets/img/CV.pdf" title="Vu-Anh Le CV" loading="lazy"></iframe>
