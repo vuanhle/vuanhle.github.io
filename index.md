@@ -138,9 +138,10 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
 </section>
 
 <section>
-  <h2>Historical Visitor Map</h2>
-  <div class="visitor-map-card">
-    <div class="visitor-map" role="img" aria-label="Stylized historical visitor map">
+  <h2>Global Map & IP Tracker</h2>
+  <div class="global-map-card">
+    <div class="global-map" role="img" aria-label="World map with highlighted regions">
+      <img src="/assets/img/world-map.svg" alt="World map">
       <span class="pin pin-us"></span>
       <span class="pin pin-eu"></span>
       <span class="pin pin-vn"></span>
@@ -148,14 +149,20 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
       <span class="pin pin-jp"></span>
       <span class="pin pin-in"></span>
     </div>
-    <div class="visitor-map-meta">
-      <p class="eyebrow">Visitor Geography</p>
-      <p>Historical visitor footprint across research, capital, and deep-tech audiences.</p>
-      <div class="visitor-stats">
+    <div class="global-map-meta">
+      <p class="eyebrow">IP Tracker</p>
+      <p>Browser-side public IP and coarse geolocation lookup for the current session.</p>
+      <div class="ip-readout">
+        <div><span>IP</span><strong id="ip-address">Loading...</strong></div>
+        <div><span>Location</span><strong id="ip-location">Loading...</strong></div>
+        <div><span>Network</span><strong id="ip-network">Loading...</strong></div>
+      </div>
+      <div class="global-stats">
         <span>North America</span>
         <span>Europe</span>
         <span>Asia-Pacific</span>
       </div>
     </div>
   </div>
+  <script src="/assets/js/ip-tracker.js" defer></script>
 </section>
