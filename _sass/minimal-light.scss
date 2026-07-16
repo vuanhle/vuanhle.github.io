@@ -393,8 +393,36 @@ figcaption {
 
 .project-image {
   width: 100%;
+  max-height: 460px;
+  object-fit: contain;
   border: 1px solid var(--green-deep);
   background: var(--black);
+}
+
+.metric-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin: 16px 0 18px;
+}
+
+.metric-grid div {
+  padding: 12px;
+  border: 1px solid var(--line);
+  background: rgba(5, 8, 6, .58);
+}
+
+.metric-grid span {
+  display: block;
+  margin-bottom: 5px;
+  color: var(--green);
+  font: 800 18px/1 var(--font-display);
+}
+
+.metric-grid p {
+  margin: 0;
+  font-size: 12px;
+  line-height: 1.4;
 }
 
 .centered-image {
@@ -453,6 +481,57 @@ figcaption {
 
 .experience-item p:last-child {
   margin-bottom: 0;
+}
+
+.linkedin-list,
+.skill-feed {
+  display: grid;
+  gap: 0;
+  margin-top: 16px;
+  border-top: 1px solid var(--line);
+}
+
+.linkedin-item {
+  display: grid;
+  grid-template-columns: 72px 1fr;
+  gap: 16px;
+  padding: 18px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.linkedin-item img {
+  width: 56px;
+  height: 56px;
+  object-fit: contain;
+  padding: 7px;
+  background: var(--white);
+  border: 1px solid rgba(139, 214, 168, .25);
+}
+
+.linkedin-item h3,
+.skill-feed h3 {
+  margin-bottom: 4px;
+}
+
+.muted-line {
+  margin-bottom: 2px;
+  color: var(--faint);
+  font-size: 14px;
+}
+
+.skill-note {
+  margin-top: 8px;
+  color: var(--text);
+  font-weight: 650;
+}
+
+.skill-feed article {
+  padding: 16px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.skill-feed p {
+  margin: 0;
 }
 
 .cv-frame {
@@ -530,7 +609,9 @@ papertitle {
   .skill-columns,
   .project-card,
   .pub-row,
-  .experience-item {
+  .experience-item,
+  .linkedin-item,
+  .metric-grid {
     grid-template-columns: 1fr;
   }
 

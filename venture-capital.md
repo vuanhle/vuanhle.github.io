@@ -26,3 +26,63 @@ permalink: /venture-capital/
 ## Diligence Lens
 
 I like companies where technical depth creates defensibility: proprietary data loops, hard-to-replicate research insight, strong engineering velocity, and a clear wedge into a painful market. My research background helps me read the technical substrate; my venture interest pushes me to ask whether that substrate can become a business.
+
+## Experience
+
+<div class="linkedin-list">
+  <article class="linkedin-item">
+    <img src="/assets/img/logo-uva.png" alt="University of Virginia logo">
+    <div>
+      <h3>Doctoral Student</h3>
+      <p class="muted-line">University of Virginia · Full-time</p>
+      <p class="muted-line">Jul 2026 - Present · Charlottesville, Virginia</p>
+      <p>Conducting research in machine learning, AI for science, and scientific computing, with an emphasis on constrained generative models and reliable decision-making in technically demanding systems.</p>
+      <p class="skill-note">Performance Benchmarking, Scientific Computing and +9 skills</p>
+    </div>
+  </article>
+  <article class="linkedin-item">
+    <img src="/assets/img/logo-vast.png" alt="Vietnam Academy of Science and Technology logo">
+    <div>
+      <h3>Researcher + Technical Consultant</h3>
+      <p class="muted-line">Vietnam Academy of Science and Technology</p>
+      <p class="muted-line">May 2025 - May 2026 · Hanoi Capital Region</p>
+      <p>Prepared technical reports for national projects and policy-related work, co-developed RN-F for LLM contamination detection, and applied machine-learning methods to land-subsidence modeling in Southern Vietnam.</p>
+      <p class="skill-note">Due Diligence, Technology Evaluation, Scientific Computing and +14 skills</p>
+    </div>
+  </article>
+  <article class="linkedin-item">
+    <img src="/assets/img/logo-antler.png" alt="Antler logo">
+    <div>
+      <h3>Resident, VN8 Cohort</h3>
+      <p class="muted-line">Antler</p>
+      <p class="muted-line">Jun 2025 - Aug 2025 · Ho Chi Minh City Metropolitan Area</p>
+      <p>Evaluated early-stage concepts through customer, market, and competitive analysis while developing familiarity with venture fundraising, founder-market fit, and early-stage company formation.</p>
+      <p class="skill-note">Venture Capital, Investments, Competitive Analysis and +6 skills</p>
+    </div>
+  </article>
+  <article class="linkedin-item">
+    <img src="/assets/img/logo-mit.png" alt="MIT logo">
+    <div>
+      <h3>MIT Summer Research Program Intern</h3>
+      <p class="muted-line">Massachusetts Institute of Technology · Internship</p>
+      <p class="muted-line">Jun 2024 - Aug 2024 · Boston, Massachusetts</p>
+      <p>Developed quantitative models and extended PyLENM, an open-source environmental informatics package, to support analysis for a nuclear-waste disposal site.</p>
+      <p class="skill-note">Performance Benchmarking, Scientific Computing and +8 skills</p>
+    </div>
+  </article>
+</div>
+
+## Skillset
+
+<div class="skill-feed">
+  <article><h3>Due Diligence</h3><p>2 experiences at Vietnam Academy of Science and Technology and 1 other company</p></article>
+  <article><h3>Venture Capital</h3><p>Resident, VN8 Cohort at Antler</p></article>
+  <article><h3>Technology Evaluation</h3><p>2 experiences at Vietnam Academy of Science and Technology and 1 other company</p></article>
+  <article><h3>Machine Learning</h3><p>3 experiences at University of Virginia and 2 other companies; Satellite Intelligence for Urban Subsidence Risk</p></article>
+  <article><h3>Generative AI</h3><p>2 experiences at University of Virginia and 1 other company; RN-F: Detecting Hidden Data Contamination in LLMs</p></article>
+  <article><h3>Large Language Models (LLM)</h3><p>2 experiences at University of Virginia and 1 other company; RN-F project</p></article>
+  <article><h3>Risk Assessment</h3><p>3 experiences at Vietnam Academy of Science and Technology and 2 other companies; Satellite Intelligence project</p></article>
+  <article><h3>Market Research</h3><p>Resident, VN8 Cohort at Antler</p></article>
+  <article><h3>Quantitative Analytics</h3><p>3 experiences at University of Virginia and 2 other companies</p></article>
+  <article><h3>Environmental Informatics</h3><p>MIT Summer Research Program Intern; Satellite Intelligence for Urban Subsidence Risk</p></article>
+</div>

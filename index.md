@@ -50,7 +50,7 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
 <section>
   <h2>Featured Projects</h2>
   <div class="project-card">
-    <img class="centered-image project-image" src="/assets/img/rnf-project.svg" alt="RN-F residual-noise fingerprinting project visual">
+    <img class="centered-image project-image" src="/assets/img/rnf-project.png" alt="RN-F residual-noise fingerprinting project visual">
     <div>
       <p class="eyebrow">LLM Reliability / ICML 2025</p>
       <h3>RN-F: A Novel Approach for Mitigating Contaminated Data in Large Language Models</h3>
@@ -59,7 +59,7 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
     </div>
   </div>
   <div class="project-card">
-    <img class="centered-image project-image" src="/assets/img/subsidence-project.svg" alt="Satellite intelligence project visual for urban subsidence risk">
+    <img class="centered-image project-image" src="/assets/img/subsidence-project.png" alt="Satellite intelligence project visual for urban subsidence risk">
     <div>
       <p class="eyebrow">Remote Sensing / Risk Intelligence</p>
       <h3>Satellite Intelligence for Urban Subsidence Risk</h3>

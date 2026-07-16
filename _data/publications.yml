@@ -5,7 +5,7 @@ main:
     conference: "Workshop on Data in Generative Models: The Bad, the Ugly, and the Greats <strong>(DIG-BUGS)</strong> at ICML 2025."
     pdf: https://arxiv.org/abs/2505.13249
     page: https://icml.cc/virtual/2025/51024
-    image: /assets/img/rnf-project.svg
+    image: /assets/img/rnf-project.png
     notes: LLM reliability
 
   - title: "Satellite Intelligence for Urban Subsidence Risk"
@@ -13,5 +13,5 @@ main:
     conference_short: IJRS
     conference: "Published research linked to land subsidence monitoring and satellite-based reliability assessment."
     pdf: https://www.tandfonline.com/doi/abs/10.1080/00207233.2024.2324623
-    image: /assets/img/subsidence-project.svg
+    image: /assets/img/subsidence-project.png
     notes: Remote sensing

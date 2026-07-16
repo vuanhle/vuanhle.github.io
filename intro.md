@@ -20,7 +20,7 @@ Today, I am building toward a career that connects three worlds:
 I want to work with research labs, founders, and investors who care about durable progress: AI systems that can be trusted, scientific tools that expand what people can build, and companies whose technical depth compounds over time.
 
 <figure>
-  <img class="centered-image" src="/assets/img/subsidence-project.svg" alt="Geospatial risk intelligence visual">
+  <img class="centered-image" src="/assets/img/subsidence-project.png" alt="Geospatial risk intelligence visual">
 </figure>
 
 ## Long-Term Positioning

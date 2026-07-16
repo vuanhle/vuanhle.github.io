@@ -18,7 +18,7 @@ permalink: /research/
 - **Constrained Generative Modeling:** designing models whose outputs are not just plausible, but valid under domain constraints.
 
 <figure>
-  <img class="centered-image" src="/assets/img/rnf-project.svg" alt="RN-F framework visual">
+  <img class="centered-image" src="/assets/img/rnf-project.png" alt="RN-F framework visual">
 </figure>
 
 ## Research Taste
