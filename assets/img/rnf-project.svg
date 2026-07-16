@@ -13,22 +13,22 @@
     <path d="M690 95 V580"/>
     <path d="M915 95 V580"/>
   </g>
-  <text x="96" y="122" fill="#f5fff8" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="700">RN-F</text>
-  <text x="96" y="160" fill="#8bd6a8" font-family="Inter, Arial, sans-serif" font-size="18">Residual-Noise Fingerprinting for contaminated data detection</text>
+  <text x="96" y="122" fill="#f5fff8" font-family="Alliance No. 1, Alliance No. 2, Helvetica Neue, Arial, sans-serif" font-size="32" font-weight="700">RN-F</text>
+  <text x="96" y="160" fill="#8bd6a8" font-family="Alliance No. 2, Alliance No. 1, Helvetica Neue, Arial, sans-serif" font-size="18">Residual-Noise Fingerprinting for contaminated data detection</text>
   <g>
     <rect x="112" y="248" width="210" height="92" rx="4" fill="#101b15" stroke="#8bd6a8"/>
-    <text x="142" y="302" fill="#f5fff8" font-family="Inter, Arial, sans-serif" font-size="22">Input x</text>
+    <text x="142" y="302" fill="#f5fff8" font-family="Alliance No. 2, Alliance No. 1, Helvetica Neue, Arial, sans-serif" font-size="22">Input x</text>
     <path d="M330 294 H465" stroke="#8bd6a8" stroke-width="4"/>
     <path d="M454 278 L476 294 L454 310" fill="none" stroke="#8bd6a8" stroke-width="4"/>
     <rect x="482" y="205" width="230" height="72" rx="4" fill="#122419" stroke="#f5fff8"/>
-    <text x="515" y="249" fill="#f5fff8" font-family="Inter, Arial, sans-serif" font-size="20">FP16 model</text>
+    <text x="515" y="249" fill="#f5fff8" font-family="Alliance No. 2, Alliance No. 1, Helvetica Neue, Arial, sans-serif" font-size="20">FP16 model</text>
     <rect x="482" y="318" width="230" height="72" rx="4" fill="#122419" stroke="#f5fff8"/>
-    <text x="515" y="362" fill="#f5fff8" font-family="Inter, Arial, sans-serif" font-size="20">INT4 model</text>
+    <text x="515" y="362" fill="#f5fff8" font-family="Alliance No. 2, Alliance No. 1, Helvetica Neue, Arial, sans-serif" font-size="20">INT4 model</text>
     <path d="M720 240 C810 250 810 345 720 355" stroke="#8bd6a8" stroke-width="4"/>
     <path d="M776 296 H862" stroke="#8bd6a8" stroke-width="4"/>
     <rect x="875" y="246" width="210" height="104" rx="4" fill="#101b15" stroke="#8bd6a8"/>
-    <text x="907" y="292" fill="#f5fff8" font-family="Inter, Arial, sans-serif" font-size="20">Residual</text>
-    <text x="907" y="322" fill="#f5fff8" font-family="Inter, Arial, sans-serif" font-size="20">fingerprint</text>
+    <text x="907" y="292" fill="#f5fff8" font-family="Alliance No. 2, Alliance No. 1, Helvetica Neue, Arial, sans-serif" font-size="20">Residual</text>
+    <text x="907" y="322" fill="#f5fff8" font-family="Alliance No. 2, Alliance No. 1, Helvetica Neue, Arial, sans-serif" font-size="20">fingerprint</text>
   </g>
   <g opacity=".95">
     <path d="M120 515 C180 455 238 560 300 498 C363 435 420 548 486 488 C555 426 610 552 690 479 C758 418 829 545 900 475 C968 410 1020 510 1092 450" fill="none" stroke="#8bd6a8" stroke-width="5"/>
