@@ -11,7 +11,7 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
 
 <section class="intro-panel">
   <p class="eyebrow">Research, Capital, and Deep Tech</p>
-  <h1>Building toward the frontier where scientific intelligence becomes investable infrastructure.</h1>
+  <h1>Building toward the frontier where scientific intelligence becomes investable infrastructure</h1>
   <p class="lead">I am Vu-Anh Le, an incoming Ph.D. student in Computer Science at the University of Virginia and a researcher focused on reliable machine learning for scientific systems. My long-term positioning is to become a deep-tech investor-builder: someone who can understand frontier research, evaluate technical defensibility, and help turn scientific breakthroughs into enduring companies.</p>
   <p>I am targeting roles across venture capital, private equity, and deep-tech thematic investing, where I can contribute technical due diligence, market research, and insights from my software/AIML background.</p>
   <div class="cta-row">
@@ -135,4 +135,27 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
     <li><strong>Aug. 2026:</strong> Starting my Ph.D. in Computer Science at the University of Virginia as part of the RAISE group.</li>
     <li><strong>2025:</strong> RN-F appears in the ICML 2025 DIG-BUGS workshop program.</li>
   </ul>
+</section>
+
+<section>
+  <h2>Historical Visitor Map</h2>
+  <div class="visitor-map-card">
+    <div class="visitor-map" role="img" aria-label="Stylized historical visitor map">
+      <span class="pin pin-us"></span>
+      <span class="pin pin-eu"></span>
+      <span class="pin pin-vn"></span>
+      <span class="pin pin-au"></span>
+      <span class="pin pin-jp"></span>
+      <span class="pin pin-in"></span>
+    </div>
+    <div class="visitor-map-meta">
+      <p class="eyebrow">Visitor Geography</p>
+      <p>Historical visitor footprint across research, capital, and deep-tech audiences.</p>
+      <div class="visitor-stats">
+        <span>North America</span>
+        <span>Europe</span>
+        <span>Asia-Pacific</span>
+      </div>
+    </div>
+  </div>
 </section>

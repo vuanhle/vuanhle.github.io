@@ -70,7 +70,14 @@
         <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
         {% endif %}
-        {% if site.affiliation %}
+        {% if site.department %}
+        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.department }}</autocolor></a>
+        <br>
+        {% endif %}
+        {% if site.university %}
+        <a href="{{ site.university_link }}" rel="noopener"><autocolor>{{ site.university }}</autocolor></a>
+        <br>
+        {% elsif site.affiliation %}
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}

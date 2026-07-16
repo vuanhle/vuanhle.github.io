@@ -46,4 +46,12 @@ The throughline is simple: start from real constraints, learn the science deeply
     <img src="/assets/img/frontier-dune-ship.png" alt="Dune-style spacecraft above a planet">
     <figcaption>Space</figcaption>
   </figure>
+  <figure>
+    <img src="/assets/img/frontier-data-compute-ai.png" alt="Software development windows on a desktop">
+    <figcaption>Data, Compute, &amp; AI</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/img/frontier-manufacturing.png" alt="Advanced manufacturing facility with robotic arms">
+    <figcaption>Manufacturing</figcaption>
+  </figure>
 </div>

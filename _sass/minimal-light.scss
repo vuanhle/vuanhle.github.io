@@ -439,7 +439,7 @@ figcaption {
 
 .frontier-gallery {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 12px;
   margin: 22px 0 0;
 }
@@ -463,6 +463,76 @@ figcaption {
   font: 700 11px/1.2 var(--font-mono);
   letter-spacing: .08em;
   text-transform: uppercase;
+}
+
+.visitor-map-card {
+  display: grid;
+  grid-template-columns: 1.4fr .8fr;
+  gap: 18px;
+  align-items: stretch;
+  margin-top: 16px;
+  padding: 18px;
+  border: 1px solid var(--line);
+  background: rgba(16, 27, 21, .72);
+}
+
+.visitor-map {
+  position: relative;
+  min-height: 250px;
+  overflow: hidden;
+  border: 1px solid var(--green-deep);
+  background:
+    radial-gradient(ellipse at 22% 42%, rgba(139, 214, 168, .16) 0 9%, transparent 10%),
+    radial-gradient(ellipse at 48% 36%, rgba(139, 214, 168, .16) 0 12%, transparent 13%),
+    radial-gradient(ellipse at 71% 48%, rgba(139, 214, 168, .16) 0 18%, transparent 19%),
+    radial-gradient(ellipse at 84% 72%, rgba(139, 214, 168, .16) 0 8%, transparent 9%),
+    linear-gradient(90deg, rgba(139, 214, 168, .08) 1px, transparent 1px),
+    linear-gradient(180deg, rgba(139, 214, 168, .08) 1px, transparent 1px),
+    #050806;
+  background-size: auto, auto, auto, auto, 42px 42px, 42px 42px, auto;
+}
+
+.visitor-map::after {
+  content: "";
+  position: absolute;
+  inset: 28px;
+  border: 1px solid rgba(139, 214, 168, .18);
+}
+
+.pin {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--green);
+  box-shadow: 0 0 0 7px rgba(139, 214, 168, .12), 0 0 24px rgba(139, 214, 168, .72);
+}
+
+.pin-us { left: 23%; top: 42%; }
+.pin-eu { left: 49%; top: 36%; }
+.pin-vn { left: 72%; top: 51%; }
+.pin-au { left: 82%; top: 74%; }
+.pin-jp { left: 78%; top: 40%; }
+.pin-in { left: 64%; top: 51%; }
+
+.visitor-map-meta {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.visitor-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.visitor-stats span {
+  padding: 5px 8px;
+  color: var(--text);
+  border: 1px solid var(--green-deep);
+  font-size: 12px;
 }
 
 .tight-list {
@@ -646,7 +716,8 @@ papertitle {
   .pub-row,
   .experience-item,
   .linkedin-item,
-  .metric-grid {
+  .metric-grid,
+  .visitor-map-card {
     grid-template-columns: 1fr;
   }
 
@@ -679,5 +750,9 @@ papertitle {
 
   .frontier-gallery {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .visitor-map {
+    min-height: 210px;
   }
 }
