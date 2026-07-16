@@ -159,8 +159,9 @@ autocolor, email, position {
 
 email {
   display: inline-block;
-  margin-top: 8px;
-  font: 13px/1.4 "SFMono-Regular", Consolas, monospace;
+  margin-top: 10px;
+  color: #00a878;
+  font: 700 15px/1.45 "SFMono-Regular", Consolas, monospace;
 }
 
 .image {
@@ -213,17 +214,18 @@ header h1 {
 
 .site-nav {
   display: grid;
-  gap: 8px;
-  margin-top: 26px;
-  padding-top: 20px;
+  gap: 13px;
+  margin-top: 34px;
+  padding-top: 24px;
   border-top: 1px solid var(--line);
 }
 
 .site-nav a {
-  padding: 9px 10px;
+  padding: 11px 12px;
   color: var(--muted);
   border: 1px solid transparent;
-  font-size: 13px;
+  font-size: 15px;
+  line-height: 1.25;
   letter-spacing: .02em;
   text-transform: uppercase;
 }
