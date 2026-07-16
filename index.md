@@ -5,8 +5,8 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
 ---
 
 <figure class="hero-figure">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg" alt="Caspar David Friedrich's Wanderer above the Sea of Fog" loading="eager">
-  <figcaption>Research, capital, and deep tech: looking beyond the visible frontier.</figcaption>
+  <img src="/assets/img/ship-frontier.png" alt="Illustrated ships sailing through a field of stars above Earth" loading="eager">
+  <figcaption>Research, capital, and deep tech: navigating beyond the visible frontier.</figcaption>
 </figure>
 
 <section class="intro-panel">
