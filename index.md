@@ -138,10 +138,11 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
 </section>
 
 <section>
-  <h2>vistor map</h2>
+  <h2>Visitor Map</h2>
   <div class="mapmyvisitors-card">
     <div class="mapmyvisitors-widget">
-      <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=xmc6i_SpmLS5vsiluLo5p5JnoxT3upiIFTown0TwlM0&cl=ffffff&w=a&x=y"></script>
+      <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=JNgQt1dBsAC9EVMhpT0Ww3h-vt6niVfSAstxyuGkBSs&cl=ffffff&w=a"></script>
     </div>
+    <p class="mapmyvisitors-link"><a href="https://mapmyvisitors.com/web/1c6ls">View website statistics</a></p>
   </div>
 </section>
