@@ -20,7 +20,7 @@ Today, I am building toward a career that connects three worlds:
 I want to work with research labs, founders, and investors who care about durable progress: AI systems that can be trusted, scientific tools that expand what people can build, and companies whose technical depth compounds over time.
 
 <figure>
-  <img class="centered-image" src="/assets/img/subsidence-project.png" alt="Geospatial risk intelligence visual">
+  <img class="centered-image intro-image" src="/assets/img/intro-farming.png" alt="Small farm garden beside homes">
 </figure>
 
 ## Long-Term Positioning
@@ -28,3 +28,22 @@ I want to work with research labs, founders, and investors who care about durabl
 My long-term goal is to become a deep-tech investor-builder with research-level technical fluency. I want to identify underappreciated scientific breakthroughs, understand their limitations, help translate them into strategy, and support ambitious teams working on foundational technologies.
 
 The throughline is simple: start from real constraints, learn the science deeply, and use capital as a force for building.
+
+<div class="frontier-gallery">
+  <figure>
+    <img src="/assets/img/frontier-fusion-reactor.png" alt="Fusion reactor facility">
+    <figcaption>Fusion</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/img/frontier-asml-machine.png" alt="ASML lithography machine">
+    <figcaption>Semiconductors</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/img/frontier-ag-drone.png" alt="Agricultural drone over a field">
+    <figcaption>AgTech</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/img/frontier-dune-ship.png" alt="Dune-style spacecraft above a planet">
+    <figcaption>Space</figcaption>
+  </figure>
+</div>
