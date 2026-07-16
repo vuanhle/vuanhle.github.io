@@ -138,31 +138,10 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
 </section>
 
 <section>
-  <h2>Global Map & IP Tracker</h2>
-  <div class="global-map-card">
-    <div class="global-map" role="img" aria-label="World map with highlighted regions">
-      <img src="/assets/img/world-map.svg" alt="World map">
-      <span class="pin pin-us"></span>
-      <span class="pin pin-eu"></span>
-      <span class="pin pin-vn"></span>
-      <span class="pin pin-au"></span>
-      <span class="pin pin-jp"></span>
-      <span class="pin pin-in"></span>
-    </div>
-    <div class="global-map-meta">
-      <p class="eyebrow">IP Tracker</p>
-      <p>Browser-side public IP and coarse geolocation lookup for the current session.</p>
-      <div class="ip-readout">
-        <div><span>IP</span><strong id="ip-address">Loading...</strong></div>
-        <div><span>Location</span><strong id="ip-location">Loading...</strong></div>
-        <div><span>Network</span><strong id="ip-network">Loading...</strong></div>
-      </div>
-      <div class="global-stats">
-        <span>North America</span>
-        <span>Europe</span>
-        <span>Asia-Pacific</span>
-      </div>
+  <h2>vistor map</h2>
+  <div class="mapmyvisitors-card">
+    <div class="mapmyvisitors-widget">
+      <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=xmc6i_SpmLS5vsiluLo5p5JnoxT3upiIFTown0TwlM0&cl=ffffff&w=a&x=y"></script>
     </div>
   </div>
-  <script src="/assets/js/ip-tracker.js" defer></script>
 </section>

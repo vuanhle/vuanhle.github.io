@@ -465,102 +465,23 @@ figcaption {
   text-transform: uppercase;
 }
 
-.global-map-card {
-  display: grid;
-  grid-template-columns: 1.4fr .8fr;
-  gap: 18px;
-  align-items: stretch;
+.mapmyvisitors-card {
   margin-top: 16px;
   padding: 18px;
   border: 1px solid var(--line);
   background: rgba(16, 27, 21, .72);
 }
 
-.global-map {
-  position: relative;
-  min-height: 250px;
-  overflow: hidden;
+.mapmyvisitors-widget {
+  min-height: 260px;
+  display: grid;
+  place-items: center;
   border: 1px solid var(--green-deep);
   background: #050806;
 }
 
-.global-map img {
-  display: block;
-  width: 100%;
-  height: 250px;
-  object-fit: cover;
-  opacity: .92;
-}
-
-.global-map::after {
-  content: "";
-  position: absolute;
-  inset: 28px;
-  border: 1px solid rgba(139, 214, 168, .18);
-}
-
-.pin {
-  position: absolute;
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  background: var(--green);
-  box-shadow: 0 0 0 7px rgba(139, 214, 168, .12), 0 0 24px rgba(139, 214, 168, .72);
-}
-
-.pin-us { left: 23%; top: 39%; }
-.pin-eu { left: 51%; top: 34%; }
-.pin-vn { left: 75%; top: 51%; }
-.pin-au { left: 86%; top: 75%; }
-.pin-jp { left: 82%; top: 39%; }
-.pin-in { left: 69%; top: 50%; }
-
-.global-map-meta {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-.global-stats {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-top: 10px;
-}
-
-.global-stats span {
-  padding: 5px 8px;
-  color: var(--text);
-  border: 1px solid var(--green-deep);
-  font-size: 12px;
-}
-
-.ip-readout {
-  display: grid;
-  gap: 8px;
-  margin: 12px 0;
-}
-
-.ip-readout div {
-  padding: 9px 10px;
-  border: 1px solid var(--line);
-  background: rgba(5, 8, 6, .55);
-}
-
-.ip-readout span {
-  display: block;
-  color: var(--green);
-  font: 700 11px/1.2 var(--font-mono);
-  letter-spacing: .08em;
-  text-transform: uppercase;
-}
-
-.ip-readout strong {
-  display: block;
-  margin-top: 4px;
-  color: var(--text);
-  font-size: 13px;
-  word-break: break-word;
+.mapmyvisitors-widget > * {
+  max-width: 100%;
 }
 
 .tight-list {
@@ -745,10 +666,6 @@ papertitle {
   .experience-item,
   .linkedin-item,
   .metric-grid,
-  .global-map-card {
-    grid-template-columns: 1fr;
-  }
-
   .logo-strip {
     gap: 8px;
     padding: 8px 10px;
@@ -780,11 +697,7 @@ papertitle {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .global-map {
-    min-height: 210px;
-  }
-
-  .global-map img {
-    height: 210px;
+  .mapmyvisitors-widget {
+    min-height: 220px;
   }
 }
