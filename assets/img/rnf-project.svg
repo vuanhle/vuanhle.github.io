@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">RN-F residual-noise fingerprinting visual</title>
+  <desc id="desc">A dark technical diagram showing clean and contaminated signals separated by residual-noise fingerprints.</desc>
+  <rect width="1200" height="675" fill="#050806"/>
+  <rect x="52" y="52" width="1096" height="571" fill="#0b1410" stroke="#2a5c45" stroke-width="2"/>
+  <g fill="none" stroke="#e9f3ec" stroke-width="2" opacity=".22">
+    <path d="M105 150 H1095"/>
+    <path d="M105 260 H1095"/>
+    <path d="M105 370 H1095"/>
+    <path d="M105 480 H1095"/>
+    <path d="M240 95 V580"/>
+    <path d="M465 95 V580"/>
+    <path d="M690 95 V580"/>
+    <path d="M915 95 V580"/>
+  </g>
+  <text x="96" y="122" fill="#f5fff8" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="700">RN-F</text>
+  <text x="96" y="160" fill="#8bd6a8" font-family="Inter, Arial, sans-serif" font-size="18">Residual-Noise Fingerprinting for contaminated data detection</text>
+  <g>
+    <rect x="112" y="248" width="210" height="92" rx="4" fill="#101b15" stroke="#8bd6a8"/>
+    <text x="142" y="302" fill="#f5fff8" font-family="Inter, Arial, sans-serif" font-size="22">Input x</text>
+    <path d="M330 294 H465" stroke="#8bd6a8" stroke-width="4"/>
+    <path d="M454 278 L476 294 L454 310" fill="none" stroke="#8bd6a8" stroke-width="4"/>
+    <rect x="482" y="205" width="230" height="72" rx="4" fill="#122419" stroke="#f5fff8"/>
+    <text x="515" y="249" fill="#f5fff8" font-family="Inter, Arial, sans-serif" font-size="20">FP16 model</text>
+    <rect x="482" y="318" width="230" height="72" rx="4" fill="#122419" stroke="#f5fff8"/>
+    <text x="515" y="362" fill="#f5fff8" font-family="Inter, Arial, sans-serif" font-size="20">INT4 model</text>
+    <path d="M720 240 C810 250 810 345 720 355" stroke="#8bd6a8" stroke-width="4"/>
+    <path d="M776 296 H862" stroke="#8bd6a8" stroke-width="4"/>
+    <rect x="875" y="246" width="210" height="104" rx="4" fill="#101b15" stroke="#8bd6a8"/>
+    <text x="907" y="292" fill="#f5fff8" font-family="Inter, Arial, sans-serif" font-size="20">Residual</text>
+    <text x="907" y="322" fill="#f5fff8" font-family="Inter, Arial, sans-serif" font-size="20">fingerprint</text>
+  </g>
+  <g opacity=".95">
+    <path d="M120 515 C180 455 238 560 300 498 C363 435 420 548 486 488 C555 426 610 552 690 479 C758 418 829 545 900 475 C968 410 1020 510 1092 450" fill="none" stroke="#8bd6a8" stroke-width="5"/>
+    <path d="M120 548 C195 505 260 528 330 510 C415 486 474 528 550 498 C635 465 704 514 775 492 C870 462 957 500 1092 402" fill="none" stroke="#f5fff8" stroke-width="3" opacity=".65"/>
+    <circle cx="930" cy="454" r="11" fill="#8bd6a8"/>
+    <circle cx="982" cy="427" r="11" fill="#8bd6a8"/>
+    <circle cx="1034" cy="402" r="11" fill="#8bd6a8"/>
+  </g>
+</svg>

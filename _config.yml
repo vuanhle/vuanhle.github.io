@@ -1,51 +1,46 @@
-# Basic Information 
+# Basic Information
 title: Vu-Anh Le
-position: Ph.D. Student
+position: Researcher | AI4Science | Deep-Tech Venture
 affiliation: Department of Computer Science, University of Virginia
+affiliation_link: https://engineering.virginia.edu/departments/computer-science
 email: mcu7uh (at) virginia.edu
 
 # Site settings for GitHub Pages
-baseurl: ""                           # empty because repo is vuanhle.github.io
-url: "https://vuanhle.github.io"      # your user domain
+baseurl: ""
+url: "https://vuanhle.github.io"
 
 # Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Vu-Anh Le
-description: A personal website of Vu-Anh Le.
-canonical: https://vuanhle.github.io   # matches url above
+keywords: Vu-Anh Le, Le Vu Anh, AI4Science, deep tech, venture capital, machine learning, LLM reliability, data contamination, RN-F, remote sensing, satellite intelligence, land subsidence, University of Virginia
+description: Vu-Anh Le is a computer science Ph.D. student and researcher working across reliable machine learning, AI for science, satellite intelligence, venture capital, and deep-tech company building.
+canonical: https://vuanhle.github.io/
+author: Vu-Anh Le
+lang: en-US
 
-# Links 
+# Links
 google_scholar: https://scholar.google.com/citations?hl=en&user=v3_DrtcAAAAJ
 github_link: https://github.com/vuanhle
 linkedin: https://www.linkedin.com/in/levuanh
+cv_link: /assets/files/curriculum_vitae.pdf
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+# Images
+avatar: /assets/img/avatar.png
+favicon: /assets/img/favicon.png
+favicon_dark: /assets/img/favicon-dark.png
 
 # Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+enable_footnote: false
 
 # Auto Dark Mode
-# You may use the option to disable the automatic dark theme
 auto_dark_mode: true
 
 # Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+font: "Sans Serif"
 
 # Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+google_analytics:
 
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 remote_theme: yaoyao-liu/minimal-light
 
-# The following files will be removed from the generated website.
 exclude:
   - Gemfile
   - Gemfile.lock

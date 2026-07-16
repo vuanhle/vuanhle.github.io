@@ -1,22 +1,17 @@
 main:
+  - title: "RN-F: A Novel Approach for Mitigating Contaminated Data in Large Language Models"
+    authors: "<strong>Le Vu Anh</strong>, Dinh Duc Nha Nguyen, Phi Long Nguyen, Keshav Sood"
+    conference_short: ICML
+    conference: "Workshop on Data in Generative Models: The Bad, the Ugly, and the Greats <strong>(DIG-BUGS)</strong> at ICML 2025."
+    pdf: https://arxiv.org/abs/2505.13249
+    page: https://icml.cc/virtual/2025/51024
+    image: /assets/img/rnf-project.svg
+    notes: LLM reliability
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Satellite Intelligence for Urban Subsidence Risk"
+    authors: "<strong>Vu-Anh Le</strong> and collaborators"
+    conference_short: IJRS
+    conference: "Published research linked to land subsidence monitoring and satellite-based reliability assessment."
+    pdf: https://www.tandfonline.com/doi/abs/10.1080/00207233.2024.2324623
+    image: /assets/img/subsidence-project.svg
+    notes: Remote sensing
