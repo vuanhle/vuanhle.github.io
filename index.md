@@ -13,13 +13,21 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
   <p class="eyebrow">Research, Capital, and Deep Tech</p>
   <h1>Building toward the frontier where scientific intelligence becomes investable infrastructure.</h1>
   <p class="lead">I am Vu-Anh Le, an incoming Ph.D. student in Computer Science at the University of Virginia and a researcher focused on reliable machine learning for scientific systems. My long-term positioning is to become a deep-tech investor-builder: someone who can understand frontier research, evaluate technical defensibility, and help turn scientific breakthroughs into enduring companies.</p>
-  <p>I am targeting roles across AI research, deep-tech venture capital, technical venture building, research engineering, AI4Science, and investment teams that need rigorous technical judgment. My current work spans data contamination detection for large language models, satellite intelligence for geospatial risk, constrained scientific ML, and the theory of learning systems under uncertainty.</p>
+  <p>I am targeting roles across venture capital, private equity, and deep-tech thematic investing, where I can contribute technical due diligence, market research, and insights from my software/AIML background.</p>
   <div class="cta-row">
     <a class="button-link" href="/intro/">Intro</a>
     <a class="button-link" href="/research/">Research</a>
     <a class="button-link" href="/venture-capital/">Venture Capital</a>
+    <a class="button-link" href="/cv/">CV</a>
   </div>
 </section>
+
+<div class="logo-strip" aria-label="Affiliations and experience">
+  <img src="/assets/img/logo-uva.png" alt="University of Virginia logo">
+  <img src="/assets/img/logo-vast.png" alt="Vietnam Academy of Science and Technology logo">
+  <img src="/assets/img/logo-antler.png" alt="Antler logo">
+  <img src="/assets/img/logo-mit.png" alt="MIT logo">
+</div>
 
 <section class="signal-grid">
   <article>
@@ -64,12 +72,41 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
 
 <section>
   <h2>Venture Capital and Job Experience</h2>
-  <p>I am shaping my career around roles that combine research depth with capital allocation: deep-tech VC analyst or associate work, venture fellowships, technical diligence, AI research engineering, investment research, and startup-facing roles where scientific judgment becomes strategic advantage.</p>
-  <ul class="tight-list">
-    <li>Map emerging markets in AI infrastructure, AI4Science, geospatial intelligence, and frontier scientific tooling.</li>
-    <li>Evaluate technical defensibility, data advantage, research velocity, and commercialization pathways.</li>
-    <li>Translate complex papers into founder, investor, and operator decisions.</li>
-  </ul>
+  <p>I am shaping my career around roles that combine research depth with capital allocation: technical diligence, AI investment research, startup evaluation, and deep-tech company formation.</p>
+  <div class="experience-list">
+    <article class="experience-item">
+      <img src="/assets/img/logo-uva.png" alt="University of Virginia logo">
+      <div>
+        <p class="eyebrow">Jul 2026 - Present</p>
+        <h3>Doctoral Student, University of Virginia</h3>
+        <p>Conducting research in machine learning, AI for science, and scientific computing as part of the RAISE Group, advised by <a href="https://nandofioretto.github.io/group/">Nando Fioretto</a>.</p>
+      </div>
+    </article>
+    <article class="experience-item">
+      <img src="/assets/img/logo-vast.png" alt="Vietnam Academy of Science and Technology logo">
+      <div>
+        <p class="eyebrow">May 2025 - May 2026</p>
+        <h3>Researcher + Technical Consultant, Vietnam Academy of Science and Technology</h3>
+        <p>Prepared technical reports for national and policy-related projects, translating research findings into decision-ready analysis for senior stakeholders.</p>
+      </div>
+    </article>
+    <article class="experience-item">
+      <img src="/assets/img/logo-antler.png" alt="Antler logo">
+      <div>
+        <p class="eyebrow">Jun 2025 - Aug 2025</p>
+        <h3>Resident, VN8 Cohort, Antler</h3>
+        <p>Evaluated early-stage concepts through customer, market, and competitive analysis while building familiarity with fundraising and founder-market fit.</p>
+      </div>
+    </article>
+    <article class="experience-item">
+      <img src="/assets/img/logo-mit.png" alt="MIT logo">
+      <div>
+        <p class="eyebrow">Jun 2024 - Aug 2024</p>
+        <h3>MIT Summer Research Program Intern, Massachusetts Institute of Technology</h3>
+        <p>Developed quantitative models and extended PyLENM, an open-source environmental informatics package, to support analysis for a nuclear-waste disposal site.</p>
+      </div>
+    </article>
+  </div>
 </section>
 
 <section>
