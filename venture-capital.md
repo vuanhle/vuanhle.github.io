@@ -35,7 +35,7 @@ I like companies where technical depth creates defensibility: proprietary data l
     <div>
       <h3>Doctoral Student</h3>
       <p class="muted-line">University of Virginia · Full-time</p>
-      <p class="muted-line">Jul 2026 - Present · Charlottesville, Virginia</p>
+      <p class="muted-line">Aug 2026 - Present · Charlottesville, Virginia</p>
       <p>Conducting research in machine learning, AI for science, and scientific computing, with an emphasis on constrained generative models and reliable decision-making in technically demanding systems.</p>
       <p class="skill-note">Performance Benchmarking, Scientific Computing and +9 skills</p>
     </div>

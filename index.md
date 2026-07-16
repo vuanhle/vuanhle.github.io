@@ -77,7 +77,7 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
     <article class="experience-item">
       <img src="/assets/img/logo-uva.png" alt="University of Virginia logo" loading="lazy" decoding="async">
       <div>
-        <p class="eyebrow">Jul 2026 - Present</p>
+        <p class="eyebrow">Aug 2026 - Present</p>
         <h3>Doctoral Student, University of Virginia</h3>
         <p>Conducting research in machine learning, AI for science, and scientific computing as part of the RAISE Group, advised by <a href="https://nandofioretto.github.io/group/">Nando Fioretto</a>.</p>
       </div>
