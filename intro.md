@@ -7,17 +7,21 @@ permalink: /intro/
 
 # Intro
 
-<p class="lead">My path into research and deep tech started far from the usual image of technology. I grew up close to farming, where uncertainty is concrete: weather, land, labor, machinery, prices, and the constant question of how to do more with limited resources.</p>
+<p class="lead">My path into research and deep technology began with agriculture. </p>
 
-That background shaped how I think. It made me interested in systems where knowledge has to survive contact with reality. Research gave me the language for that instinct: mathematics, machine learning, scientific modeling, and the discipline of asking whether a model is not only impressive, but valid.
+I come from a traditional Vietnamese family with vast agricultural land and business interests. We are used to the smell of the soils, the sound of irrigation flow, and the taste of fresh apples loaded onto the trucks. I grew up observing how land, labor, machinery, weather, markets, and long-term investment interact.
 
-Today, I am building toward a career that connects three worlds:
+That environment gave me an early appreciation for productive assets and for the difference between abstract plans and systems that must work under real, physical conditions. It also taught me that ownership comes with responsibilities: allocating resources carefully, managing uncertainty, and building value across generations.
 
-- **Research:** developing reliable machine learning methods for scientific and technical systems.
-- **Deep tech:** understanding how hard technical advances become usable infrastructure.
-- **Capital:** learning how investment decisions can accelerate frontier technology when paired with rigorous technical judgment.
+Research gave me a more rigorous language for those instincts through mathematics, machine learning, scientific modeling, and the discipline of asking whether an idea is not only impressive, but technically valid and useful in practice.
 
-I want to work with research labs, founders, and investors who care about durable progress: AI systems that can be trusted, scientific tools that expand what people can build, and companies whose technical depth compounds over time.
+Today, I am building toward a career connecting three worlds:
+
+- **Research:** developing and evaluating reliable machine-learning methods for scientific and technical systems.
+- **Deep technology:** understanding how difficult scientific advances become scalable infrastructure.
+- **Capital:** learning how rigorous technical and investment judgment can help frontier technologies move from laboratories into the world.
+
+I want to work with research labs, founders, and investors who care about durable values: AI systems that can be trusted, scientific tools that expand what people can build, and companies whose technical depth compounds over time.
 
 <figure>
   <img class="centered-image intro-image" src="/assets/img/intro-farming.webp" alt="Small farm garden beside homes" loading="lazy" decoding="async">
@@ -25,9 +29,9 @@ I want to work with research labs, founders, and investors who care about durabl
 
 ## Long-Term Positioning
 
-My long-term goal is to become a deep-tech investor-builder with research-level technical fluency. I want to identify underappreciated scientific breakthroughs, understand their limitations, help translate them into strategy, and support ambitious teams working on foundational technologies.
+My long-term goal is to become a deep-tech investor-builder with research-level technical fluency: someone able to identify underappreciated breakthroughs, understand their limitations, and help ambitious teams translate technical depth into scaling companies.
 
-The throughline is simple: start from real constraints, learn the science deeply, and use capital as a force for building.
+The throughline is simple: understand real systems, study the science deeply, and allocate capital toward technologies that expand productive capacity.
 
 <div class="frontier-gallery">
   <figure>
