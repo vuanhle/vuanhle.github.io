@@ -622,6 +622,59 @@ figcaption {
   margin-bottom: 0;
 }
 
+.essay-visual {
+  margin: 20px 0 24px;
+  padding: 18px;
+  border: 1px solid var(--green-deep);
+  background: rgba(16, 27, 21, .72);
+}
+
+.essay-visual img {
+  display: block;
+  width: 100%;
+  border: 1px solid var(--line);
+  background: var(--black);
+}
+
+.essay-example-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin: 20px 0 24px;
+}
+
+.essay-example-grid article {
+  padding: 16px;
+  border: 1px solid var(--line);
+  background: rgba(16, 27, 21, .82);
+}
+
+.essay-example-grid img {
+  width: 34px;
+  height: 34px;
+  margin-bottom: 12px;
+  object-fit: contain;
+}
+
+.essay-example-grid h3 {
+  margin-bottom: 8px;
+  font-size: 16px;
+}
+
+.essay-example-grid p {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+.mermaid {
+  margin: 18px 0;
+  padding: 16px;
+  overflow-x: auto;
+  border: 1px solid var(--green-deep);
+  background: var(--black);
+}
+
 .mapmyvisitors-card {
   margin-top: 16px;
   padding: 18px;
@@ -874,6 +927,10 @@ papertitle {
 
   .stack-card {
     min-height: 280px;
+  }
+
+  .essay-example-grid {
+    grid-template-columns: 1fr;
   }
 
   .skill-feed {

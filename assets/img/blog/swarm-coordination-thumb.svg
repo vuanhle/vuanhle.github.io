@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Swarm coordination network</title>
+  <desc id="desc">A dark green network diagram showing many agents coordinating through a shared control layer.</desc>
+  <rect width="1200" height="800" fill="#050806"/>
+  <g stroke="#203528" stroke-width="1">
+    <path d="M0 160h1200M0 320h1200M0 480h1200M0 640h1200M200 0v800M400 0v800M600 0v800M800 0v800M1000 0v800"/>
+  </g>
+  <g fill="none" stroke="#8bd6a8" stroke-width="4" opacity=".9">
+    <path d="M230 420C360 260 500 280 600 400S850 560 1010 330"/>
+    <path d="M250 540C400 450 500 500 610 410S820 230 980 250" opacity=".55"/>
+    <path d="M170 300C340 360 430 180 590 330S790 420 1070 210" opacity=".4"/>
+  </g>
+  <g fill="#8bd6a8">
+    <circle cx="230" cy="420" r="20"/>
+    <circle cx="410" cy="285" r="20"/>
+    <circle cx="600" cy="400" r="28"/>
+    <circle cx="780" cy="510" r="20"/>
+    <circle cx="1010" cy="330" r="24"/>
+    <circle cx="250" cy="540" r="16"/>
+    <circle cx="740" cy="315" r="16"/>
+    <circle cx="980" cy="250" r="16"/>
+  </g>
+  <g fill="#101b15" stroke="#8bd6a8" stroke-width="3">
+    <rect x="446" y="326" width="308" height="148"/>
+  </g>
+  <text x="600" y="385" text-anchor="middle" fill="#f5fff8" font-family="Arial, sans-serif" font-size="34" font-weight="700">Coordination</text>
+  <text x="600" y="431" text-anchor="middle" fill="#8bd6a8" font-family="Consolas, monospace" font-size="20" letter-spacing="3">SCHEDULING / MEMORY / POLICY</text>
+</svg>

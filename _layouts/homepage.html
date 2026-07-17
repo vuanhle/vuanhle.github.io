@@ -158,5 +158,32 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+    {% if page.mermaid %}
+    <script type="module">
+      import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+
+      document.querySelectorAll("pre > code.language-mermaid").forEach((block) => {
+        const wrapper = document.createElement("div");
+        wrapper.className = "mermaid";
+        wrapper.textContent = block.textContent;
+        block.parentElement.replaceWith(wrapper);
+      });
+
+      mermaid.initialize({
+        startOnLoad: false,
+        theme: "dark",
+        themeVariables: {
+          background: "#050806",
+          primaryColor: "#101b15",
+          primaryTextColor: "#f5fff8",
+          primaryBorderColor: "#2a5c45",
+          lineColor: "#8bd6a8",
+          secondaryColor: "#0b1410",
+          tertiaryColor: "#203528"
+        }
+      });
+      mermaid.run({ querySelector: ".mermaid" });
+    </script>
+    {% endif %}
   </body>
 </html>
