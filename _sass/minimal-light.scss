@@ -639,6 +639,7 @@ figcaption {
   padding: 18px;
   border: 1px solid var(--green-deep);
   background: rgba(16, 27, 21, .72);
+  overflow-x: auto;
 }
 
 .essay-visual img {
@@ -646,6 +647,11 @@ figcaption {
   width: 100%;
   border: 1px solid var(--line);
   background: var(--black);
+}
+
+.essay-visual--natural img {
+  width: auto;
+  max-width: none;
 }
 
 .essay-example-grid {
@@ -720,6 +726,34 @@ figcaption {
   object-fit: cover;
   border: 1px solid var(--green-deep);
   background: var(--black);
+}
+
+.essay-realworld-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin: 18px 0 26px;
+}
+
+.essay-realworld-grid figure {
+  margin: 0;
+  border: 1px solid var(--line);
+  background: rgba(16, 27, 21, .82);
+}
+
+.essay-realworld-grid img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-bottom: 1px solid var(--line);
+}
+
+.essay-realworld-grid figcaption {
+  padding: 12px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.45;
 }
 
 .essay-protocol-strip {
@@ -1020,7 +1054,8 @@ papertitle {
   }
 
   .concept-stack,
-  .essay-protocol-strip {
+  .essay-protocol-strip,
+  .essay-realworld-grid {
     grid-template-columns: 1fr;
   }
 

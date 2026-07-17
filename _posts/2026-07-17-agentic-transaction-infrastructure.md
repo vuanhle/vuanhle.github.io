@@ -9,7 +9,7 @@ category_label: Deep-Tech Essay
 mermaid: true
 ---
 
-<div class="essay-visual">
+<div class="essay-visual essay-visual--natural">
   <img src="/assets/img/blog/agentic-transaction-infra.webp" alt="Agentic transaction infrastructure diagram" width="1400" height="760" loading="eager" decoding="async">
 </div>
 
@@ -80,6 +80,21 @@ Sapiom is approaching the market from the **execution side** rather than checkou
   <article><h3>Visa Intelligent Commerce</h3><p>Tokenization, authorization, agent identity, and controlled spend for AI commerce.</p></article>
   <article><h3>PayPal Agent Toolkit</h3><p>Developer tooling, checkout orchestration, merchant routing, and post-purchase operations.</p></article>
   <article><h3>Mastercard Agent Pay</h3><p>Agentic payments, permissioning, tokenization, and machine-speed settlement.</p></article>
+</div>
+
+<div class="essay-realworld-grid" aria-label="Real-world agentic commerce examples">
+  <figure>
+    <img src="/assets/img/blog/agentic-visa-intelligent-commerce.webp" alt="Visa Intelligent Commerce agentic checkout example" width="800" height="450" loading="lazy" decoding="async">
+    <figcaption>Visa Intelligent Commerce showing agent-mediated shopping and controlled checkout. Source: <a href="https://www.linkedin.com/posts/visa_businesses-need-an-easy-way-to-connect-to-activity-7447683601128644608-_m0D">Visa</a>.</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/img/blog/agentic-nevermined-visa-x402.webp" alt="Nevermined and Visa x402 agent payment announcement visual" width="1200" height="655" loading="lazy" decoding="async">
+    <figcaption>Nevermined's agent-payment integration with Visa Intelligent Commerce and x402. Source: <a href="https://nevermined.ai/blog/nevermined-unlocks-autonomous-agent-card-payments-with-x402-opening-a-new-market-for-publishers-digital-merchants">Nevermined</a>.</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/img/blog/agentic-sapiom-launch.webp" alt="Sapiom launch visual for agent execution infrastructure" width="1200" height="626" loading="lazy" decoding="async">
+    <figcaption>Sapiom's agent execution layer, a real example of the vendor-account and spend-abstraction thesis. Source: <a href="https://www.sapiom.ai/blog/sapiom-raises-15m">Sapiom</a>.</figcaption>
+  </figure>
 </div>
 
 
