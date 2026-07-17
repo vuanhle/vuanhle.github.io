@@ -622,70 +622,6 @@ figcaption {
   margin-bottom: 0;
 }
 
-.subscribe-panel {
-  display: grid;
-  grid-template-columns: 1.15fr .85fr;
-  gap: 18px;
-  align-items: center;
-  margin: 22px 0 28px;
-  padding: 18px;
-  border: 1px solid var(--green-deep);
-  background: linear-gradient(135deg, rgba(139, 214, 168, .12), rgba(16, 27, 21, .72));
-}
-
-.subscribe-panel h2 {
-  margin: 0 0 10px;
-  padding: 0;
-  border: 0;
-  font-size: 22px;
-}
-
-.subscribe-panel p {
-  margin-bottom: 0;
-}
-
-.subscribe-form {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  gap: 8px;
-}
-
-.subscribe-form input[type="email"] {
-  min-width: 0;
-  padding: 11px 12px;
-  color: var(--text);
-  border: 1px solid var(--line);
-  background: var(--black);
-  font: 14px/1.2 var(--font-text);
-}
-
-.subscribe-form input[type="email"]:focus {
-  outline: 1px solid var(--green);
-  border-color: var(--green);
-}
-
-.subscribe-form button {
-  padding: 11px 13px;
-  color: var(--black);
-  border: 1px solid var(--green);
-  background: var(--green);
-  font: 750 13px/1.2 var(--font-text);
-  text-transform: uppercase;
-  cursor: pointer;
-}
-
-.subscribe-form button:hover {
-  color: var(--text);
-  background: var(--green-deep);
-}
-
-.subscribe-note {
-  grid-column: 2;
-  margin-top: -12px;
-  color: var(--faint);
-  font-size: 12px;
-}
-
 .sr-only {
   position: absolute;
   width: 1px;
@@ -1077,16 +1013,6 @@ papertitle {
 
   .stack-card {
     min-height: 280px;
-  }
-
-  .subscribe-panel,
-  .subscribe-form {
-    grid-template-columns: 1fr;
-  }
-
-  .subscribe-note {
-    grid-column: auto;
-    margin-top: -4px;
   }
 
   .essay-example-grid {

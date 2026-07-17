@@ -25,11 +25,6 @@ github_link: https://github.com/vuanhle
 linkedin: https://www.linkedin.com/in/levuanh
 cv_link: /assets/img/CV.pdf
 
-# Newsletter
-buttondown_username: vu_anh
-newsletter_title: Research, Capital, and Deep Tech Notes
-newsletter_description: Occasional essays on frontier AI, deep-tech markets, research translation, and technical diligence.
-
 # Images
 avatar: /assets/img/avatar.webp
 favicon: /assets/img/favicon.png
