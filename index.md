@@ -17,7 +17,7 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
     <p>Seeking venture fellow, investment intern, or technical-diligence opportunities for Fall 2026 and Spring 2027. Available remotely for 15-20 hours per week.</p>
   </div>
   <p class="lead">I am Anh, a Ph.D. student in Computer Science at the University of Virginia and a researcher focused on reliable machine learning for scientific systems. My long-term positioning is to become a deep-tech investor-builder: someone who can understand frontier research, evaluate technical defensibility, and help turn scientific breakthroughs into enduring companies.</p>
-  <p>I am targeting roles across venture capital, private equity, and deep-tech thematic investing, where I can contribute technical due diligence, market research, and insights from my software/AIML background.</p>
+  <p>I am targeting venture capital roles where I can contribute technical due diligence, market research, and insights from my software/AIML background.</p>
   <div class="cta-row">
     <a class="button-link button-link-strong" href="/intro/">Intro</a>
     <a class="button-link button-link-strong" href="/research/">Research</a>
