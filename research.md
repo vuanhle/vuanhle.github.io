@@ -17,7 +17,7 @@ permalink: /research/
 - **Constrained Generative Modeling:** designing models whose outputs are not just plausible, but valid under domain constraints.
 
 <figure>
-  <img class="centered-image research-figure" src="/assets/img/ai-agent-scaling.webp" alt="Scaling chart showing length of coding tasks AI agents can complete autonomously" width="1280" height="909" loading="lazy" decoding="async">
+  <img class="centered-image research-figure" src="/assets/img/research-scaling-model.webp" alt="Three-dimensional model showing geometric scaling inside a transparent volume" width="622" height="406" loading="lazy" decoding="async">
 </figure>
 
 ## Research Taste
