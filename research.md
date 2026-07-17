@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Research | Vu-Anh Le
-description: Vu-Anh Le's research agenda across reliable machine learning, AI for science, constrained modeling, LLM reliability, and satellite intelligence.
+description: Vu-Anh Le's research agenda across reliable machine learning, AI for science, constrained modeling, LLM reliability, and technical systems.
 permalink: /research/
 ---
 
@@ -14,11 +14,10 @@ permalink: /research/
 - **Reliable Machine Learning:** studying how models behave under uncertainty, distribution shift, contamination, and scientific constraints.
 - **LLM Reliability:** developing lightweight signals for identifying contaminated or memorized data in large model workflows.
 - **AI for Science:** building learning systems for scientific discovery where structure, feasibility, and interpretability matter.
-- **Remote Sensing and Risk:** using satellite intelligence and geospatial analysis to understand urban and infrastructure risk.
 - **Constrained Generative Modeling:** designing models whose outputs are not just plausible, but valid under domain constraints.
 
 <figure>
-  <img class="centered-image" src="/assets/img/rnf-project.png" alt="RN-F framework visual" loading="lazy" decoding="async">
+  <img class="centered-image research-figure" src="/assets/img/ai-agent-scaling.webp" alt="Scaling chart showing length of coding tasks AI agents can complete autonomously" width="1280" height="909" loading="lazy" decoding="async">
 </figure>
 
 ## Research Taste
