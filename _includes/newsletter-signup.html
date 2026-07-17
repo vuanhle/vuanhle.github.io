@@ -1,0 +1,137 @@
+<section class="newsletter-signup" aria-labelledby="{{ include.id | default: 'newsletter' }}-title">
+  <div class="newsletter-copy">
+    <p class="eyebrow">Research + Capital Field Notes</p>
+    <h2 id="{{ include.id | default: 'newsletter' }}-title">Follow new essays from the frontier</h2>
+    <p>Occasional writing on reliable AI, scientific infrastructure, deep-tech markets, and the systems that turn research into durable companies.</p>
+  </div>
+
+  <form
+    class="newsletter-form"
+    action="https://buttondown.com/api/emails/embed-subscribe/{{ site.buttondown_username | url_encode }}"
+    method="post"
+  >
+    <label class="newsletter-label" for="{{ include.id | default: 'newsletter' }}-email">Email address</label>
+    <div class="newsletter-controls">
+      <input
+        id="{{ include.id | default: 'newsletter' }}-email"
+        type="email"
+        name="email"
+        autocomplete="email"
+        inputmode="email"
+        placeholder="you@example.com"
+        required
+      >
+      <input type="hidden" name="embed" value="1">
+      <button type="submit">Subscribe</button>
+    </div>
+    <p class="newsletter-privacy">
+      Email only. Subscriber records are stored by Buttondown, not in this website's GitHub repository.
+      <a href="https://buttondown.com/legal/privacy" rel="noopener noreferrer">Privacy details</a>.
+    </p>
+  </form>
+</section>
+
+<style>
+  .newsletter-signup {
+    display: grid;
+    grid-template-columns: minmax(0, 1.1fr) minmax(280px, .9fr);
+    gap: 28px;
+    align-items: center;
+    margin: 26px 0;
+    padding: 24px;
+    border: 1px solid var(--green-deep);
+    background: linear-gradient(135deg, rgba(139, 214, 168, .11), rgba(16, 27, 21, .78));
+  }
+
+  .newsletter-signup h2 {
+    margin: 0 0 12px;
+    padding: 0;
+    border: 0;
+  }
+
+  .newsletter-copy > p:last-child {
+    margin-bottom: 0;
+  }
+
+  .newsletter-form {
+    margin: 0;
+  }
+
+  .newsletter-label {
+    display: block;
+    margin-bottom: 8px;
+    color: var(--text);
+    font: 700 12px/1.2 var(--font-mono);
+    letter-spacing: .08em;
+    text-transform: uppercase;
+  }
+
+  .newsletter-controls {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 8px;
+  }
+
+  .newsletter-controls input {
+    min-width: 0;
+    padding: 11px 12px;
+    color: var(--text);
+    border: 1px solid var(--line);
+    border-radius: 0;
+    outline: none;
+    background: rgba(5, 8, 6, .88);
+    font: 14px/1.4 var(--font-text);
+  }
+
+  .newsletter-controls input:focus {
+    border-color: var(--green);
+    box-shadow: 0 0 0 2px rgba(139, 214, 168, .12);
+  }
+
+  .newsletter-controls button {
+    padding: 11px 16px;
+    color: var(--black);
+    border: 1px solid var(--green);
+    border-radius: 0;
+    background: var(--green);
+    cursor: pointer;
+    font: 750 13px/1.4 var(--font-text);
+    letter-spacing: .04em;
+    text-transform: uppercase;
+  }
+
+  .newsletter-controls button:hover,
+  .newsletter-controls button:focus-visible {
+    color: var(--text);
+    background: var(--green-deep);
+  }
+
+  .newsletter-privacy {
+    margin: 9px 0 0;
+    color: var(--faint);
+    font-size: 11px;
+    line-height: 1.5;
+  }
+
+  .newsletter-privacy a {
+    white-space: nowrap;
+  }
+
+  @media (max-width: 760px) {
+    .newsletter-signup {
+      grid-template-columns: 1fr;
+      gap: 18px;
+      padding: 20px;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .newsletter-controls {
+      grid-template-columns: 1fr;
+    }
+
+    .newsletter-controls button {
+      width: 100%;
+    }
+  }
+</style>
