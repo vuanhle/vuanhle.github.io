@@ -32,7 +32,7 @@ The throughline is simple: start from real constraints, learn the science deeply
 <div class="frontier-gallery">
   <figure>
     <img src="/assets/img/frontier-fusion-reactor.webp" alt="Fusion reactor facility" loading="lazy" decoding="async">
-    <figcaption>Fusion</figcaption>
+    <figcaption>Fusion & Advanced Energy</figcaption>
   </figure>
   <figure>
     <img src="/assets/img/frontier-asml-machine.webp" alt="ASML lithography machine" loading="lazy" decoding="async">
@@ -44,7 +44,7 @@ The throughline is simple: start from real constraints, learn the science deeply
   </figure>
   <figure>
     <img src="/assets/img/frontier-dune-ship.webp" alt="Dune-style spacecraft above a planet" loading="lazy" decoding="async">
-    <figcaption>Space</figcaption>
+    <figcaption>Climate & Space</figcaption>
   </figure>
   <figure>
     <img src="/assets/img/frontier-data-compute-ai.webp" alt="Software development windows on a desktop" loading="lazy" decoding="async">
