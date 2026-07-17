@@ -32,11 +32,11 @@ The throughline is simple: start from real constraints, learn the science deeply
 <div class="frontier-gallery">
   <figure>
     <img src="/assets/img/frontier-fusion-reactor.webp" alt="Fusion reactor facility" loading="lazy" decoding="async">
-    <figcaption>Fusion & Advanced Energy</figcaption>
+    <figcaption>Fusion & Sustainable Energy</figcaption>
   </figure>
   <figure>
     <img src="/assets/img/frontier-asml-machine.webp" alt="ASML lithography machine" loading="lazy" decoding="async">
-    <figcaption>Semiconductors</figcaption>
+    <figcaption>Electronics</figcaption>
   </figure>
   <figure>
     <img src="/assets/img/frontier-ag-drone.webp" alt="Agricultural drone over a field" loading="lazy" decoding="async">
