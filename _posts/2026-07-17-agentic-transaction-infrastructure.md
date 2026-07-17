@@ -1,6 +1,7 @@
 ---
 layout: homepage
 title: "You Should Have Already Invested in Agentic Transaction Infrastructure By Now"
+date: 2026-07-17 13:27:25 +0700
 description: A deep-tech investment essay on why agent identity, delegated authority, usage metering, payment orchestration, and settlement are becoming the scarce layer in agentic AI.
 permalink: /blog/agentic-transaction-infrastructure/
 thumbnail: /assets/img/blog/agentic-commerce-thumb.webp

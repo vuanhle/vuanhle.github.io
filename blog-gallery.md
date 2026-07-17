@@ -9,8 +9,9 @@ permalink: /blog-gallery/
 
 <p class="lead">A stack library for research notes, investment thinking, and visual fragments from the frontier between AI, science, and company building.</p>
 
+{% assign posts_newest_first = site.posts | sort: "date" | reverse %}
 <section class="stack-library" aria-label="Blog and gallery stack library">
-  {% for post in site.posts %}
+  {% for post in posts_newest_first %}
   <a class="stack-card" href="{{ post.url | relative_url }}" aria-label="Open {{ post.title }}">
     <img src="{{ post.thumbnail | default: '/assets/img/frontier-data-compute-ai.webp' | relative_url }}" alt="{{ post.thumbnail_alt | default: post.title }}" loading="lazy" decoding="async">
     <span class="stack-index">{{ forloop.index | prepend: '00' | slice: -2, 2 }}</span>

@@ -1,6 +1,7 @@
 ---
 layout: homepage
 title: "The Next AI Scaling Law Will Lie in Swarm Coordination"
+date: 2026-07-17 11:40:11 +0700
 description: An investment-oriented essay on why the next AI scaling law may come from coordination across heterogeneous agents, robots, edge devices, and enterprise workflows.
 permalink: /blog/swarm-coordination-scaling-law/
 thumbnail: /assets/img/blog/swarm-coordination-thumb.svg
