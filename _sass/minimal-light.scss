@@ -667,6 +667,80 @@ figcaption {
   line-height: 1.45;
 }
 
+.concept-stack {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  margin: 18px 0 20px;
+}
+
+.concept-stack article {
+  padding: 16px;
+  border: 1px solid var(--line);
+  background: rgba(16, 27, 21, .82);
+}
+
+.concept-stack span {
+  display: block;
+  margin-bottom: 10px;
+  color: var(--green);
+  font: 700 12px/1 var(--font-mono);
+}
+
+.concept-stack h3 {
+  margin-bottom: 8px;
+}
+
+.concept-stack p {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.48;
+}
+
+.essay-deployment-photo {
+  margin: 18px 0 24px;
+}
+
+.essay-deployment-photo img {
+  display: block;
+  width: 100%;
+  max-height: 420px;
+  object-fit: cover;
+  border: 1px solid var(--green-deep);
+  background: var(--black);
+}
+
+.essay-protocol-strip {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+  margin: 18px 0 24px;
+}
+
+.essay-protocol-strip article {
+  padding: 14px;
+  border: 1px solid var(--line);
+  background: rgba(16, 27, 21, .82);
+}
+
+.essay-protocol-strip img {
+  width: 30px;
+  height: 30px;
+  margin-bottom: 10px;
+  object-fit: contain;
+}
+
+.essay-protocol-strip h3 {
+  margin-bottom: 6px;
+  font-size: 15px;
+}
+
+.essay-protocol-strip p {
+  margin: 0;
+  font-size: 12px;
+  line-height: 1.4;
+}
+
 .mermaid {
   margin: 18px 0;
   padding: 16px;
@@ -930,6 +1004,11 @@ papertitle {
   }
 
   .essay-example-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .concept-stack,
+  .essay-protocol-strip {
     grid-template-columns: 1fr;
   }
 
