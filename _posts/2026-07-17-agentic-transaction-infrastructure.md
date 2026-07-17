@@ -21,8 +21,6 @@ mermaid: true
 
 Assumptions: the explicit forecast horizon is **one to three years**; risk tolerance was unspecified, so this is written for an investor willing to underwrite infrastructure/platform risk rather than only application-layer velocity.
 
-## Adoption
-
 ## Concept stack for investors
 
 <div class="concept-stack" aria-label="Investor concept stack for agentic transaction infrastructure">
@@ -34,6 +32,7 @@ Assumptions: the explicit forecast horizon is **one to three years**; risk toler
 
 Investor translation: the investable bottleneck is not simply "agents can pay." It is the control plane that proves who the agent is, what it is allowed to do, how usage is priced, and how the outcome gets settled when something breaks.
 
+## Adoption
 
 ```mermaid
 flowchart LR
@@ -102,7 +101,7 @@ My third projection is that **machine-led digital spend scales before mainstream
 
 When I evaluate a company in this category, I would ask five questions.
 
-- Does it own **identity plus policy**, or is it merely a thin payment wrapper?
+- Does it own **identity plus policy**, or is it only a thin payment wrapper?
 - Can it prove **delegated authority** with approval, spend, and audit controls?
 - Does it sit on a compounding surface with **merchant, API, or model distribution**?
 - Is pricing aligned to **usage, outcomes, or settlement volume** rather than seat count alone?
