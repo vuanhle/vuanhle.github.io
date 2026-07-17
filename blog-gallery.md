@@ -9,6 +9,8 @@ permalink: /blog-gallery/
 
 <p class="lead">A stack library for research notes, investment thinking, and visual fragments from the frontier between AI, science, and company building.</p>
 
+{% include subscribe-form.html id="blog-gallery" %}
+
 <section class="stack-library" aria-label="Blog and gallery stack library">
   {% for post in site.posts %}
   <a class="stack-card" href="{{ post.url | relative_url }}" aria-label="Open {{ post.title }}">
