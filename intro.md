@@ -27,6 +27,10 @@ I want to work with research labs, founders, and investors who care about durabl
   <img class="centered-image intro-image" src="/assets/img/intro-farming.webp" alt="Small farm garden beside homes" loading="lazy" decoding="async">
 </figure>
 
+<figure>
+  <img class="centered-image intro-image" src="/assets/img/intro-farming-hillside.webp" alt="Mountain hillside farmland surrounded by forest" loading="lazy" decoding="async">
+</figure>
+
 ## Long-Term Positioning
 
 My long-term goal is to become a deep-tech investor-builder with research-level technical fluency: someone able to identify underappreciated breakthroughs, understand their limitations, and help ambitious teams translate technical depth into scaling companies.
