@@ -91,20 +91,6 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
 </section>
 
 <section>
-  <h2>Technical and Investment Skills</h2>
-  <div class="skill-columns">
-    <div>
-      <h3>Technical</h3>
-      <p>Machine learning, LLM evaluation, data contamination detection, statistical reasoning, mathematical modeling, remote sensing, Python research workflows, and scientific communication.</p>
-    </div>
-    <div>
-      <h3>Investment</h3>
-      <p>Market research, investment memo writing, competitive landscaping, founder assessment, technical diligence, business model reasoning, and deep-tech thesis development.</p>
-    </div>
-  </div>
-</section>
-
-<section>
   <h2>Publications</h2>
   <p>Selected work appears below; the live publication record is maintained on <a href="https://scholar.google.com/citations?user=v3_DrtcAAAAJ&hl=en">Google Scholar</a>.</p>
   {% include publications.md %}
