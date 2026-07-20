@@ -52,29 +52,6 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
 </section>
 
 <section>
-  <h2>Featured Projects</h2>
-  <div class="project-card">
-    <img class="centered-image project-image" src="/assets/img/rnf-project.png" alt="RN-F residual-noise fingerprinting project visual" loading="lazy" decoding="async">
-    <div>
-      <p class="eyebrow">LLM Reliability / ICML 2025</p>
-      <h3>RN-F: A Novel Approach for Mitigating Contaminated Data in Large Language Models</h3>
-      <p>Residual-Noise Fingerprinting uses quantization residuals as a lightweight, gradient-free signal for identifying contaminated examples in large language model workflows. The work sits directly in the reliability layer needed for trustworthy AI systems.</p>
-      <a href="https://icml.cc/virtual/2025/51024">View ICML page</a>
-    </div>
-  </div>
-  <div class="project-card">
-    <img class="centered-image project-image" src="/assets/img/subsidence-project.webp" alt="Satellite intelligence project visual for urban subsidence risk" loading="lazy" decoding="async">
-    <div>
-      <p class="eyebrow">Remote Sensing / Risk Intelligence</p>
-      <h3>Satellite Intelligence for Urban Subsidence Risk</h3>
-      <p>Applied satellite monitoring and geospatial analysis to assess land subsidence risk, translating scientific sensing into infrastructure and investment-relevant intelligence.</p>
-      <a href="https://www.tandfonline.com/doi/abs/10.1080/00207233.2024.2324623">View publication</a>
-    </div>
-  </div>
-  <p><a class="button-link" href="/research/#featured-projects">Explore featured projects</a></p>
-</section>
-
-<section>
   <h2>Venture Capital and Job Experience</h2>
   <p>I am shaping my career around roles that combine research depth with capital allocation: technical diligence, AI investment research, startup evaluation, and deep-tech company formation.</p>
   <div class="experience-list">
