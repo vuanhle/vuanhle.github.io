@@ -86,3 +86,9 @@ I like companies where technical depth creates defensibility: proprietary data l
   <article><h3>Quantitative Analytics</h3></article>
   <article><h3>Environmental Informatics</h3></article>
 </div>
+
+## CV
+
+<p class="lead">My current CV is embedded below. You can also <a href="/assets/img/CV.pdf">open it directly</a>.</p>
+
+<iframe class="cv-frame" src="/assets/img/CV.pdf" title="Vu-Anh Le CV" loading="lazy"></iframe>
