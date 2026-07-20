@@ -20,7 +20,7 @@ permalink: /research/
   <img class="centered-image research-figure" src="/assets/img/research-scaling-model.webp" alt="Three-dimensional model showing geometric scaling inside a transparent volume" width="622" height="406" loading="lazy" decoding="async">
 </figure>
 
-## Featured Projects
+<h2 id="featured-projects">Featured Projects</h2>
 
 <div class="project-card project-card-large">
   <img class="centered-image project-image" src="/assets/img/rnf-project.png" alt="RN-F residual-noise fingerprinting visual" loading="lazy" decoding="async">

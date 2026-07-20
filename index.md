@@ -71,7 +71,7 @@ description: Vu-Anh Le works at the intersection of reliable machine learning, A
       <a href="https://www.tandfonline.com/doi/abs/10.1080/00207233.2024.2324623">View publication</a>
     </div>
   </div>
-  <p><a class="button-link" href="/featured-projects/">Explore featured projects</a></p>
+  <p><a class="button-link" href="/research/#featured-projects">Explore featured projects</a></p>
 </section>
 
 <section>
