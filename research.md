@@ -1,57 +1,20 @@
 ---
 layout: homepage
 title: Research | Vu-Anh Le
-description: Vu-Anh Le's research agenda across reliable machine learning, AI for science, constrained modeling, LLM reliability, and technical systems.
+description: Vu-Anh Le's research agenda in closed-loop AI4Science, machine learning theory, constrained generative modelling, multiagent systems, bio-modelling, and drug discovery.
 permalink: /research/
 ---
 
 # Research
 
-<p class="lead">My research sits at the intersection of reliable machine learning, AI for science, and technical systems where errors have real downstream consequences.</p>
+<p class="lead">My research is centered on closed-loop AI4Science: AI-driven scientific systems that can propose hypotheses, interact with models and tools, evaluate feedback, and refine decisions under scientific constraints.</p>
 
-## Research Agenda
+## Research Directions
 
-- **Reliable Machine Learning:** studying how models behave under uncertainty, distribution shift, contamination, and scientific constraints.
-- **LLM Reliability:** developing lightweight signals for identifying contaminated or memorized data in large model workflows.
-- **AI for Science:** building learning systems for scientific discovery where structure, feasibility, and interpretability matter.
-- **Constrained Generative Modeling:** designing models whose outputs are not just plausible, but valid under domain constraints.
+- **Theory of Machine Learning:** studying the foundations of learning systems, with an emphasis on constrained generative modelling where outputs must satisfy scientific, structural, or physical requirements.
+- **Closed-loop AI4Science:** building AI systems that reason, act, evaluate, and improve through feedback, with particular interest in multiagent systems for scientific discovery workflows.
+- **Applications:** applying these ideas to bio-modelling and drug discovery, where closed-loop systems can connect models, experiments, and domain constraints.
 
 <figure>
   <img class="centered-image research-figure" src="/assets/img/research-scaling-model.webp" alt="Three-dimensional model showing geometric scaling inside a transparent volume" width="622" height="406" loading="lazy" decoding="async">
 </figure>
-
-<h2 id="featured-projects">Featured Projects</h2>
-
-<div class="project-card project-card-large">
-  <img class="centered-image project-image" src="/assets/img/rnf-project.png" alt="RN-F residual-noise fingerprinting visual" loading="lazy" decoding="async">
-  <div>
-    <p class="eyebrow">LLM Reliability</p>
-    <h2>RN-F: A Novel Approach for Mitigating Contaminated Data in Large Language Models</h2>
-    <p>RN-F introduces Residual-Noise Fingerprinting, a single-pass, gradient-free framework for detecting contaminated data in large language model workflows. The method uses quantization residuals as a statistical signal, targeting a practical reliability problem for modern AI systems.</p>
-    <div class="metric-grid">
-      <div><span>1</span><p>extra inference pass for residual comparison</p></div>
-      <div><span>512</span><p>clean calibration samples used in the framework</p></div>
-      <div><span>40s</span><p>reported calibration time on a T4-class GPU setup</p></div>
-      <div><span>4.5%</span><p>reported energy overhead for practical deployment</p></div>
-    </div>
-    <p><strong>Why it matters:</strong> data contamination weakens evaluation credibility, model governance, and investor/operator confidence in AI systems. RN-F points toward efficient technical controls for trustworthy model development.</p>
-    <p><a href="https://icml.cc/virtual/2025/51024">ICML page</a> | <a href="https://arxiv.org/abs/2505.13249">arXiv</a></p>
-  </div>
-</div>
-
-<div class="project-card project-card-large">
-  <img class="centered-image project-image" src="/assets/img/subsidence-project.webp" alt="Satellite intelligence for urban subsidence risk visual" loading="lazy" decoding="async">
-  <div>
-    <p class="eyebrow">Satellite Intelligence</p>
-    <h2>Satellite Intelligence for Urban Subsidence Risk</h2>
-    <p>This work applies satellite-based monitoring and geospatial analysis to land subsidence risk, connecting scientific sensing with infrastructure resilience and urban decision-making.</p>
-    <div class="metric-grid">
-      <div><span>HCMC</span><p>urban subsidence risk mapped across Ho Chi Minh City</p></div>
-      <div><span>mm/year</span><p>vertical velocity interpretation for infrastructure risk</p></div>
-      <div><span>GIS</span><p>map-based integration of districts, roads, and risk zones</p></div>
-      <div><span>2024</span><p>publication year for the remote-sensing work</p></div>
-    </div>
-    <p><strong>Why it matters:</strong> subsidence affects cities, transport systems, real estate, insurance, and climate resilience. The project reflects the kind of deep-tech interface where scientific data can become operational and investment-relevant intelligence.</p>
-    <p><a href="https://www.tandfonline.com/doi/abs/10.1080/00207233.2024.2324623">Publication link</a></p>
-  </div>
-</div>

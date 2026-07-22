@@ -1,6 +1,6 @@
 # Basic Information
 title: Vu-Anh Le (Anh)
-position: AI PhD Student | Deep-Tech Venture Capital
+position: PhD Student | AI4Science
 department: Department of Computer Science
 university: University of Virginia
 affiliation: Department of Computer Science, University of Virginia
@@ -13,8 +13,8 @@ baseurl: ""
 url: "https://vuanhle.github.io"
 
 # Search Engine Optimization (SEO)
-keywords: Vu-Anh Le, Le Vu Anh, AI4Science, deep tech, venture capital, machine learning, LLM reliability, data contamination, RN-F, remote sensing, satellite intelligence, land subsidence, University of Virginia
-description: Vu-Anh Le is a computer science Ph.D. student and researcher working across reliable machine learning, AI for science, satellite intelligence, venture capital, and deep-tech company building.
+keywords: Vu-Anh Le, Le Vu Anh, AI4Science, closed-loop AI4Science, machine learning theory, constrained generative modelling, multiagent systems, bio-modelling, drug discovery, University of Virginia
+description: Vu-Anh Le is a Computer Science Ph.D. student at the University of Virginia researching closed-loop, AI-driven scientific systems.
 canonical: https://vuanhle.github.io/
 author: Vu-Anh Le
 lang: en-US

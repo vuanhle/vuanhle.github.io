@@ -1,13 +1,13 @@
 :root {
-  --bg: #050806;
-  --panel: #0b1410;
-  --panel-2: #101b15;
-  --text: #f5fff8;
-  --muted: #b8c9bd;
-  --faint: #728173;
-  --line: #203528;
-  --green: #8bd6a8;
-  --green-deep: #2a5c45;
+  --bg: #f7faf6;
+  --panel: #ffffff;
+  --panel-2: #edf7f1;
+  --text: #0e1812;
+  --muted: #34483b;
+  --faint: #6b7a6f;
+  --line: #c9d9ce;
+  --green: #007a4d;
+  --green-deep: #82c69f;
   --white: #ffffff;
   --black: #000000;
   --font-display: "Alliance No. 1", "Alliance No. 2", "Druk Wide", "Helvetica Neue", Arial, sans-serif;
@@ -29,8 +29,8 @@ body {
   margin: 0;
   padding: 0;
   background:
-    linear-gradient(90deg, rgba(139, 214, 168, .04) 1px, transparent 1px),
-    linear-gradient(180deg, rgba(139, 214, 168, .04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 122, 77, .045) 1px, transparent 1px),
+    linear-gradient(180deg, rgba(0, 122, 77, .045) 1px, transparent 1px),
     var(--bg);
   background-size: 72px 72px;
   color: var(--text);
@@ -51,7 +51,7 @@ header {
   padding: 56px 28px 40px;
   text-align: left;
   border-right: 1px solid var(--line);
-  background: rgba(5, 8, 6, .86);
+  background: rgba(255, 255, 255, .92);
   backdrop-filter: blur(10px);
 }
 
@@ -104,7 +104,7 @@ p, li {
 }
 
 strong {
-  color: var(--white);
+  color: var(--text);
   font-weight: 650;
 }
 
@@ -114,7 +114,7 @@ a {
 }
 
 a:hover {
-  color: var(--white);
+  color: var(--text);
 }
 
 img {
@@ -224,9 +224,9 @@ header h1 {
 }
 
 .social-icons a:hover {
-  color: var(--white) !important;
+  color: var(--text) !important;
   border-color: var(--green);
-  background: var(--green-deep);
+  background: var(--panel-2);
 }
 
 .site-nav {
@@ -248,7 +248,7 @@ header h1 {
 }
 
 .site-nav a:hover {
-  color: var(--white);
+  color: var(--text);
   border-color: var(--green-deep);
   background: var(--panel);
 }
@@ -264,7 +264,7 @@ header h1 {
   object-fit: cover;
   object-position: center 36%;
   border: 1px solid var(--line);
-  filter: grayscale(.18) contrast(1.08) brightness(.82);
+  filter: grayscale(.08) contrast(1.04) brightness(1);
 }
 
 figcaption {
@@ -277,7 +277,7 @@ figcaption {
 .intro-panel {
   padding: 30px;
   margin-bottom: 18px;
-  background: linear-gradient(135deg, rgba(139, 214, 168, .12), rgba(16, 27, 21, .7));
+  background: linear-gradient(135deg, rgba(0, 122, 77, .08), rgba(255, 255, 255, .96));
   border: 1px solid var(--green-deep);
 }
 
@@ -373,7 +373,7 @@ figcaption {
   padding: 9px 13px;
   color: var(--text);
   border: 1px solid var(--green-deep);
-  background: var(--black);
+  background: var(--panel);
   font-size: 13px;
   text-transform: uppercase;
 }
@@ -392,7 +392,7 @@ figcaption {
 
 .button-link-strong:hover {
   color: var(--text);
-  background: var(--green-deep);
+  background: var(--panel-2);
 }
 
 .logo-strip {
@@ -404,7 +404,7 @@ figcaption {
   margin: 12px 0 24px;
   padding: 14px 18px;
   border: 1px solid var(--line);
-  background: rgba(16, 27, 21, .6);
+  background: rgba(255, 255, 255, .88);
 }
 
 .logo-strip img {
@@ -428,7 +428,7 @@ figcaption {
 .project-card,
 .skill-columns > div,
 .experience-item {
-  background: rgba(16, 27, 21, .82);
+  background: rgba(255, 255, 255, .94);
   border: 1px solid var(--line);
 }
 
@@ -471,7 +471,7 @@ figcaption {
   max-height: 460px;
   object-fit: contain;
   border: 1px solid var(--green-deep);
-  background: var(--black);
+  background: var(--white);
 }
 
 .metric-grid {
@@ -484,7 +484,7 @@ figcaption {
 .metric-grid div {
   padding: 12px;
   border: 1px solid var(--line);
-  background: rgba(5, 8, 6, .58);
+  background: #f1f8f3;
 }
 
 .metric-grid span {
@@ -535,7 +535,7 @@ figcaption {
   height: 118px;
   object-fit: cover;
   border: 1px solid var(--green-deep);
-  background: var(--black);
+  background: var(--white);
 }
 
 .frontier-gallery figcaption {
@@ -638,7 +638,7 @@ figcaption {
   margin: 20px 0 24px;
   padding: 18px;
   border: 1px solid var(--green-deep);
-  background: rgba(16, 27, 21, .72);
+  background: rgba(255, 255, 255, .94);
   overflow-x: auto;
 }
 
@@ -646,7 +646,7 @@ figcaption {
   display: block;
   width: 100%;
   border: 1px solid var(--line);
-  background: var(--black);
+  background: var(--white);
 }
 
 .essay-visual--natural img {
@@ -664,7 +664,7 @@ figcaption {
 .essay-example-grid article {
   padding: 16px;
   border: 1px solid var(--line);
-  background: rgba(16, 27, 21, .82);
+  background: rgba(255, 255, 255, .94);
 }
 
 .essay-example-grid img {
@@ -695,7 +695,7 @@ figcaption {
 .concept-stack article {
   padding: 16px;
   border: 1px solid var(--line);
-  background: rgba(16, 27, 21, .82);
+  background: rgba(255, 255, 255, .94);
 }
 
 .concept-stack span {
@@ -725,7 +725,7 @@ figcaption {
   max-height: 420px;
   object-fit: cover;
   border: 1px solid var(--green-deep);
-  background: var(--black);
+  background: var(--white);
 }
 
 .essay-realworld-grid {
@@ -738,7 +738,7 @@ figcaption {
 .essay-realworld-grid figure {
   margin: 0;
   border: 1px solid var(--line);
-  background: rgba(16, 27, 21, .82);
+  background: rgba(255, 255, 255, .94);
 }
 
 .essay-realworld-grid img {
@@ -766,7 +766,7 @@ figcaption {
 .essay-protocol-strip article {
   padding: 14px;
   border: 1px solid var(--line);
-  background: rgba(16, 27, 21, .82);
+  background: rgba(255, 255, 255, .94);
 }
 
 .essay-protocol-strip img {
@@ -792,14 +792,14 @@ figcaption {
   padding: 16px;
   overflow-x: auto;
   border: 1px solid var(--green-deep);
-  background: var(--black);
+  background: var(--white);
 }
 
 .mapmyvisitors-card {
   margin-top: 16px;
   padding: 18px;
   border: 1px solid var(--line);
-  background: rgba(16, 27, 21, .72);
+  background: rgba(255, 255, 255, .94);
 }
 
 .mapmyvisitors-widget {
@@ -807,7 +807,7 @@ figcaption {
   display: grid;
   place-items: center;
   border: 1px solid var(--green-deep);
-  background: #050806;
+  background: var(--white);
 }
 
 .mapmyvisitors-widget > * {
@@ -917,7 +917,7 @@ figcaption {
 .skill-feed article {
   padding: 14px 16px;
   border: 1px solid var(--line);
-  background: rgba(16, 27, 21, .82);
+  background: rgba(255, 255, 255, .94);
 }
 
 .skill-feed h3 {
