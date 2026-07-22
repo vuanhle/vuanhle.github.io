@@ -5,7 +5,7 @@ description: Vu-Anh Le researches closed-loop, AI-driven scientific systems for 
 ---
 
 <figure class="hero-figure">
-  <img src="/assets/img/ai4science-frontier.webp" alt="AI for Science campaign graphic" width="1280" height="414" loading="eager" decoding="async">
+  <img src="/assets/img/blackhole-ai4science-hero.webp" alt="Black hole accretion disk in space" width="1280" height="720" loading="eager" decoding="async" fetchpriority="high">
   <figcaption>AI4Science: closed-loop systems for scientific discovery.</figcaption>
 </figure>
 
@@ -21,7 +21,7 @@ description: Vu-Anh Le researches closed-loop, AI-driven scientific systems for 
 </section>
 
 <div class="logo-strip" aria-label="Affiliations and experience">
-  <img src="/assets/img/logo-uva.png" alt="University of Virginia logo" loading="lazy" decoding="async">
+  <img src="/assets/img/logo-uva.webp" alt="University of Virginia logo" loading="lazy" decoding="async">
 </div>
 
 <section>
@@ -29,7 +29,7 @@ description: Vu-Anh Le researches closed-loop, AI-driven scientific systems for 
   <p>I am shaping my career around research roles in AI4Science.</p>
   <div class="experience-list">
     <article class="experience-item">
-      <img src="/assets/img/logo-uva.png" alt="University of Virginia logo" loading="lazy" decoding="async">
+      <img src="/assets/img/logo-uva.webp" alt="University of Virginia logo" loading="lazy" decoding="async">
       <div>
         <p class="eyebrow">Aug 2026 - Present</p>
         <h3>Doctoral Student, University of Virginia</h3>
@@ -37,7 +37,7 @@ description: Vu-Anh Le researches closed-loop, AI-driven scientific systems for 
       </div>
     </article>
     <article class="experience-item">
-      <img src="/assets/img/logo-antler.png" alt="Antler logo" loading="lazy" decoding="async">
+      <img src="/assets/img/logo-antler.webp" alt="Antler logo" loading="lazy" decoding="async">
       <div>
         <p class="eyebrow">Jun 2025 - Aug 2025</p>
         <h3>Resident, VN8 Cohort, Antler</h3>
@@ -45,7 +45,7 @@ description: Vu-Anh Le researches closed-loop, AI-driven scientific systems for 
       </div>
     </article>
     <article class="experience-item">
-      <img src="/assets/img/logo-mit.png" alt="MIT logo" loading="lazy" decoding="async">
+      <img src="/assets/img/logo-mit.webp" alt="MIT logo" loading="lazy" decoding="async">
       <div>
         <p class="eyebrow">Jun 2024 - Aug 2024</p>
         <h3>MIT Summer Research Program Intern, Massachusetts Institute of Technology</h3>
@@ -72,7 +72,7 @@ description: Vu-Anh Le researches closed-loop, AI-driven scientific systems for 
   <h2>Visitor Map</h2>
   <div class="mapmyvisitors-card">
     <div class="mapmyvisitors-widget">
-      <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=JNgQt1dBsAC9EVMhpT0Ww3h-vt6niVfSAstxyuGkBSs&cl=ffffff&w=a" defer></script>
+      <a href="https://mapmyvisitors.com/web/1c6ls" title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=JNgQt1dBsAC9EVMhpT0Ww3h-vt6niVfSAstxyuGkBSs&cl=ffffff" alt="Visitor map" loading="lazy" decoding="async"></a>
     </div>
     <p class="mapmyvisitors-link"><a href="https://mapmyvisitors.com/web/1c6ls">View website statistics</a></p>
   </div>
