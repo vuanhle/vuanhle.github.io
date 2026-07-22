@@ -5,7 +5,7 @@ description: Vu-Anh Le researches closed-loop, AI-driven scientific systems for 
 ---
 
 <figure class="hero-figure">
-  <img src="/assets/img/cubesats-frontier.webp" alt="Two CubeSats orbiting above Earth" width="1280" height="960" loading="eager" decoding="async">
+  <img src="/assets/img/ai4science-frontier.webp" alt="AI for Science campaign graphic" width="1280" height="414" loading="eager" decoding="async">
   <figcaption>AI4Science: closed-loop systems for scientific discovery.</figcaption>
 </figure>
 
@@ -16,7 +16,6 @@ description: Vu-Anh Le researches closed-loop, AI-driven scientific systems for 
   <p>I am targeting research roles in AI4Science domain.</p>
   <div class="cta-row">
     <a class="button-link button-link-strong" href="/research/">Research</a>
-    <a class="button-link button-link-strong" href="/assets/img/CV.pdf">Download CV</a>
     <a class="button-link button-link-strong" href="mailto:mcu7uh@virginia.edu">Contact Me</a>
   </div>
 </section>
