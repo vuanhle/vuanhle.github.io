@@ -13,7 +13,6 @@ description: Vu-Anh Le researches closed-loop, AI-driven scientific systems for 
   <p class="eyebrow">AI4Science</p>
   <h1>Make closed-loop AI4Science possible</h1>
   <p class="lead">I am Anh, a Ph.D. student in Computer Science at the University of Virginia and a researcher focused on closed-loop, AI-driven scientific systems.</p>
-  <p>I am targeting research roles in AI4Science domain.</p>
   <div class="cta-row">
     <a class="button-link button-link-strong" href="/research/">Research</a>
     <a class="button-link button-link-strong" href="mailto:mcu7uh@virginia.edu">Contact Me</a>
