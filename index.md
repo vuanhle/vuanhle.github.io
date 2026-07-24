@@ -36,14 +36,6 @@ description: Vu-Anh Le researches closed-loop, AI-driven scientific systems for 
       </div>
     </article>
     <article class="experience-item">
-      <img src="/assets/img/logo-antler.webp" alt="Antler logo" loading="lazy" decoding="async">
-      <div>
-        <p class="eyebrow">Jun 2025 - Aug 2025</p>
-        <h3>Resident, VN8 Cohort, Antler</h3>
-        <p>Explored how AI-driven scientific systems can move from research questions to deployable workflows, sharpening judgment around problem selection, technical feasibility, and real-world constraints.</p>
-      </div>
-    </article>
-    <article class="experience-item">
       <img src="/assets/img/logo-mit.webp" alt="MIT logo" loading="lazy" decoding="async">
       <div>
         <p class="eyebrow">Jun 2024 - Aug 2024</p>
