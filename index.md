@@ -24,7 +24,7 @@ description: Vu-Anh Le researches closed-loop, AI-driven scientific systems for 
 </div>
 
 <section>
-  <h2>Research Experience</h2>
+  <h2>Experience</h2>
   <p>I am shaping my career around research roles in AI4Science.</p>
   <div class="experience-list">
     <article class="experience-item">
@@ -33,6 +33,14 @@ description: Vu-Anh Le researches closed-loop, AI-driven scientific systems for 
         <p class="eyebrow">Aug 2026 - Present</p>
         <h3>Doctoral Student, University of Virginia</h3>
         <p>Conducting Ph.D. research on closed-loop AI4Science, reliable machine learning, and constrained generative modelling for scientific systems as part of the RAISE Group, advised by <a href="https://nandofioretto.github.io/group/">Nando Fioretto</a>.</p>
+      </div>
+    </article>
+    <article class="experience-item">
+      <img src="/assets/img/logo-antler.webp" alt="Antler logo" loading="lazy" decoding="async">
+      <div>
+        <p class="eyebrow">Jun 2025 - Aug 2025</p>
+        <h3>Resident, VN8 Cohort, Antler</h3>
+        <p>Explored how AI-driven scientific systems can move from research questions to deployable workflows, sharpening judgment around problem selection, technical feasibility, and real-world constraints.</p>
       </div>
     </article>
     <article class="experience-item">
