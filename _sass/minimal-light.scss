@@ -370,9 +370,9 @@ figcaption {
 }
 
 .research-figure {
-  width: 1024px;
-  max-width: none;
-  height: 1536px;
+  width: 100%;
+  max-width: 1024px;
+  height: auto;
   border: 1px solid var(--green-deep);
   background: var(--white);
 }
@@ -380,8 +380,6 @@ figcaption {
 .research-figure-frame {
   width: 100%;
   margin: 18px 0;
-  overflow-x: auto;
-  overflow-y: hidden;
 }
 
 .stack-library {
