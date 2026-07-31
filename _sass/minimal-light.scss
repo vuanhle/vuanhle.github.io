@@ -61,8 +61,7 @@ header {
   padding: 42px 0 54px;
 }
 
-.wrapper > section > section,
-.wrapper > section > .signal-grid {
+.wrapper > section > section {
   width: auto;
   float: none;
   padding: 0;
@@ -290,63 +289,6 @@ figcaption {
   margin-bottom: 20px;
 }
 
-.recruiting-callout {
-  display: grid;
-  grid-template-columns: 34px 1fr;
-  gap: 14px;
-  align-items: center;
-  margin: 0 0 22px;
-  padding: 14px 16px;
-  border: 1px solid var(--green);
-  background: rgba(139, 214, 168, .1);
-}
-
-.recruiting-callout span {
-  display: grid;
-  width: 34px;
-  height: 34px;
-  place-items: center;
-  color: var(--black);
-  background: var(--green);
-  font: 800 19px/1 var(--font-display);
-  animation: attention-pulse 1.7s ease-in-out infinite;
-  will-change: transform, box-shadow;
-}
-
-.recruiting-callout p {
-  margin: 0;
-  color: var(--text);
-  font-weight: 650;
-  line-height: 1.45;
-}
-
-.recruiting-callout:hover span {
-  animation-duration: .85s;
-}
-
-@keyframes attention-pulse {
-  0%, 100% {
-    transform: translateY(0) scale(1);
-    box-shadow: 0 0 0 rgba(139, 214, 168, 0);
-  }
-
-  42% {
-    transform: translateY(-3px) scale(1.08);
-    box-shadow: 0 0 18px rgba(139, 214, 168, .45);
-  }
-
-  58% {
-    transform: translateY(2px) scale(.98);
-  }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .recruiting-callout span {
-    animation: none;
-    will-change: auto;
-  }
-}
-
 .lead {
   color: var(--text);
   font-size: 18px;
@@ -417,99 +359,14 @@ figcaption {
   border: 1px solid rgba(139, 214, 168, .2);
 }
 
-.signal-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 14px;
-  margin: 20px 0 22px;
-}
-
-.signal-grid article,
-.project-card,
-.skill-columns > div,
 .experience-item {
   background: rgba(255, 255, 255, .94);
   border: 1px solid var(--line);
 }
 
-.signal-grid article {
-  padding: 16px;
-}
-
-.signal-grid span {
-  color: var(--green);
-  font: 700 12px/1 var(--font-mono);
-}
-
-.signal-grid h2 {
-  margin: 14px 0 12px;
-  padding: 0;
-  border: 0;
-  font-size: 18px;
-}
-
-.signal-grid p {
-  margin: 0;
-  font-size: 14px;
-}
-
-.project-card {
-  display: grid;
-  grid-template-columns: 260px 1fr;
-  gap: 22px;
-  align-items: center;
-  margin: 14px 0;
-  padding: 18px;
-}
-
-.project-card-large {
-  grid-template-columns: 1fr;
-}
-
-.project-image {
-  width: 100%;
-  max-height: 460px;
-  object-fit: contain;
-  border: 1px solid var(--green-deep);
-  background: var(--white);
-}
-
-.metric-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 10px;
-  margin: 16px 0 18px;
-}
-
-.metric-grid div {
-  padding: 12px;
-  border: 1px solid var(--line);
-  background: #f1f8f3;
-}
-
-.metric-grid span {
-  display: block;
-  margin-bottom: 5px;
-  color: var(--green);
-  font: 800 18px/1 var(--font-display);
-}
-
-.metric-grid p {
-  margin: 0;
-  font-size: 12px;
-  line-height: 1.4;
-}
-
 .centered-image {
   display: block;
   margin: 18px auto;
-}
-
-.intro-image {
-  width: 100%;
-  max-height: 420px;
-  object-fit: cover;
-  border: 1px solid var(--green-deep);
 }
 
 .research-figure {
@@ -525,34 +382,6 @@ figcaption {
   margin: 18px 0;
   overflow-x: auto;
   overflow-y: hidden;
-}
-
-.frontier-gallery {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 12px;
-  margin: 22px 0 0;
-}
-
-.frontier-gallery figure {
-  margin: 0;
-}
-
-.frontier-gallery img {
-  display: block;
-  width: 100%;
-  height: 118px;
-  object-fit: cover;
-  border: 1px solid var(--green-deep);
-  background: var(--white);
-}
-
-.frontier-gallery figcaption {
-  margin-top: 7px;
-  color: var(--green);
-  font: 700 11px/1.2 var(--font-mono);
-  letter-spacing: .08em;
-  text-transform: uppercase;
 }
 
 .stack-library {
@@ -631,18 +460,6 @@ figcaption {
 .stack-card p:last-child {
   margin-bottom: 0;
   color: var(--white);
-}
-
-.sr-only {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  white-space: nowrap;
-  border: 0;
 }
 
 .essay-visual {
@@ -838,20 +655,6 @@ figcaption {
   margin-bottom: 8px;
 }
 
-.skill-columns {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 16px;
-}
-
-.skill-columns > div {
-  padding: 18px;
-}
-
-.skill-columns h3 {
-  color: var(--green);
-}
-
 .experience-list {
   display: grid;
   gap: 12px;
@@ -881,99 +684,6 @@ figcaption {
 
 .experience-item p:last-child {
   margin-bottom: 0;
-}
-
-.linkedin-list,
-.skill-feed {
-  display: grid;
-  gap: 0;
-  margin-top: 16px;
-  border-top: 1px solid var(--line);
-}
-
-.linkedin-item {
-  display: grid;
-  grid-template-columns: 72px 1fr;
-  gap: 16px;
-  padding: 18px 0;
-  border-bottom: 1px solid var(--line);
-}
-
-.linkedin-item img {
-  width: 56px;
-  height: 56px;
-  object-fit: contain;
-  padding: 7px;
-  background: var(--white);
-  border: 1px solid rgba(139, 214, 168, .25);
-}
-
-.linkedin-item h3,
-.skill-feed h3 {
-  margin-bottom: 4px;
-}
-
-.muted-line {
-  margin-bottom: 2px;
-  color: var(--faint);
-  font-size: 14px;
-}
-
-.skill-note {
-  margin-top: 8px;
-  color: var(--text);
-  font-weight: 650;
-}
-
-.skill-feed article {
-  padding: 14px 16px;
-  border: 1px solid var(--line);
-  background: rgba(255, 255, 255, .94);
-}
-
-.skill-feed h3 {
-  margin: 0;
-  color: var(--text);
-  font-size: 16px;
-}
-
-.skill-feed {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 10px;
-  border-top: 0;
-}
-
-.cv-frame {
-  display: block;
-  width: 100%;
-  min-height: 900px;
-  border: 1px solid var(--green-deep);
-  background: var(--white);
-}
-
-.pub-row {
-  display: grid;
-  grid-template-columns: 190px 1fr;
-  gap: 18px;
-  align-items: center;
-}
-
-papertitle {
-  color: var(--text);
-  font-weight: 650;
-}
-
-.biblink,
-.fakelink {
-  text-decoration: none;
-  cursor: pointer;
-}
-
-.bibref {
-  display: none;
-  margin-top: 10px;
-  font-family: var(--font-mono);
-  font-size: 70%;
 }
 
 @media print, screen and (max-width: 1080px) {
@@ -1014,13 +724,7 @@ papertitle {
     font-size: 32px;
   }
 
-  .signal-grid,
-  .skill-columns,
-  .project-card,
-  .pub-row,
   .experience-item,
-  .linkedin-item,
-  .metric-grid,
   .logo-strip {
     gap: 8px;
     padding: 8px 10px;
@@ -1044,14 +748,6 @@ papertitle {
     padding: 24px;
   }
 
-  .cv-frame {
-    min-height: 680px;
-  }
-
-  .frontier-gallery {
-    grid-template-columns: repeat(2, 1fr);
-  }
-
   .stack-library {
     grid-template-columns: 1fr;
   }
@@ -1067,10 +763,6 @@ papertitle {
   .concept-stack,
   .essay-protocol-strip,
   .essay-realworld-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .skill-feed {
     grid-template-columns: 1fr;
   }
 

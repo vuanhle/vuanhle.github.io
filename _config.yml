@@ -32,12 +32,6 @@ favicon_dark: /assets/img/favicon-dark.png
 # Footnote
 enable_footnote: false
 
-# Auto Dark Mode
-auto_dark_mode: true
-
-# Font
-font: "Sans Serif"
-
 # Google Analytics ID
 google_analytics:
 

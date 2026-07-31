@@ -13,7 +13,7 @@ permalink: /blog-gallery/
 <section class="stack-library" aria-label="Blog and gallery stack library">
   {% for post in posts_newest_first %}
   <a class="stack-card" href="{{ post.url | relative_url }}" aria-label="Open {{ post.title }}">
-    <img src="{{ post.thumbnail | default: '/assets/img/frontier-data-compute-ai.webp' | relative_url }}" alt="{{ post.thumbnail_alt | default: post.title }}" loading="lazy" decoding="async">
+    {% if post.thumbnail %}<img src="{{ post.thumbnail | relative_url }}" alt="{{ post.thumbnail_alt | default: post.title }}" loading="lazy" decoding="async">{% endif %}
     <span class="stack-index">{{ forloop.index | prepend: '00' | slice: -2, 2 }}</span>
     <div class="stack-card-body">
       <p class="eyebrow">{{ post.category_label | default: 'Field Note' }}</p>
