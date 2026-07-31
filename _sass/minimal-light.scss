@@ -513,9 +513,18 @@ figcaption {
 }
 
 .research-figure {
-  width: 100%;
+  width: 1024px;
+  max-width: none;
+  height: 1536px;
   border: 1px solid var(--green-deep);
   background: var(--white);
+}
+
+.research-figure-frame {
+  width: 100%;
+  margin: 18px 0;
+  overflow-x: auto;
+  overflow-y: hidden;
 }
 
 .frontier-gallery {

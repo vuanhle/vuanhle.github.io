@@ -15,6 +15,6 @@ permalink: /research/
 - **Closed-Loop Learning:** investigating how learning systems should select observations, interventions, and experiments to support efficient causal discovery and scientific reasoning.
 - **Assurance of the Learning Systems:** developing theoretical guarantees, verification methods, and uncertainty-aware mechanisms for determining when the outputs of autonomous learning systems are reliable.
 
-<figure>
-  <img class="centered-image research-figure" src="/assets/img/research-scaling-model.webp" alt="Three-dimensional model showing geometric scaling inside a transparent volume" width="622" height="406" loading="lazy" decoding="async">
+<figure class="research-figure-frame">
+  <img class="centered-image research-figure" src="/assets/img/research-agenda-manga.webp" alt="Manga illustration of Vu-Anh Le's machine learning theory research agenda" width="1024" height="1536" loading="lazy" decoding="async">
 </figure>
