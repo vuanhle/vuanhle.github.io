@@ -7,13 +7,13 @@ permalink: /research/
 
 # Research
 
-<p class="lead">My research is centered on machine learning theory: understanding when learning systems generalize, remain reliable under constraints, and produce outputs consistent with scientific or structural requirements.</p>
+<p class="lead">My research area is machine learning theory: understanding how learning systems operate under scientific constraints, collect informative evidence through adaptive interaction, and produce conclusions that can be trusted.</p>
 
 ## Research Directions
 
-- **Theory of Machine Learning:** studying the mathematical foundations of learning, generalization, optimization, and reliable decision-making.
-- **Constrained Learning:** developing learning and generative methods whose outputs satisfy scientific, structural, or physical requirements.
-- **Applications:** using theoretical insights to design dependable models for complex scientific and engineering problems.
+- **Constrained Learning:** studying which outputs are admissible and developing learning and generative methods that satisfy scientific, structural, physical, or safety requirements.
+- **Closed-Loop Learning:** investigating how learning systems should select observations, interventions, and experiments to support efficient causal discovery and scientific reasoning.
+- **Assurance of the Learning Systems:** developing theoretical guarantees, verification methods, and uncertainty-aware mechanisms for determining when the outputs of autonomous learning systems are reliable.
 
 <figure>
   <img class="centered-image research-figure" src="/assets/img/research-scaling-model.webp" alt="Three-dimensional model showing geometric scaling inside a transparent volume" width="622" height="406" loading="lazy" decoding="async">
