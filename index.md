@@ -1,18 +1,18 @@
 ---
 layout: homepage
-title: Vu-Anh Le | AI4Science
-description: Vu-Anh Le researches closed-loop, AI-driven scientific systems for AI4Science.
+title: Vu-Anh Le | Machine Learning Theory
+description: Vu-Anh Le researches machine learning theory.
 ---
 
 <figure class="hero-figure">
-  <img src="/assets/img/blackhole-ai4science-hero.webp" alt="Black hole accretion disk in space" width="1280" height="720" loading="eager" decoding="async" fetchpriority="high">
-  <figcaption>AI4Science: closed-loop systems for scientific discovery.</figcaption>
+  <img src="/assets/img/machine-learning-theory-hero.webp" alt="Manga illustration explaining the foundations of machine learning theory" width="1536" height="1024" loading="eager" decoding="async" fetchpriority="high">
+  <figcaption>Machine Learning Theory.</figcaption>
 </figure>
 
 <section class="intro-panel">
-  <p class="eyebrow">AI4Science</p>
-  <h1>Make closed-loop AI4Science possible</h1>
-  <p class="lead">I am Anh, a Ph.D. student in Computer Science at the University of Virginia and a researcher focused on closed-loop, AI-driven scientific systems.</p>
+  <p class="eyebrow">Machine Learning Theory</p>
+  <h1>Advance computational learning</h1>
+  <p class="lead">I am Anh, a Ph.D. student in Computer Science at the University of Virginia and a researcher focused on machine learning theory.</p>
   <div class="cta-row">
     <a class="button-link button-link-strong" href="/research/">Research</a>
     <a class="button-link button-link-strong" href="mailto:mcu7uh@virginia.edu">Contact Me</a>
@@ -25,22 +25,14 @@ description: Vu-Anh Le researches closed-loop, AI-driven scientific systems for 
 
 <section>
   <h2>Experience</h2>
-  <p>I am shaping my career around research roles in AI4Science.</p>
+  <p>I am shaping my career around research in machine learning theory.</p>
   <div class="experience-list">
     <article class="experience-item">
       <img src="/assets/img/logo-uva.webp" alt="University of Virginia logo" loading="lazy" decoding="async">
       <div>
         <p class="eyebrow">Aug 2026 - Present</p>
         <h3>Doctoral Student, University of Virginia</h3>
-        <p>Conducting Ph.D. research on closed-loop AI4Science, reliable machine learning, and constrained generative modelling for scientific systems as part of the RAISE Group, advised by <a href="https://nandofioretto.github.io/group/">Nando Fioretto</a>.</p>
-      </div>
-    </article>
-    <article class="experience-item">
-      <img src="/assets/img/logo-antler.webp" alt="Antler logo" loading="lazy" decoding="async">
-      <div>
-        <p class="eyebrow">Jun 2025 - Aug 2025</p>
-        <h3>Resident, VN8 Cohort, Antler</h3>
-        <p>Explored how AI-driven scientific systems can move from research questions to deployable workflows, sharpening judgment around problem selection, technical feasibility, and real-world constraints.</p>
+        <p>Conducting Ph.D. research on the theoretical foundations of machine learning, with emphasis on reliable learning, constrained optimization, and generative models, as part of the RAISE Group, advised by <a href="https://nandofioretto.github.io/group/">Nando Fioretto</a>.</p>
       </div>
     </article>
     <article class="experience-item">
@@ -48,7 +40,7 @@ description: Vu-Anh Le researches closed-loop, AI-driven scientific systems for 
       <div>
         <p class="eyebrow">Jun 2024 - Aug 2024</p>
         <h3>MIT Summer Research Program Intern, Massachusetts Institute of Technology</h3>
-        <p>Developed quantitative models and extended PyLENM, an open-source environmental informatics package, supporting scientific-computing workflows for complex physical systems.</p>
+        <p>Developed quantitative models and extended PyLENM, an open-source environmental informatics package, strengthening my foundations in mathematical modelling, optimization, and scientific computing.</p>
       </div>
     </article>
   </div>

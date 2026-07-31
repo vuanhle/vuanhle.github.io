@@ -1,6 +1,6 @@
 # Basic Information
 title: Vu-Anh Le (Anh)
-position: PhD Student | AI4Science
+position: PhD Student
 department: Department of Computer Science
 university: University of Virginia
 affiliation: Department of Computer Science, University of Virginia
@@ -13,8 +13,8 @@ baseurl: ""
 url: "https://vuanhle.github.io"
 
 # Search Engine Optimization (SEO)
-keywords: Vu-Anh Le, Le Vu Anh, AI4Science, closed-loop AI4Science, machine learning theory, constrained generative modelling, multiagent systems, bio-modelling, drug discovery, University of Virginia
-description: Vu-Anh Le is a Computer Science Ph.D. student at the University of Virginia researching closed-loop, AI-driven scientific systems.
+keywords: Vu-Anh Le, Le Vu Anh, machine learning theory, reliable machine learning, constrained optimization, constrained generative modelling, University of Virginia
+description: Vu-Anh Le is a Computer Science Ph.D. student at the University of Virginia researching machine learning theory.
 canonical: https://vuanhle.github.io/
 author: Vu-Anh Le
 lang: en-US

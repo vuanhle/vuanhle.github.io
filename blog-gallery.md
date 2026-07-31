@@ -1,13 +1,13 @@
 ---
 layout: homepage
 title: Blog & Gallery | Vu-Anh Le
-description: A stack-library of essays, notes, and visual field logs from Vu-Anh Le across AI research, capital, and deep tech.
+description: A collection of research notes and visual fragments by Vu-Anh Le.
 permalink: /blog-gallery/
 ---
 
 # Blog & Gallery
 
-<p class="lead">A stack library for research notes, investment thinking, and visual fragments from the frontier between AI, science, and company building.</p>
+<p class="lead">A collection of research notes and visual fragments.</p>
 
 {% assign posts_newest_first = site.posts | sort: "date" | reverse %}
 <section class="stack-library" aria-label="Blog and gallery stack library">
