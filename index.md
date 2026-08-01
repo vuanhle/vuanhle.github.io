@@ -12,7 +12,7 @@ description: Vu-Anh Le researches machine learning theory.
 <section class="intro-panel">
   <p class="eyebrow">Machine Learning Theory</p>
   <h1>Advance computational learning</h1>
-  <p class="hero-role-line" aria-live="polite"><span class="hero-role-prefix">I am a...</span><span data-rotating-role>wanna-be computational scientist</span></p>
+  <p class="hero-role-line" aria-live="polite"><span class="hero-role-prefix">I am a...</span><span data-rotating-role>wanna-be computer scientist</span></p>
   <style>
     .hero-role-line { height: 2.9em; min-height: 2.9em; margin: -2px 0 17px; overflow: hidden; color: #8bd6a8; font-size: 1.5em; font-style: italic; font-weight: 600; line-height: 1.45; }
     .hero-role-prefix { display: block; }
@@ -25,7 +25,7 @@ description: Vu-Anh Le researches machine learning theory.
       const role = document.querySelector('[data-rotating-role]');
       if (!role) return;
       const roles = [
-        'wanna-be computational scientist',
+        'wanna-be computer scientist',
         'amateur historian',
         'manga addict',
         'lover of this wonderful world'
