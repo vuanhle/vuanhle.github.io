@@ -1,29 +1,23 @@
 ---
 layout: homepage
-title: Blog & Gallery | Vu-Anh Le
-description: A collection of research notes and visual fragments by Vu-Anh Le.
+title: Notes & Gallery | Vu-Anh Le
+description: Notes and photographs by Vu-Anh Le.
 permalink: /blog-gallery/
 ---
 
-# Blog & Gallery
+# Notes & Gallery
 
-<p class="lead">A collection of research notes and visual fragments.</p>
+<article class="notes-gallery-post">
+  <h2>Boston/Cambridge</h2>
+  <p>Oh my lovely New England!</p>
+  <figure class="notes-gallery-grid">
+    <img src="/assets/img/notes/boston-01.webp" alt="MIT Great Dome illuminated at night" width="360" height="270" loading="eager" decoding="async">
+  </figure>
+</article>
 
-{% assign posts_newest_first = site.posts | sort: "date" | reverse %}
-<section class="stack-library" aria-label="Blog and gallery stack library">
-  {% for post in posts_newest_first %}
-  <a class="stack-card" href="{{ post.url | relative_url }}" aria-label="Open {{ post.title }}">
-    {% if post.thumbnail %}<img src="{{ post.thumbnail | relative_url }}" alt="{{ post.thumbnail_alt | default: post.title }}" loading="lazy" decoding="async">{% endif %}
-    <span class="stack-index">{{ forloop.index | prepend: '00' | slice: -2, 2 }}</span>
-    <div class="stack-card-body">
-      <p class="eyebrow">{{ post.category_label | default: 'Field Note' }}</p>
-      <h2>{{ post.title }}</h2>
-      <p>{{ post.description }}</p>
-    </div>
-  </a>
-  {% endfor %}
-</section>
-
-{% if site.posts.size == 0 %}
-<p>No posts are published yet.</p>
-{% endif %}
+<style>
+.notes-gallery-post > h2 { margin-bottom: 6px; }
+.notes-gallery-post > p { margin-bottom: 20px; font-style: italic; }
+.notes-gallery-grid { margin: 0; }
+.notes-gallery-grid img { display: block; width: 100%; height: auto; border: 1px solid var(--line); background: var(--white); }
+</style>
