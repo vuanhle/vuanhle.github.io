@@ -147,13 +147,3 @@ description: Vu-Anh Le researches machine learning theory.
     </div>
   </div>
 </section>
-
-<section>
-  <h2>Visitor Map</h2>
-  <div class="mapmyvisitors-card">
-    <div class="mapmyvisitors-widget">
-      <a href="https://mapmyvisitors.com/web/1c6ls" title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=JNgQt1dBsAC9EVMhpT0Ww3h-vt6niVfSAstxyuGkBSs&cl=ffffff" alt="Visitor map" loading="lazy" decoding="async"></a>
-    </div>
-    <p class="mapmyvisitors-link"><a href="https://mapmyvisitors.com/web/1c6ls">View website statistics</a></p>
-  </div>
-</section>
