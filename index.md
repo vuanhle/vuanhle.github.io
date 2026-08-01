@@ -13,6 +13,32 @@ description: Vu-Anh Le researches machine learning theory.
   <p class="eyebrow">Machine Learning Theory</p>
   <h1>Advance computational learning</h1>
   <p class="hero-role-line" aria-live="polite">I am a <span data-rotating-role>wanna-be mathematician (yes, computer science is applied and trendy mathematics)</span></p>
+  <style>
+    .hero-role-line { min-height: 1.6em; margin: -2px 0 17px; color: #8bd6a8; font-style: italic; font-weight: 600; }
+    .hero-role-line [data-rotating-role] { transition: opacity .22s ease; }
+    .hero-role-line [data-rotating-role].is-changing { opacity: 0; }
+    @media (prefers-reduced-motion: reduce) { .hero-role-line [data-rotating-role] { transition: none; } }
+  </style>
+  <script>
+    (() => {
+      const role = document.querySelector('[data-rotating-role]');
+      if (!role) return;
+      const roles = [
+        'wanna-be mathematician (yes, computer science is applied and trendy mathematics)',
+        'manga addict',
+        'lover of this wonderful world'
+      ];
+      let index = 0;
+      window.setInterval(() => {
+        role.classList.add('is-changing');
+        window.setTimeout(() => {
+          index = (index + 1) % roles.length;
+          role.textContent = roles[index];
+          role.classList.remove('is-changing');
+        }, 220);
+      }, 2000);
+    })();
+  </script>
   <p class="lead">I am Anh, a Ph.D. student in Computer Science at the University of Virginia and a researcher focused on machine learning theory.</p>
   <div class="research-interest-grid" aria-label="Research interests">
     <article class="research-interest-card">
