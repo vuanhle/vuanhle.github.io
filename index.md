@@ -12,6 +12,7 @@ description: Vu-Anh Le researches machine learning theory.
 <section class="intro-panel">
   <p class="eyebrow">Machine Learning Theory</p>
   <h1>Advance computational learning</h1>
+  <p class="hero-role-line" aria-live="polite">I am a <span data-rotating-role>wanna-be mathematician (yes, computer science is applied and trendy mathematics)</span></p>
   <p class="lead">I am Anh, a Ph.D. student in Computer Science at the University of Virginia and a researcher focused on machine learning theory.</p>
   <div class="research-interest-grid" aria-label="Research interests">
     <article class="research-interest-card">
