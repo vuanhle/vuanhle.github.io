@@ -14,7 +14,7 @@ description: Vu-Anh Le researches machine learning theory.
   <h1>Advance computational learning</h1>
   <p class="hero-role-line" aria-live="polite">I am a <span data-rotating-role>wanna-be mathematician (yes, computer science is applied and trendy mathematics)</span></p>
   <style>
-    .hero-role-line { min-height: 1.6em; margin: -2px 0 17px; color: #8bd6a8; font-style: italic; font-weight: 600; }
+    .hero-role-line { min-height: 1.6em; margin: -2px 0 17px; color: #8bd6a8; font-size: 1.5em; font-style: italic; font-weight: 600; line-height: 1.45; }
     .hero-role-line [data-rotating-role] { transition: opacity .22s ease; }
     .hero-role-line [data-rotating-role].is-changing { opacity: 0; }
     @media (prefers-reduced-motion: reduce) { .hero-role-line [data-rotating-role] { transition: none; } }
@@ -25,6 +25,7 @@ description: Vu-Anh Le researches machine learning theory.
       if (!role) return;
       const roles = [
         'wanna-be mathematician (yes, computer science is applied and trendy mathematics)',
+        'historian',
         'manga addict',
         'lover of this wonderful world'
       ];
