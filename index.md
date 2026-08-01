@@ -12,11 +12,12 @@ description: Vu-Anh Le researches machine learning theory.
 <section class="intro-panel">
   <p class="eyebrow">Machine Learning Theory</p>
   <h1>Advance computational learning</h1>
-  <p class="hero-role-line" aria-live="polite"><span class="hero-role-prefix">I am a...</span><span data-rotating-role>wanna-be computational scientist 🧑‍🔬💻🤖✴</span></p>
+  <p class="hero-role-line" aria-live="polite"><span class="hero-role-prefix">I am a...</span><span data-rotating-role>wanna-be computational scientist <span class="hero-role-emoji">🧑‍🔬💻🤖✴</span></span></p>
   <style>
     .hero-role-line { height: 2.9em; min-height: 2.9em; margin: -2px 0 17px; overflow: hidden; color: #8bd6a8; font-size: 1.5em; font-style: italic; font-weight: 600; line-height: 1.45; }
     .hero-role-prefix { display: block; }
     .hero-role-line [data-rotating-role] { display: block; transition: opacity .22s ease; }
+    .hero-role-emoji { display: inline-block; font-style: normal; }
     .hero-role-line [data-rotating-role].is-changing { opacity: 0; }
     @media (prefers-reduced-motion: reduce) { .hero-role-line [data-rotating-role] { transition: none; } }
   </style>
@@ -25,17 +26,23 @@ description: Vu-Anh Le researches machine learning theory.
       const role = document.querySelector('[data-rotating-role]');
       if (!role) return;
       const roles = [
-        'wanna-be computational scientist 🧑‍🔬💻🤖✴',
-        'amateur historian 📜⌛🏛️🏺',
-        'manga addict ⛩️🌸🍥☯🍜',
-        'lover of this wonderful world 🌎˙✧˖🌅📸 ༘ ⋆｡˚'
+        { text: 'wanna-be computational scientist', emoji: '🧑‍🔬💻🤖✴' },
+        { text: 'amateur historian', emoji: '📜⌛🏛️🏺' },
+        { text: 'manga addict', emoji: '⛩️🌸🍥☯🍜' },
+        { text: 'lover of this wonderful world', emoji: '🌎˙✧˖🌅📸 ༘ ⋆｡˚' }
       ];
+      const renderRole = ({ text, emoji }) => {
+        const emojiSpan = document.createElement('span');
+        emojiSpan.className = 'hero-role-emoji';
+        emojiSpan.textContent = emoji;
+        role.replaceChildren(document.createTextNode(`${text} `), emojiSpan);
+      };
       let index = 0;
       window.setInterval(() => {
         role.classList.add('is-changing');
         window.setTimeout(() => {
           index = (index + 1) % roles.length;
-          role.textContent = roles[index];
+          renderRole(roles[index]);
           role.classList.remove('is-changing');
         }, 220);
       }, 2000);
