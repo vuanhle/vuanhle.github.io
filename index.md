@@ -27,8 +27,7 @@ description: Vu-Anh Le researches machine learning theory.
       const roles = [
         'wanna-be computer scientist',
         'amateur historian',
-        'manga addict',
-        'lover of this wonderful world'
+        'manga addict'
       ];
       let index = 0;
       window.setInterval(() => {
@@ -80,7 +79,7 @@ description: Vu-Anh Le researches machine learning theory.
         <p class="eyebrow">Aug 2026 - Present</p>
         <h3>Doctoral Student, University of Virginia</h3>
         <p>Conducting Ph.D. research on machine learning theory.</p>
-        <p>Advised by <a href="https://nandofioretto.github.io/">Prof. Ferdinando Fioretto</a> (Department of Computer Science, University of Virginia), PI at <a href="https://nandofioretto.github.io/group/">Reliable AI for Science and Engineering Group (RAISE)</a>.</p>
+        <p>Currently under 1st-year research rotations.</p>
       </div>
     </article>
     <article class="experience-item">
@@ -110,41 +109,5 @@ description: Vu-Anh Le researches machine learning theory.
 
 <section class="beyond-research">
   <h2>Beyond Research</h2>
-  <p>Outside the lab, I'm a big fan of ...</p>
-  <div class="interest-carousel" data-interest-carousel role="region" aria-roledescription="carousel" aria-label="Interests beyond research">
-    <div class="interest-carousel-viewport">
-      <div class="interest-carousel-track">
-        <article class="interest-slide" data-interest-slide aria-label="1 of 3">
-          <img src="/assets/img/beyond-history.webp" alt="Manga illustration of exploration, science, philosophy, and innovation" width="1024" height="1024" loading="lazy" decoding="async">
-          <div class="interest-slide-copy">
-            <p class="eyebrow">History</p>
-            <h3>Ideas that shaped the world</h3>
-            <p>History, especially stories on how great thinkers shape the world we know today.</p>
-          </div>
-        </article>
-        <article class="interest-slide" data-interest-slide aria-label="2 of 3" aria-hidden="true">
-          <img src="/assets/img/beyond-manga.webp" alt="Black-and-white manga collage inspired by classic psychological and action storytelling" width="1024" height="1024" loading="lazy" decoding="async">
-          <div class="interest-slide-copy">
-            <p class="eyebrow">Manga</p>
-            <h3>Stories that endure</h3>
-            <p>Manga classics, especially <em>Bleach</em>, <em>Monster</em>, <em>Attack on Titan</em>, and <em>Vagabond</em>.</p>
-          </div>
-        </article>
-        <article class="interest-slide" data-interest-slide aria-label="3 of 3" aria-hidden="true">
-          <img src="/assets/img/beyond-travel.webp" alt="Colorful manga illustration of travel through seas, mountains, cities, deserts, and forests" width="1024" height="1024" loading="lazy" decoding="async">
-          <div class="interest-slide-copy">
-            <p class="eyebrow">Travel</p>
-            <h3>Wonder in the wider world</h3>
-            <p>Travelling, to appreciate our beautiful world.</p>
-          </div>
-        </article>
-      </div>
-    </div>
-    <div class="interest-carousel-controls">
-      <button type="button" data-carousel-previous aria-label="Show previous interest">Previous</button>
-      <p class="interest-carousel-status" aria-live="polite"><span data-carousel-current>1</span> / 3</p>
-      <button type="button" data-carousel-toggle aria-pressed="false">Pause</button>
-      <button type="button" data-carousel-next aria-label="Show next interest">Next</button>
-    </div>
-  </div>
+  <p>Outside of academia, I'm a big fan of history, comics, and travelling.</p>
 </section>
