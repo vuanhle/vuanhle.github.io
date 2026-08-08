@@ -5,7 +5,7 @@ description: Vu-Anh Le researches AI-robotics.
 ---
 
 <figure class="hero-figure">
-  <img src="/assets/img/ai-robotics-hero.webp" alt="Robotic manipulation system performing a precision task" width="750" height="530" loading="eager" decoding="async" fetchpriority="high">
+  <img src="/assets/img/ai-robotics-hero-embedded.svg" alt="Robotic manipulation system performing a precision task" width="750" height="530" loading="eager" decoding="async" fetchpriority="high">
   <figcaption>AI-Robotics.</figcaption>
 </figure>
 
