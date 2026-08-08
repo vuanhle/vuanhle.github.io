@@ -15,5 +15,5 @@ permalink: /research/
 - **AI Apps in Robotics:** applying AI to robot perception, planning, control, coordination, and embodied decision-making so autonomous systems can act reliably in the physical world.
 
 <figure class="research-figure-frame">
-  <img class="centered-image research-figure" src="/assets/img/ai-robotics-research.webp" alt="Humanoid robot operating in an industrial environment" width="850" height="590" loading="lazy" decoding="async">
+  <img class="centered-image research-figure" src="/assets/img/ai-robotics-research-embedded.svg" alt="Humanoid robot operating in an industrial environment" width="850" height="590" loading="lazy" decoding="async">
 </figure>
