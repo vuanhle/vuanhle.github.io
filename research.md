@@ -1,20 +1,19 @@
 ---
 layout: homepage
 title: Research | Vu-Anh Le
-description: Vu-Anh Le's research agenda in machine learning theory, reliable learning, constrained optimization, and constrained generative modelling.
+description: Vu-Anh Le's research agenda in AI-robotics, constrained learning, robot perception, planning, control, and physical intelligence.
 permalink: /research/
 ---
 
 # Research
 
-<p class="lead">My research area is machine learning theory: understanding how learning systems operate under scientific constraints, collect informative evidence through adaptive interaction, and produce conclusions that can be trusted.</p>
+<p class="lead">My research area is AI-robotics: developing learning methods and intelligent systems that connect AI with perception, planning, control, and safe physical interaction.</p>
 
 ## Research Directions
 
-- **Constrained Learning:** studying which outputs are admissible and developing learning and generative methods that satisfy scientific, structural, physical, or safety requirements.
-- **Closed-Loop Learning:** investigating how learning systems should select observations, interventions, and experiments to support efficient causal discovery and scientific reasoning.
-- **Assurance of the Learning Systems:** developing theoretical guarantees, verification methods, and uncertainty-aware mechanisms for determining when the outputs of autonomous learning systems are reliable.
+- **Constrained Learning:** developing learning methods for robots that respect physical, safety, task, and interaction constraints while remaining adaptive under uncertainty.
+- **AI Apps in Robotics:** applying AI to robot perception, planning, control, coordination, and embodied decision-making so autonomous systems can act reliably in the physical world.
 
 <figure class="research-figure-frame">
-  <img class="centered-image research-figure" src="/assets/img/research-agenda-manga.webp" alt="Manga illustration of Vu-Anh Le's machine learning theory research agenda" width="1024" height="1536" loading="lazy" decoding="async">
+  <img class="centered-image research-figure" src="/assets/img/ai-robotics-research.webp" alt="Humanoid robot operating in an industrial environment" width="850" height="590" loading="lazy" decoding="async">
 </figure>

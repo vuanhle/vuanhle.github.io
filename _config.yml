@@ -13,8 +13,8 @@ baseurl: ""
 url: "https://vuanhle.github.io"
 
 # Search Engine Optimization (SEO)
-keywords: Vu-Anh Le, Le Vu Anh, machine learning theory, reliable machine learning, constrained optimization, constrained generative modelling, University of Virginia
-description: Vu-Anh Le is a Computer Science Ph.D. student at the University of Virginia researching machine learning theory.
+keywords: Vu-Anh Le, Le Vu Anh, AI-robotics, robotics, physical intelligence, constrained learning, robot perception, robot planning, robot control, University of Virginia
+description: Vu-Anh Le is a Computer Science Ph.D. student at the University of Virginia researching AI-robotics.
 canonical: https://vuanhle.github.io/
 author: Vu-Anh Le
 lang: en-US
@@ -25,7 +25,7 @@ github_link: https://github.com/vuanhle
 linkedin: https://www.linkedin.com/in/levuanh
 
 # Images
-avatar: /assets/img/avatar.webp
+avatar: /assets/img/avatar-ai-robotics.webp
 favicon: /assets/img/favicon.png
 favicon_dark: /assets/img/favicon-dark.png
 

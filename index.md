@@ -1,17 +1,17 @@
 ---
 layout: homepage
-title: Vu-Anh Le | Machine Learning Theory
-description: Vu-Anh Le researches machine learning theory.
+title: Vu-Anh Le | AI-Robotics
+description: Vu-Anh Le researches AI-robotics.
 ---
 
 <figure class="hero-figure">
-  <img src="/assets/img/machine-learning-theory-hero.webp" alt="Manga illustration explaining the foundations of machine learning theory" width="1536" height="1024" loading="eager" decoding="async" fetchpriority="high">
-  <figcaption>Machine Learning Theory.</figcaption>
+  <img src="/assets/img/ai-robotics-hero.webp" alt="Robotic manipulation system performing a precision task" width="750" height="530" loading="eager" decoding="async" fetchpriority="high">
+  <figcaption>AI-Robotics.</figcaption>
 </figure>
 
 <section class="intro-panel">
-  <p class="eyebrow">Machine Learning Theory</p>
-  <h1>Advance computational learning</h1>
+  <p class="eyebrow">AI-Robotics</p>
+  <h1>Advance physical intelligence</h1>
   <p class="hero-role-line" aria-live="polite"><span class="hero-role-prefix">I am a...</span><span data-rotating-role>wanna-be computer scientist</span></p>
   <style>
     .hero-role-line { height: 2.9em; min-height: 2.9em; margin: -2px 0 17px; overflow: hidden; color: #8bd6a8; font-size: 1.5em; font-style: italic; font-weight: 600; line-height: 1.45; }
@@ -40,19 +40,15 @@ description: Vu-Anh Le researches machine learning theory.
       }, 2000);
     })();
   </script>
-  <p class="lead">I am Anh, a Ph.D. student in Computer Science at the University of Virginia and a researcher focused on machine learning theory.</p>
+  <p class="lead">I am Anh, a Ph.D. student in Computer Science at the University of Virginia and a researcher focused on AI-robotics.</p>
   <div class="research-interest-grid" aria-label="Research interests">
     <article class="research-interest-card">
       <h2>Constrained Learning</h2>
-      <p>Studying which outputs are admissible and developing learning and generative methods that satisfy scientific, structural, physical, or safety requirements.</p>
+      <p>Developing learning methods for robots that respect physical, safety, task, and interaction constraints while remaining adaptive under uncertainty.</p>
     </article>
     <article class="research-interest-card">
-      <h2>Closed-Loop Learning</h2>
-      <p>Investigating how learning systems should select observations, interventions, and experiments to support efficient causal discovery and scientific reasoning.</p>
-    </article>
-    <article class="research-interest-card">
-      <h2>Assurance of the Learning Systems</h2>
-      <p>Developing theoretical guarantees, verification methods, and uncertainty-aware mechanisms for determining when the outputs of autonomous learning systems are reliable.</p>
+      <h2>AI Apps in Robotics</h2>
+      <p>Applying AI to robot perception, planning, control, coordination, and embodied decision-making so autonomous systems can act reliably in the physical world.</p>
     </article>
   </div>
   <div class="cta-row">
@@ -71,14 +67,14 @@ description: Vu-Anh Le researches machine learning theory.
 
 <section>
   <h2>Experience</h2>
-  <p>I am shaping my career around research in machine learning theory.</p>
+  <p>I am shaping my career around research in AI-robotics.</p>
   <div class="experience-list">
     <article class="experience-item">
       <img src="/assets/img/logo-uva.webp" alt="University of Virginia logo" loading="lazy" decoding="async">
       <div>
         <p class="eyebrow">Aug 2026 - Present</p>
         <h3>Doctoral Student, University of Virginia</h3>
-        <p>Conducting Ph.D. research on machine learning theory.</p>
+        <p>Conducting Ph.D. research on AI-robotics.</p>
         <p>Currently under 1st-year research rotations.</p>
       </div>
     </article>

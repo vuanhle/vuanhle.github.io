@@ -48,7 +48,7 @@
         "https://github.com/vuanhle",
         "https://www.linkedin.com/in/levuanh"
       ],
-      "knowsAbout": ["Machine Learning Theory", "Reliable Machine Learning", "Constrained Optimization", "Constrained Generative Modelling"]
+      "knowsAbout": ["AI-Robotics", "Physical Intelligence", "Constrained Learning", "Robot Perception", "Robot Planning", "Robot Control"]
     }
     </script>
     <div class="wrapper">
@@ -165,65 +165,5 @@
       mermaid.run({ querySelector: ".mermaid" });
     </script>
     {% endif %}
-    <script>
-      (() => {
-        const carousel = document.querySelector("[data-interest-carousel]");
-        if (!carousel) return;
-
-        const track = carousel.querySelector(".interest-carousel-track");
-        const slides = [...carousel.querySelectorAll("[data-interest-slide]")];
-        const currentLabel = carousel.querySelector("[data-carousel-current]");
-        const toggle = carousel.querySelector("[data-carousel-toggle]");
-        const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
-        let current = 0;
-        let timer;
-        let paused = reduceMotion.matches;
-        toggle.textContent = paused ? "Play" : "Pause";
-        toggle.setAttribute("aria-pressed", String(paused));
-
-        const render = () => {
-          track.style.transform = `translateX(-${current * 100}%)`;
-          slides.forEach((slide, index) => slide.setAttribute("aria-hidden", index === current ? "false" : "true"));
-          currentLabel.textContent = current + 1;
-        };
-
-        const stop = () => window.clearInterval(timer);
-        const start = () => {
-          stop();
-          if (!paused) timer = window.setInterval(() => {
-            current = (current + 1) % slides.length;
-            render();
-          }, 3000);
-        };
-
-        const move = (step) => {
-          current = (current + step + slides.length) % slides.length;
-          render();
-          start();
-        };
-
-        carousel.querySelector("[data-carousel-previous]").addEventListener("click", () => move(-1));
-        carousel.querySelector("[data-carousel-next]").addEventListener("click", () => move(1));
-        toggle.addEventListener("click", () => {
-          paused = !paused;
-          toggle.textContent = paused ? "Play" : "Pause";
-          toggle.setAttribute("aria-pressed", String(paused));
-          start();
-        });
-        carousel.addEventListener("mouseenter", stop);
-        carousel.addEventListener("mouseleave", start);
-        carousel.addEventListener("focusin", stop);
-        carousel.addEventListener("focusout", start);
-        reduceMotion.addEventListener("change", (event) => {
-          paused = event.matches;
-          toggle.textContent = paused ? "Play" : "Pause";
-          toggle.setAttribute("aria-pressed", String(paused));
-          start();
-        });
-
-        render();
-        start();
-      })();
-    </script>
   </body>
 </html>
