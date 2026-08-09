@@ -12,34 +12,6 @@ description: Vu-Anh Le researches AI-robotics.
 <section class="intro-panel">
   <p class="eyebrow">AI-Robotics</p>
   <h1>Advance physical intelligence</h1>
-  <p class="hero-role-line" aria-live="polite"><span class="hero-role-prefix">I am a...</span><span data-rotating-role>wanna-be computer scientist</span></p>
-  <style>
-    .hero-role-line { height: 2.9em; min-height: 2.9em; margin: -2px 0 17px; overflow: hidden; color: #8bd6a8; font-size: 1.5em; font-style: italic; font-weight: 600; line-height: 1.45; }
-    .hero-role-prefix { display: block; }
-    .hero-role-line [data-rotating-role] { display: block; transition: opacity .22s ease; }
-    .hero-role-line [data-rotating-role].is-changing { opacity: 0; }
-    @media (prefers-reduced-motion: reduce) { .hero-role-line [data-rotating-role] { transition: none; } }
-  </style>
-  <script>
-    (() => {
-      const role = document.querySelector('[data-rotating-role]');
-      if (!role) return;
-      const roles = [
-        'wanna-be computer scientist',
-        'amateur historian',
-        'manga addict'
-      ];
-      let index = 0;
-      window.setInterval(() => {
-        role.classList.add('is-changing');
-        window.setTimeout(() => {
-          index = (index + 1) % roles.length;
-          role.textContent = roles[index];
-          role.classList.remove('is-changing');
-        }, 220);
-      }, 2000);
-    })();
-  </script>
   <p class="lead">I am Anh, a Ph.D. student in Computer Science at the University of Virginia and a researcher focused on AI-robotics.</p>
   <div class="research-interest-grid" aria-label="Research interests">
     <article class="research-interest-card">
