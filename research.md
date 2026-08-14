@@ -1,19 +1,15 @@
 ---
 layout: homepage
 title: Research | Vu-Anh Le
-description: Vu-Anh Le's research agenda in AI-robotics, constrained learning, robot perception, planning, control, and physical intelligence.
+description: Vu-Anh Le's research in algorithms, mathematical foundations of machine learning, and applications in physics, control, and autonomy.
 permalink: /research/
 ---
 
 # Research
 
-<p class="lead">My research area is AI-robotics: developing learning methods and intelligent systems that connect AI with perception, planning, control, and safe physical interaction.</p>
+<p class="lead">My research centers on algorithms: developing mathematical foundations for machine learning and translating those ideas into methods for physics, control, and autonomous systems.</p>
 
 ## Research Directions
 
-- **Constrained Learning:** developing learning methods for robots that respect physical, safety, task, and interaction constraints while remaining adaptive under uncertainty.
-- **AI Apps in Robotics:** applying AI to robot perception, planning, control, coordination, and embodied decision-making so autonomous systems can act reliably in the physical world.
-
-<figure class="research-figure-frame">
-  <img class="centered-image research-figure" src="/assets/img/ai-robotics-research-embedded.svg" alt="Humanoid robot operating in an industrial environment" width="850" height="590" loading="lazy" decoding="async">
-</figure>
+- **Mathematical Foundations of Machine Learning:** studying the principles that govern learning algorithms, including optimization, generalization, structure, constraints, and theoretical guarantees for reliable decision-making.
+- **Applications in Physics, Control, and Autonomy:** developing and analyzing algorithms for systems that interact with the physical world, including control and autonomous decision-making problems such as coordinating multi-agent trajectories.
