@@ -51,10 +51,8 @@
     </script>
     <div class="wrapper">
       <header>
-        {% if site.avatar_base64 %}
-        <a class="image avatar"><img data-base64-image="{{ site.avatar_base64 | relative_url }}" data-base64-mime="image/webp" alt="Vu-Anh Le" width="676" height="877" decoding="async" /></a>
-        {% elsif site.avatar %}
-        <a class="image avatar"><img src="{{ site.avatar | relative_url }}" alt="Vu-Anh Le" decoding="async" /></a>
+        {% if site.avatar %}
+        <a class="image avatar"><img src="{{ site.avatar | relative_url }}" alt="Vu-Anh Le" width="676" height="877" decoding="async" /></a>
         {% endif %}
 
         <h1>{{ site.title }}</h1>
@@ -135,19 +133,5 @@
     </script>
     {% endif %}
 
-    <script>
-      (() => {
-        document.querySelectorAll("[data-base64-image]").forEach(async (image) => {
-          try {
-            const response = await fetch(image.dataset.base64Image, { cache: "force-cache" });
-            if (!response.ok) throw new Error(`Image payload ${response.status}`);
-            const payload = (await response.text()).trim();
-            image.src = `data:${image.dataset.base64Mime || "image/webp"};base64,${payload}`;
-          } catch (error) {
-            console.error("Unable to load image", error);
-          }
-        });
-      })();
-    </script>
   </body>
 </html>

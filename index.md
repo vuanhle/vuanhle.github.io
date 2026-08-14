@@ -5,7 +5,7 @@ description: Vu-Anh Le researches algorithms and the mathematical foundations of
 ---
 
 <figure class="hero-figure">
-  <img data-base64-image="/assets/img/algorithms-swarm.b64" data-base64-mime="image/webp" alt="A large flock moving collectively through the sky" width="1536" height="1047" loading="eager" decoding="async" fetchpriority="high">
+  <img src="{{ '/assets/img/algorithms-swarm.webp' | relative_url }}" alt="A large flock moving collectively through the sky" width="1536" height="1047" loading="eager" decoding="async" fetchpriority="high">
   <figcaption>Algorithms.</figcaption>
 </figure>
 
