@@ -56,7 +56,7 @@ description: Vu-Anh Le researches algorithms and the mathematical foundations of
         <p class="eyebrow">Jun 2024 - Aug 2024</p>
         <h3>MIT Summer Research Program Intern, Massachusetts Institute of Technology</h3>
         <p>Developed quantitative models and extended PyLENM, an open-source environmental informatics package.</p>
-        <p>Advised by <a href="https://cse.mit.edu/people/haruko-wainwright/">Prof. Haruko Wainwright</a> (MIT's Center for Computational Science and Engineering; Department of Nuclear Science and Engineering), PI at <a href="https://sites.google.com/mit.edu/h-wainwrights-group/group">Haruko Group</a>.</p>
+        <p>Advised by Prof. Haruko Wainwright (<a href="https://sites.google.com/mit.edu/h-wainwrights-group/group">Haruko Group</a>).</p>
       </div>
     </article>
   </div>
