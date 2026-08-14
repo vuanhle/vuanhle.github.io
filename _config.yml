@@ -13,8 +13,8 @@ baseurl: ""
 url: "https://vuanhle.github.io"
 
 # Search Engine Optimization (SEO)
-keywords: Vu-Anh Le, Le Vu Anh, AI-robotics, robotics, physical intelligence, constrained learning, robot perception, robot planning, robot control, University of Virginia
-description: Vu-Anh Le is a Computer Science Ph.D. student at the University of Virginia researching AI-robotics.
+keywords: Vu-Anh Le, Le Vu Anh, algorithms, mathematical foundations of machine learning, optimization, physics, control, autonomy, multi-agent systems, trajectory optimization, University of Virginia
+description: Vu-Anh Le is a Computer Science Ph.D. student at the University of Virginia researching algorithms, mathematical foundations of machine learning, and applications in physics, control, and autonomy.
 canonical: https://vuanhle.github.io/
 author: Vu-Anh Le
 lang: en-US
@@ -25,7 +25,7 @@ github_link: https://github.com/vuanhle
 linkedin: https://www.linkedin.com/in/levuanh
 
 # Images
-avatar: /assets/img/avatar-ai-robotics-embedded.svg
+avatar_base64: /assets/img/profile-2026.b64
 favicon: /assets/img/favicon.png
 favicon_dark: /assets/img/favicon-dark.png
 
