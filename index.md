@@ -1,26 +1,26 @@
 ---
 layout: homepage
-title: Vu-Anh Le | AI-Robotics
-description: Vu-Anh Le researches AI-robotics.
+title: Vu-Anh Le | Algorithms
+description: Vu-Anh Le researches algorithms and the mathematical foundations of machine learning.
 ---
 
 <figure class="hero-figure">
-  <img src="/assets/img/ai-robotics-hero-embedded.svg" alt="Robotic manipulation system performing a precision task" width="750" height="530" loading="eager" decoding="async" fetchpriority="high">
-  <figcaption>AI-Robotics.</figcaption>
+  <img data-base64-image="/assets/img/algorithms-swarm.b64" data-base64-mime="image/webp" alt="A large flock moving collectively through the sky" width="1536" height="1047" loading="eager" decoding="async" fetchpriority="high">
+  <figcaption>Algorithms.</figcaption>
 </figure>
 
 <section class="intro-panel">
-  <p class="eyebrow">AI-Robotics</p>
-  <h1>Advance physical intelligence</h1>
-  <p class="lead">I am Anh, a Ph.D. student in Computer Science at the University of Virginia and a researcher focused on AI-robotics.</p>
+  <p class="eyebrow">Algorithms</p>
+  <h1>Advance algorithms for learning and autonomy</h1>
+  <p class="lead">I am Anh, a Ph.D. student in Computer Science at the University of Virginia and a researcher focused on algorithms.</p>
   <div class="research-interest-grid" aria-label="Research interests">
     <article class="research-interest-card">
-      <h2>Constrained Learning</h2>
-      <p>Developing learning methods for robots that respect physical, safety, task, and interaction constraints while remaining adaptive under uncertainty.</p>
+      <h2>Mathematical Foundations of Machine Learning</h2>
+      <p>Studying the principles that govern learning algorithms, including optimization, generalization, structure, constraints, and theoretical guarantees for reliable decision-making.</p>
     </article>
     <article class="research-interest-card">
-      <h2>AI Apps in Robotics</h2>
-      <p>Applying AI to robot perception, planning, control, coordination, and embodied decision-making so autonomous systems can act reliably in the physical world.</p>
+      <h2>Applications in Physics, Control, and Autonomy</h2>
+      <p>Developing and analyzing algorithms for systems that interact with the physical world, including control and autonomous decision-making problems such as coordinating multi-agent trajectories.</p>
     </article>
   </div>
   <div class="cta-row">
@@ -39,15 +39,15 @@ description: Vu-Anh Le researches AI-robotics.
 
 <section>
   <h2>Experience</h2>
-  <p>I am shaping my career around research in AI-robotics.</p>
+  <p>I am shaping my career around research in algorithms.</p>
   <div class="experience-list">
     <article class="experience-item">
       <img src="/assets/img/logo-uva.webp" alt="University of Virginia logo" loading="lazy" decoding="async">
       <div>
         <p class="eyebrow">Aug 2026 - Present</p>
         <h3>Doctoral Student, University of Virginia</h3>
-        <p>Conducting Ph.D. research on AI-robotics.</p>
-        <p>Currently under 1st-year research rotations.</p>
+        <p>Conducting Ph.D. research on algorithms.</p>
+        <p>Advised by Prof. Ferdinando Fioretto (<a href="https://nandofioretto.github.io/group/">RAISE Lab</a>).</p>
       </div>
     </article>
     <article class="experience-item">
@@ -70,7 +70,7 @@ description: Vu-Anh Le researches AI-robotics.
 <section>
   <h2>News</h2>
   <ul class="tight-list">
-    <li><strong>Aug. 2026:</strong> Starting my Ph.D. in Computer Science at the University of Virginia as part of the RAISE group.</li>
+    <li><strong>Aug. 2026:</strong> Starting my Ph.D. in Computer Science at the University of Virginia.</li>
     <li><strong>2025:</strong> RN-F appears in the ICML 2025 DIG-BUGS workshop program.</li>
   </ul>
 </section>
