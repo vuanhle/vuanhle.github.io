@@ -13,8 +13,8 @@ baseurl: ""
 url: "https://vuanhle.github.io"
 
 # Search Engine Optimization (SEO)
-keywords: Vu-Anh Le, Le Vu Anh, algorithms, mathematical foundations of machine learning, optimization, physics, control, autonomy, multi-agent systems, trajectory optimization, University of Virginia
-description: Vu-Anh Le is a Computer Science Ph.D. student at the University of Virginia researching algorithms, mathematical foundations of machine learning, and applications in physics, control, and autonomy.
+keywords: Vu-Anh Le, Le Vu Anh, autonomous physical systems, physical autonomy, robotics, mathematical foundations of autonomous systems, optimization, planning, control, embodied learning, multi-agent systems, coordination, governance, University of Virginia
+description: Vu-Anh Le is a Computer Science Ph.D. student at the University of Virginia researching autonomous physical systems, their mathematical foundations, physical-autonomy algorithms, and multi-agent coordination and governance.
 canonical: https://vuanhle.github.io/
 author: Vu-Anh Le
 lang: en-US

@@ -1,28 +1,35 @@
 ---
 layout: homepage
-title: Vu-Anh Le | Algorithms
-description: Vu-Anh Le researches algorithms and the mathematical foundations of machine learning.
+title: Vu-Anh Le | Autonomous Physical Systems
+description: Vu-Anh Le researches autonomous physical systems, including their mathematical foundations, physical-autonomy algorithms, and multi-agent coordination and governance.
 ---
 
 <figure class="hero-figure">
-  <img src="{{ '/assets/img/algorithms-swarm.webp' | relative_url }}" alt="A large flock moving collectively through the sky" width="1536" height="1047" loading="eager" decoding="async" fetchpriority="high">
-  <figcaption>Algorithms.</figcaption>
+  <img src="{{ '/assets/img/autonomous-agriculture.jpg' | relative_url }}" alt="Autonomous agricultural drone and tractor operating in a field" width="1080" height="608" loading="eager" decoding="async" fetchpriority="high">
+  <figcaption>Autonomous Physical Systems.</figcaption>
 </figure>
 
 <section class="intro-panel">
-  <p class="eyebrow">Algorithms</p>
-  <h1>Advance algorithms for learning and autonomy</h1>
-  <p class="lead">I am Anh, a Ph.D. student in Computer Science at the University of Virginia and a researcher focused on algorithms.</p>
+  <p class="eyebrow">Autonomous Physical Systems</p>
+  <h1>Advance physical autonomy</h1>
+  <p class="lead">I am Anh, a Ph.D. student in Computer Science at the University of Virginia and a researcher focused on autonomy systems.</p>
   <div class="research-interest-grid" aria-label="Research interests">
     <article class="research-interest-card">
-      <h2>Mathematical Foundations of Machine Learning</h2>
-      <p>Studying the principles that govern learning algorithms, including optimization, generalization, structure, constraints, and theoretical guarantees for reliable decision-making.</p>
+      <h2>Mathematical Foundations of Autonomous Systems</h2>
+      <p>Building mathematical tools for reliable autonomous decisions: optimization and structured learning under constraints and uncertainty, multi-agent decision-making, generalization, and formal guarantees.</p>
     </article>
     <article class="research-interest-card">
-      <h2>Applications in Physics, Control, and Autonomy</h2>
-      <p>Developing and analyzing algorithms for systems that interact with the physical world, including control and autonomous decision-making problems such as coordinating multi-agent trajectories.</p>
+      <h2>Algorithms for Physical Autonomy</h2>
+      <p>Designing planning, control, and learning methods that let robots and other embodied systems model their surroundings and act safely in the physical world, individually and in teams.</p>
+    </article>
+    <article class="research-interest-card">
+      <h2>Incentives, Coordination, and Governance of Multi-Agent Autonomous Systems</h2>
+      <p>Studying how autonomous agents cooperate, compete, and follow shared rules, using incentives, coordination mechanisms, and governance to align collective behavior with human goals.</p>
     </article>
   </div>
+  <figure class="research-figure-frame">
+    <img class="research-figure" src="{{ '/assets/img/autonomous-orbital-robotics.jpg' | relative_url }}" alt="Future robots assembling a telescope in low Earth orbit" width="780" height="456" loading="lazy" decoding="async">
+  </figure>
   <div class="cta-row">
     <a class="button-link button-link-strong" href="/research/">Research</a>
     <a class="button-link button-link-strong" href="mailto:mcu7uh@virginia.edu">Contact Me</a>
@@ -39,14 +46,14 @@ description: Vu-Anh Le researches algorithms and the mathematical foundations of
 
 <section>
   <h2>Experience</h2>
-  <p>I am shaping my career around research in algorithms.</p>
+  <p>I am shaping my research around autonomous physical systems.</p>
   <div class="experience-list">
     <article class="experience-item">
       <img src="/assets/img/logo-uva.webp" alt="University of Virginia logo" loading="lazy" decoding="async">
       <div>
         <p class="eyebrow">Aug 2026 - Present</p>
         <h3>Doctoral Student, University of Virginia</h3>
-        <p>Conducting Ph.D. research on algorithms.</p>
+        <p>Conducting Ph.D. research on autonomous physical systems.</p>
         <p>Advised by Prof. Ferdinando Fioretto (<a href="https://nandofioretto.github.io/group/">RAISE Lab</a>).</p>
       </div>
     </article>
