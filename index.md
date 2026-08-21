@@ -1,34 +1,29 @@
 ---
 layout: homepage
-title: Vu-Anh Le | Autonomous Physical Systems
-description: Vu-Anh Le researches autonomous physical systems, including their mathematical foundations, physical-autonomy algorithms, and multi-agent coordination and governance.
+title: Vu-Anh Le | Deep Learning Theory
+description: Vu-Anh Le researches deep learning theory and its applications in engineering, especially control and autonomy.
 ---
 
 <figure class="hero-figure">
-  <img src="{{ '/assets/img/autonomous-agriculture.jpg' | relative_url }}" alt="Autonomous agricultural drone and tractor operating in a field" width="1080" height="608" loading="eager" decoding="async" fetchpriority="high">
-  <figcaption>Autonomous Physical Systems.</figcaption>
+  <img src="{{ '/assets/img/equation-deep-learning.svg' | relative_url }}" alt="Fundamental equations for empirical risk minimization, deep neural networks, and gradient descent" width="1200" height="675" loading="eager" decoding="async" fetchpriority="high">
+  <figcaption>Deep learning theory.</figcaption>
 </figure>
 
 <section class="intro-panel">
-  <p class="eyebrow">Autonomous Physical Systems</p>
-  <h1>Advance physical autonomy</h1>
-  <p class="lead">I am Anh, a Ph.D. student in Computer Science at the University of Virginia and a researcher focused on autonomy systems.</p>
+  <p class="eyebrow">Deep learning theory</p>
+  <p class="lead">I am Anh, a Ph.D. student in Computer Science at the University of Virginia and a researcher focused on deep learning theory.</p>
   <div class="research-interest-grid" aria-label="Research interests">
     <article class="research-interest-card">
-      <h2>Mathematical Foundations of Autonomous Systems</h2>
-      <p>Building mathematical tools for reliable autonomous decisions: optimization and structured learning under constraints and uncertainty, multi-agent decision-making, generalization, and formal guarantees.</p>
+      <h2>Deep learning theory</h2>
+      <p>I study the mathematical principles that explain how deep neural networks represent patterns, optimize successfully, and generalize beyond their training data.</p>
     </article>
     <article class="research-interest-card">
-      <h2>Algorithms for Physical Autonomy</h2>
-      <p>Designing planning, control, and learning methods that let robots and other embodied systems model their surroundings and act safely in the physical world, individually and in teams.</p>
-    </article>
-    <article class="research-interest-card">
-      <h2>Incentives, Coordination, and Governance of Multi-Agent Autonomous Systems</h2>
-      <p>Studying how autonomous agents cooperate, compete, and follow shared rules, using incentives, coordination mechanisms, and governance to align collective behavior with human goals.</p>
+      <h2>Applications in engineering, especially control and autonomy</h2>
+      <p>I translate learning theory into methods for dynamical and decision-making systems, especially control and autonomy, where models must act reliably under uncertainty and physical constraints.</p>
     </article>
   </div>
   <figure class="research-figure-frame">
-    <img class="research-figure" src="{{ '/assets/img/autonomous-orbital-robotics.jpg' | relative_url }}" alt="Future robots assembling a telescope in low Earth orbit" width="780" height="456" loading="lazy" decoding="async">
+    <img class="research-figure" src="{{ '/assets/img/equation-control.svg' | relative_url }}" alt="Fundamental equations for state-space dynamics, optimal control, and feedback control" width="1200" height="675" loading="lazy" decoding="async">
   </figure>
   <div class="cta-row">
     <a class="button-link button-link-strong" href="/research/">Research</a>
@@ -46,14 +41,14 @@ description: Vu-Anh Le researches autonomous physical systems, including their m
 
 <section>
   <h2>Experience</h2>
-  <p>I am shaping my research around autonomous physical systems.</p>
+  <p>I am shaping my research around deep learning theory and its engineering applications.</p>
   <div class="experience-list">
     <article class="experience-item">
       <img src="/assets/img/logo-uva.webp" alt="University of Virginia logo" loading="lazy" decoding="async">
       <div>
         <p class="eyebrow">Aug 2026 - Present</p>
         <h3>Doctoral Student, University of Virginia</h3>
-        <p>Conducting Ph.D. research on autonomous physical systems.</p>
+        <p>Conducting Ph.D. research on deep learning theory.</p>
         <p>Advised by Prof. Ferdinando Fioretto (<a href="https://nandofioretto.github.io/group/">RAISE Lab</a>).</p>
       </div>
     </article>

@@ -1,20 +1,19 @@
 ---
 layout: homepage
 title: Research | Vu-Anh Le
-description: Vu-Anh Le's research in autonomous physical systems, spanning mathematical foundations, physical-autonomy algorithms, and multi-agent coordination and governance.
+description: Vu-Anh Le's research in deep learning theory and its applications in engineering, especially control and autonomy.
 permalink: /research/
 ---
 
 # Research
 
-<p class="lead">My research centers on autonomous physical systems: developing mathematical foundations, algorithms for safe physical autonomy, and mechanisms for coordinating and governing multi-agent systems.</p>
+<p class="lead">My research centers on deep learning theory and its applications in engineering, especially control and autonomy.</p>
 
 ## Research Directions
 
-- **Mathematical Foundations of Autonomous Systems:** building mathematical tools for reliable autonomous decisions, including optimization, generalization, structured and constrained learning, uncertainty, multi-agent decision-making, and formal guarantees.
-- **Algorithms for Physical Autonomy:** designing planning, control, and learning methods that let robots and other embodied systems model their surroundings and act safely in the physical world, individually and in teams.
-- **Incentives, Coordination, and Governance of Multi-Agent Autonomous Systems:** studying how autonomous agents cooperate, compete, and follow shared rules, using incentives, coordination mechanisms, and governance to align collective behavior with human goals.
+- **Deep learning theory:** studying the mathematical principles behind representation, optimization, training dynamics, implicit bias, and generalization in deep neural networks.
+- **Applications in engineering, especially control and autonomy:** translating learning methods into reliable tools for dynamical and decision-making systems operating under uncertainty and physical constraints.
 
 <figure class="research-figure-frame">
-  <img class="research-figure" src="{{ '/assets/img/autonomous-orbital-robotics.jpg' | relative_url }}" alt="Future robots assembling a telescope in low Earth orbit" width="780" height="456" loading="lazy" decoding="async">
+  <img class="research-figure" src="{{ '/assets/img/equation-control.svg' | relative_url }}" alt="Fundamental equations for state-space dynamics, optimal control, and feedback control" width="1200" height="675" loading="lazy" decoding="async">
 </figure>
