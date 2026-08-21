@@ -4,11 +4,6 @@ title: Vu-Anh Le | Deep Learning Theory
 description: Vu-Anh Le researches deep learning theory and its applications in engineering, especially control and autonomy.
 ---
 
-<figure class="hero-figure">
-  <img src="{{ '/assets/img/equation-deep-learning.svg' | relative_url }}" alt="Fundamental equations for empirical risk minimization, deep neural networks, and gradient descent" width="1200" height="675" loading="eager" decoding="async" fetchpriority="high">
-  <figcaption>Deep learning theory.</figcaption>
-</figure>
-
 <section class="intro-panel">
   <p class="eyebrow">Deep learning theory</p>
   <p class="lead">I am Anh, a Ph.D. student in Computer Science at the University of Virginia and a researcher focused on deep learning theory.</p>
@@ -22,9 +17,6 @@ description: Vu-Anh Le researches deep learning theory and its applications in e
       <p>I translate learning theory into methods for dynamical and decision-making systems, especially control and autonomy, where models must act reliably under uncertainty and physical constraints.</p>
     </article>
   </div>
-  <figure class="research-figure-frame">
-    <img class="research-figure" src="{{ '/assets/img/equation-control.svg' | relative_url }}" alt="Fundamental equations for state-space dynamics, optimal control, and feedback control" width="1200" height="675" loading="lazy" decoding="async">
-  </figure>
   <div class="cta-row">
     <a class="button-link button-link-strong" href="/research/">Research</a>
     <a class="button-link button-link-strong" href="mailto:mcu7uh@virginia.edu">Contact Me</a>

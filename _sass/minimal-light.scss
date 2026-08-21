@@ -186,19 +186,6 @@ header h1 {
   text-decoration: underline;
 }
 
-.hero-figure {
-  margin: 0 0 30px;
-}
-
-.hero-figure img,
-.research-figure {
-  display: block;
-  width: 100%;
-  height: auto;
-  border: 1px solid var(--line);
-  background: #ffffff;
-}
-
 figcaption {
   margin-top: 8px;
   color: #666666;
@@ -248,11 +235,6 @@ figcaption {
 
 .research-interest-card p {
   margin: 0;
-}
-
-.research-figure-frame {
-  width: 100%;
-  margin: 30px 0;
 }
 
 .cta-row {
