@@ -1,20 +1,19 @@
 ---
 layout: homepage
-title: Vu-Anh Le | Deep Learning Theory
-description: Vu-Anh Le researches deep learning theory and its applications in engineering, especially control and autonomy.
+title: Vu-Anh Le | Autonomous Systems
+description: Vu-Anh Le researches autonomous systems, focusing on learning algorithms and mechanisms for incentives, coordination, and task delegation in multiagent systems.
 ---
 
 <section class="intro-panel">
-  <p class="eyebrow">Deep learning theory</p>
-  <p class="lead">I am Anh, a Ph.D. student in Computer Science at the University of Virginia and a researcher focused on deep learning theory.</p>
+  <p class="lead">I am Anh, a Ph.D. student in Computer Science at the University of Virginia and a researcher focused on autonomous systems.</p>
   <div class="research-interest-grid" aria-label="Research interests">
     <article class="research-interest-card">
-      <h2>Deep learning theory</h2>
-      <p>I study the mathematical principles that explain how deep neural networks represent patterns, optimize successfully, and generalize beyond their training data.</p>
+      <h2>Learning algorithms for autonomous systems</h2>
+      <p>I develop learning algorithms that help autonomous systems perceive uncertain environments, learn useful representations and world models, and choose safe, effective actions. My interests include learning-enabled planning and control, adaptation from limited data, decision-making under uncertainty, and reliability under physical constraints.</p>
     </article>
     <article class="research-interest-card">
-      <h2>Applications in engineering, especially control and autonomy</h2>
-      <p>I translate learning theory into methods for dynamical and decision-making systems, especially control and autonomy, where models must act reliably under uncertainty and physical constraints.</p>
+      <h2>Incentives, coordination, and task delegation of multiagent autonomous systems</h2>
+      <p>I study how teams of autonomous agents divide work, exchange information, and coordinate decisions when their goals, capabilities, and information differ. This includes incentive design, distributed coordination, dynamic task allocation and delegation, negotiation, and mechanisms that make collective behavior efficient, robust, and aligned with system-level objectives.</p>
     </article>
   </div>
   <div class="cta-row">
@@ -33,14 +32,14 @@ description: Vu-Anh Le researches deep learning theory and its applications in e
 
 <section>
   <h2>Experience</h2>
-  <p>I am shaping my research around deep learning theory and its engineering applications.</p>
+  <p>I am shaping my research around autonomous systems.</p>
   <div class="experience-list">
     <article class="experience-item">
       <img src="/assets/img/logo-uva.webp" alt="University of Virginia logo" loading="lazy" decoding="async">
       <div>
         <p class="eyebrow">Aug 2026 - Present</p>
         <h3>Doctoral Student, University of Virginia</h3>
-        <p>Conducting Ph.D. research on deep learning theory.</p>
+        <p>Conducting Ph.D. research on autonomous systems.</p>
         <p>Advised by Prof. Ferdinando Fioretto (<a href="https://nandofioretto.github.io/group/">RAISE Lab</a>).</p>
       </div>
     </article>
